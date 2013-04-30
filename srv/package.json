@@ -1,0 +1,18 @@
+{
+	"name": "adsf",
+	"version": "0.0.0",
+	"description": "",
+	"author": "A. Matías Quezada <amatiasq@gmail.com>",
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest"
+	},
+	"devDependencies": {
+		"esprima": "1.0.x",
+		"sinon": "1.5.x",
+		"assert": "0.4.x"
+	},
+	"scripts": {
+		"test": "esvalidate src/* test/* && jshint . && mocha test/run"
+	}
+}
