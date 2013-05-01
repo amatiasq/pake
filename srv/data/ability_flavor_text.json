@@ -1,0 +1,6536 @@
+[
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Helps repel wild POKéMON.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Helps repel wild POKéMON.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Helps repel wild POKéMON.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The stench helps keep\nwild Pokémon away.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The stench helps keep\nwild Pokémon away.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The stench helps keep\nwild Pokémon away.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "La puanteur peut\neffrayer l’adversaire.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The stench may cause\nthe target to flinch.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The stench may cause\nthe target to flinch.",
+    "ability_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Summons rain in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Summons rain in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Summons rain in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon makes it rain\nif it appears in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon makes it rain\nif it appears in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon makes it rain\nif it appears in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon invoque la pluie\nquand il entre au combat.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon makes it rain\nif it appears in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon makes it rain\nif it appears in battle.",
+    "ability_id" : 2
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Gradually boosts SPEED.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Gradually boosts SPEED.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Gradually boosts SPEED.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon’s Speed stat\nis gradually boosted.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon’s Speed stat\nis gradually boosted.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Its Speed stat is\ngradually boosted.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "La Vitesse du Pokémon\naugmente progressivement.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Its Speed stat is\ngradually boosted.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Its Speed stat is\ngradually boosted.",
+    "ability_id" : 3
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon est protégé\ndes coups critiques.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 4
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Negates 1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Negates 1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Negates 1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is protected\nagainst 1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is protected\nagainst 1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "It is protected against\n1-hit KO attacks.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège des capacités\nmettant K.O. en un coup.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "It cannot be knocked\nout with one hit.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "It cannot be knocked\nout with one hit.",
+    "ability_id" : 5
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents self-destruction.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents self-destruction.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents self-destruction.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents combatants from\nself destructing.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents combatants from\nself destructing.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents combatants\nfrom self-destructing.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche les combattants\nde s’autodétruire.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the use of\nself-destructing moves.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the use of\nself-destructing moves.",
+    "ability_id" : 6
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is protected\nfrom paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is protected\nfrom paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon is protected\nfrom paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège le Pokémon de\nla paralysie.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon is protected\nfrom paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon is protected\nfrom paralysis.",
+    "ability_id" : 7
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups evasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups evasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups evasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the Pokémon’s\nevasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the Pokémon’s\nevasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the Pokémon’s\nevasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Esquive lors\ndes tempêtes de sable.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the Pokémon’s\nevasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the Pokémon’s\nevasion in a sandstorm.",
+    "ability_id" : 8
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Paralyzes on contact.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Paralyzes on contact.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Paralyzes on contact.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Contact with the Pokémon\nmay cause paralysis.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Contact with the Pokémon\nmay cause paralysis.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Contact with the Pokémon\nmay cause paralysis.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Un contact avec le\nPokémon peut paralyser.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact with the Pokémon\nmay cause paralysis.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact with the Pokémon\nmay cause paralysis.",
+    "ability_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Turns electricity into HP.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Turns electricity into HP.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Turns electricity into HP.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Restores HP if hit by an\nElectric-type move.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Restores HP if hit by an\nElectric-type move.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Restores HP if hit by an\nElectric-type move.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Récupère des PV si touché\npar une capacité Électrik.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Restores HP if hit by an\nElectric-type move.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Restores HP if hit by an\nElectric-type move.",
+    "ability_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Changes water into HP.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Changes water into HP.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Changes water into HP.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Restores HP if hit by a\nWater-type move.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Restores HP if hit by a\nWater-type move.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Restores HP if hit by a\nWater-type move.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Récupère des PV si touché\npar une capacité Eau.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Restores HP if hit by a\nWater-type move.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Restores HP if hit by a\nWater-type move.",
+    "ability_id" : 11
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents attraction.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents attraction.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents attraction.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming infatuated.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming infatuated.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents it from\nbecoming infatuated.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon de\ntomber amoureux.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents it from\nbecoming infatuated.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents it from\nbecoming infatuated.",
+    "ability_id" : 12
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Annule les effets du\nclimat.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 13
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises accuracy.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises accuracy.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises accuracy.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon’s accuracy is\nboosted.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon’s accuracy is\nboosted.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon’s accuracy\nis boosted.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Précision du\nPokémon.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon’s accuracy\nis boosted.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon’s accuracy\nis boosted.",
+    "ability_id" : 14
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon de\ns’endormir.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 15
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Changes type to foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Changes type to foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Changes type to foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Changes the Pokémon’s\ntype to the foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Changes the Pokémon’s\ntype to the foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Changes the Pokémon’s\ntype to the foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon adopte le type\nde la capacité ennemie.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Changes the Pokémon’s\ntype to the foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Changes the Pokémon’s\ntype to the foe’s move.",
+    "ability_id" : 16
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents poisoning.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents poisoning.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents poisoning.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting poisoned.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting poisoned.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting poisoned.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon d’être\nempoisonné.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting poisoned.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting poisoned.",
+    "ability_id" : 17
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Powers up if hit by fire.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Powers up if hit by fire.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Powers up if hit by fire.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up Fire-type moves\nif hit by a fire move.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up Fire-type moves\nif hit by a fire move.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "It powers up Fire-type\nmoves if it’s hit by one.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste capacités Feu si\ntouché par attaques Feu.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "It powers up Fire-type\nmoves if it’s hit by one.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "It powers up Fire-type\nmoves if it’s hit by one.",
+    "ability_id" : 18
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents added effects.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents added effects.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents added effects.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Blocks the added effects\nof attacks taken.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Blocks the added effects\nof attacks taken.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Blocks the added effects\nof attacks taken.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Annule les effets cumulés\nd’une attaque ennemie.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Blocks the added effects\nof attacks taken.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Blocks the added effects\nof attacks taken.",
+    "ability_id" : 19
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents confusion.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents confusion.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents confusion.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming confused.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming confused.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming confused.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche la confusion.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming confused.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming confused.",
+    "ability_id" : 20
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Firmly anchors the body.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Firmly anchors the body.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Firmly anchors the body.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Negates moves that\nforce switching out.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Negates moves that\nforce switching out.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Negates foes’ moves that\nforce switching out.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Annule les cap. et obj. qui\nfont changer de Pokémon.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Negates all moves that\nforce switching out.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Negates all moves that\nforce switching out.",
+    "ability_id" : 21
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Lowers the foe’s ATTACK.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Lowers the foe’s ATTACK.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Lowers the foe’s ATTACK.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Lowers the foe’s Attack\nstat.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Lowers the foe’s Attack\nstat.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Lowers the foe’s\nAttack stat.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Baisse l’Attaque ennemie.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Lowers the foe’s\nAttack stat.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Lowers the foe’s\nAttack stat.",
+    "ability_id" : 22
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents the foe’s escape.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents the foe’s escape.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents the foe’s escape.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the foe from\nescaping.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the foe from\nescaping.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the foe from\nescaping.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon ennemi\nde quitter le combat.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the foe from\nescaping.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the foe from\nescaping.",
+    "ability_id" : 23
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Hurts to touch.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Hurts to touch.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Hurts to touch.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Inflicts damage to the\nfoe on contact.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Inflicts damage to the\nfoe on contact.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Inflicts damage to the\nfoe on contact.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon blesse\nl’ennemi qui le touche.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Inflicts damage to the\nattacker on contact.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Inflicts damage to the\nattacker on contact.",
+    "ability_id" : 24
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "“Super effective” hits.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "“Super effective” hits.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "“Super effective” hits.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Only supereffective\nmoves will hit.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Only supereffective\nmoves will hit.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Only supereffective\nmoves will hit.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Seules capacités “super\nefficaces” l’atteignent.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Only supereffective\nmoves will hit.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Only supereffective\nmoves will hit.",
+    "ability_id" : 25
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Not hit by GROUND attacks.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Not hit by GROUND attacks.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Not hit by GROUND attacks.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Gives full immunity to all\nGround-type moves.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Gives full immunity to all\nGround-type moves.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Gives full immunity to all\nGround-type moves.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Immunise contre toutes\nles capacités de type Sol.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Gives full immunity to all\nGround-type moves.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Gives full immunity to all\nGround-type moves.",
+    "ability_id" : 26
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Leaves spores on contact.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Leaves spores on contact.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Leaves spores on contact.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Contact may paralyze,\npoison, or cause sleep.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Contact may paralyze,\npoison, or cause sleep.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Contact may paralyze,\npoison, or cause sleep.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Peut paralyser, empoison-\nner, endormir au contact.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact may poison or\ncause paralysis or sleep.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact may poison or\ncause paralysis or sleep.",
+    "ability_id" : 27
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Passes on status problems.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Passes on status problems.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Passes on status problems.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Passes on a burn, poison,\nor paralysis to the foe.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Passes on a burn, poison,\nor paralysis to the foe.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Passes a burn, poison,\nor paralysis to the foe.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Transmet brûlure, poison\nou paralysie à l’ennemi.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Passes a burn, poison,\nor paralysis to the foe.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Passes a burn, poison,\nor paralysis to the foe.",
+    "ability_id" : 28
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon’s\nstats from being lowered.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon’s\nstats from being lowered.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents its stats from\nbeing lowered.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche les stats\ndu Pokémon de baisser.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering its stats.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering its stats.",
+    "ability_id" : 29
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Heals upon switching out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Heals upon switching out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Heals upon switching out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "All status problems are\nhealed upon switching out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "All status problems are\nhealed upon switching out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "All status problems heal\nwhen it switches out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Quitter le combat soigne\nles problèmes de statut.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "All status problems heal\nwhen it switches out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "All status problems heal\nwhen it switches out.",
+    "ability_id" : 30
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Draws electrical moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Draws electrical moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Draws electrical moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon draws in all\nElectric-type moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon draws in all\nElectric-type moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon draws in all\nElectric-type moves.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Attire l’électricité et\naugmente l’Atq. Spé.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Draws in all Electric-type\nmoves to up Sp. Attack.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Draws in all Electric-type\nmoves to up Sp. Attack.",
+    "ability_id" : 31
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Promotes added effects.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Promotes added effects.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Promotes added effects.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the likelihood of\nadded effects appearing.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the likelihood of\nadded effects appearing.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the likelihood of\nadded effects appearing.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la fréquence\ndu cumul d’effets.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the likelihood of\nadded effects appearing.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the likelihood of\nadded effects appearing.",
+    "ability_id" : 32
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises SPEED in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises SPEED in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises SPEED in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vitesse du\nPokémon s’il pleut.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in rain.",
+    "ability_id" : 33
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises SPEED in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises SPEED in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises SPEED in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vitesse du\nPokémon s’il y a du soleil.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in sunshine.",
+    "ability_id" : 34
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Encounter rate increases.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Encounter rate increases.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Encounter rate increases.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises the likelihood of\nmeeting wild Pokémon.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises the likelihood of\nmeeting wild Pokémon.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises the likelihood of\nmeeting wild Pokémon.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente les rencontres\navec Pokémon sauvages.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises the likelihood of\nmeeting wild Pokémon.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises the likelihood of\nmeeting wild Pokémon.",
+    "ability_id" : 35
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Copies special ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Copies special ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Copies special ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon copies the\nfoe’s ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon copies the\nfoe’s ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon copies the\nfoe’s ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Imite la capacité spéciale\nde l’ennemi.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon copies a\nfoe’s Ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon copies a\nfoe’s Ability.",
+    "ability_id" : 36
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Attaque du\nPokémon.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 37
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Poisons foe on contact.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Poisons foe on contact.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Poisons foe on contact.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Contact with the Pokémon\nmay poison the foe.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Contact with the Pokémon\nmay poison the foe.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Contact with the Pokémon\nmay poison the foe.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Peut empoisonner l’ennemi\ns’il y a contact.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact with the Pokémon\nmay poison the attacker.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact with the Pokémon\nmay poison the attacker.",
+    "ability_id" : 38
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is protected\nfrom flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is protected\nfrom flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon is protected\nfrom flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon\nd’avoir peur.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon is protected\nfrom flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon is protected\nfrom flinching.",
+    "ability_id" : 39
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents freezing.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents freezing.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents freezing.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming frozen.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming frozen.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming frozen.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège le Pokémon\ncontre le gel.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming frozen.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom becoming frozen.",
+    "ability_id" : 40
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents burns.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents burns.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents burns.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting a burn.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting a burn.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting a burn.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège le Pokémon\ndes brûlures.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting a burn.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom getting a burn.",
+    "ability_id" : 41
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Traps STEEL-type POKéMON.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Traps STEEL-type POKéMON.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Traps STEEL-type POKéMON.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents Steel-type\nPokémon from escaping.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents Steel-type\nPokémon from escaping.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents Steel-type\nPokémon from escaping.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche les Pokémon Acier\nde fuir.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents Steel-type\nPokémon from escaping.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents Steel-type\nPokémon from escaping.",
+    "ability_id" : 42
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Avoids sound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Avoids sound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Avoids sound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Gives full immunity to all\nsound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Gives full immunity to all\nsound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Gives full immunity to all\nsound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège de toutes les\ncapacités sonores.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Gives full immunity to all\nsound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Gives full immunity to all\nsound-based moves.",
+    "ability_id" : 43
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Slight HP recovery in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Slight HP recovery in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Slight HP recovery in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon gradually\nrecovers HP in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon gradually\nrecovers HP in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon gradually\nrecovers HP in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Récupère progressivement\ndes PV par temps de pluie.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon gradually\nregains HP in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon gradually\nregains HP in rain.",
+    "ability_id" : 44
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Summons a sandstorm.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Summons a sandstorm.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Summons a sandstorm.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon summons a\nsandstorm in battle.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon summons a\nsandstorm in battle.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon summons a\nsandstorm in battle.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon invoque une\ntempête de sable.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon summons a\nsandstorm in battle.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon summons a\nsandstorm in battle.",
+    "ability_id" : 45
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises foe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises foe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises foe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon raises the\nfoe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon raises the\nfoe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon raises the\nfoe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Force l’ennemi à\ndépenser plus de PP.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon raises the\nfoe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon raises the\nfoe’s PP usage.",
+    "ability_id" : 46
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Heat-and-cold protection.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Heat-and-cold protection.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Heat-and-cold protection.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises resistance to Fire-​\nand Ice-type moves.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises resistance to Fire-​\nand Ice-type moves.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ups resistance to Fire-​\nand Ice-type moves.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la résistance\naux cap. Feu et Glace.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ups resistance to Fire-\nand Ice-type moves.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ups resistance to Fire-\nand Ice-type moves.",
+    "ability_id" : 47
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Awakens quickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Awakens quickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Awakens quickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon awakens\nquickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon awakens\nquickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon awakens\nquickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon se réveille\nplus rapidement.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon awakens\nquickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon awakens\nquickly from sleep.",
+    "ability_id" : 48
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Burns the foe on contact.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Burns the foe on contact.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Burns the foe on contact.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Contact with the Pokémon\nmay burn the foe.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Contact with the Pokémon\nmay burn the foe.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Contact with the Pokémon\nmay burn the foe.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Peut brûler l’ennemi s’il y\na contact.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact with the Pokémon\nmay burn the attacker.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact with the Pokémon\nmay burn the attacker.",
+    "ability_id" : 49
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Makes escaping easier.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Makes escaping easier.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Makes escaping easier.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Enables sure getaway from\nwild Pokémon.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Enables sure getaway from\nwild Pokémon.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Enables sure getaway\nfrom wild Pokémon.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Permet de fuir n’importe\nquel Pokémon sauvage.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Enables a sure getaway\nfrom wild Pokémon.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Enables a sure getaway\nfrom wild Pokémon.",
+    "ability_id" : 50
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents loss of accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents loss of accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents loss of accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom losing accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom losing accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom losing accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon de\nperdre en Précision.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering accuracy.",
+    "ability_id" : 51
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents ATTACK reduction.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents ATTACK reduction.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents ATTACK reduction.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Attack stat\nfrom being lowered.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Attack stat\nfrom being lowered.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Attack\nstat from being lowered.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche la réduction de\nl’Attaque.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering Attack stat.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering Attack stat.",
+    "ability_id" : 52
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "May pick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "May pick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "May pick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon may pick up\nitems.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon may pick up\nitems.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon may\npick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Permet parfois au Pokémon\nde ramasser des objets.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon may\npick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon may\npick up items.",
+    "ability_id" : 53
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Moves only every two turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Moves only every two turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Moves only every two turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon can’t attack\non consecutive turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon can’t attack\non consecutive turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Pokémon can’t attack\non consecutive turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon ne frappe\nqu’un tour sur deux.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Pokémon can’t attack\non consecutive turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Pokémon can’t attack\non consecutive turns.",
+    "ability_id" : 54
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Trades accuracy for power.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Trades accuracy for power.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Trades accuracy for power.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the Attack stat,\nbut lowers accuracy.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the Attack stat,\nbut lowers accuracy.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the Attack stat,\nbut lowers accuracy.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Améliore l’Attaque mais\ndiminue la Précision.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the Attack stat,\nbut lowers accuracy.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the Attack stat,\nbut lowers accuracy.",
+    "ability_id" : 55
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Infatuates on contact.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Infatuates on contact.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Infatuates on contact.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Contact with the Pokémon\nmay cause infatuation.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Contact with the Pokémon\nmay cause infatuation.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Contact with the Pokémon\nmay cause infatuation.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Séduit parfois l’ennemi\nau contact.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact with the Pokémon\nmay cause infatuation.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact with the Pokémon\nmay cause infatuation.",
+    "ability_id" : 56
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Powers up with MINUS.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Powers up with MINUS.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Powers up with MINUS.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Sp. Atk if another\nPokémon has Minus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Sp. Atk if another\nPokémon has Minus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Minus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Plus or Minus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Plus or Minus.",
+    "ability_id" : 57
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Powers up with PLUS.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Powers up with PLUS.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Powers up with PLUS.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Sp. Atk if another\nPokémon has Plus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Sp. Atk if another\nPokémon has Plus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Plus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Plus or Minus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ups Sp. Atk if another\nPokémon has Plus or Minus.",
+    "ability_id" : 58
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Changes with the weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Changes with the weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Changes with the weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "CASTFORM transforms with\nthe weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "CASTFORM transforms with\nthe weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "CASTFORM transforms with\nthe weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Morphéo change de forme\nselon le climat.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Castform transforms with\nthe weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Castform transforms with\nthe weather.",
+    "ability_id" : 59
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Protects the Pokémon\nfrom item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Protects the Pokémon\nfrom item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Protects the Pokémon\nfrom item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Fait s’agripper à l’objet\npour en empêcher le vol.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Protects the Pokémon\nfrom item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Protects the Pokémon\nfrom item theft.",
+    "ability_id" : 60
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Heals the body by shedding.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Heals the body by shedding.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Heals the body by shedding.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon may heal its\nown status problems.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon may heal its\nown status problems.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon may heal its\nown status problems.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon soigne parfois\nses problèmes de statut.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon may heal its\nown status problems.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon may heal its\nown status problems.",
+    "ability_id" : 61
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups ATTACK if suffering.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups ATTACK if suffering.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups ATTACK if suffering.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Attack if there is\na status problem.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Attack if there is\na status problem.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts Attack if there is\na status problem.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Attaque s’il y\na un problème de statut.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts Attack if there is\na status problem.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts Attack if there is\na status problem.",
+    "ability_id" : 62
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups DEFENSE if suffering.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups DEFENSE if suffering.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups DEFENSE if suffering.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Defense if there is\na status problem.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Defense if there is\na status problem.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ups Defense if there is\na status problem.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Défense s’il y\na un problème de statut.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ups Defense if there is\na status problem.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ups Defense if there is\na status problem.",
+    "ability_id" : 63
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Draining causes injury.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Draining causes injury.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Draining causes injury.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Inflicts damage on foes\nusing any draining move.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Inflicts damage on foes\nusing any draining move.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Inflicts damage on foes\nusing any draining move.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Blesse l’ennemi qui draine\nl’énergie du Pokémon.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Damages attackers\nusing any draining move.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Damages attackers\nusing any draining move.",
+    "ability_id" : 64
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups GRASS moves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups GRASS moves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups GRASS moves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up Grass-type\nmoves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up Grass-type\nmoves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up Grass-type\nmoves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les capacités\nPlante en cas de besoin.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up Grass-type\nmoves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up Grass-type\nmoves in a pinch.",
+    "ability_id" : 65
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups FIRE moves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups FIRE moves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups FIRE moves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up Fire-type\nmoves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up Fire-type\nmoves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up Fire-type\nmoves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les capacités\nFeu en cas de besoin.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up Fire-type\nmoves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up Fire-type\nmoves in a pinch.",
+    "ability_id" : 66
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups WATER moves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups WATER moves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups WATER moves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up Water-type\nmoves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up Water-type\nmoves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up Water-type\nmoves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les capacités\nEau en cas de besoin.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up Water-type\nmoves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up Water-type\nmoves in a pinch.",
+    "ability_id" : 67
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Ups BUG moves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Ups BUG moves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Ups BUG moves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up Bug-type\nmoves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up Bug-type\nmoves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up Bug-type\nmoves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les capacités\nInsecte en cas de besoin.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up Bug-type\nmoves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up Bug-type\nmoves in a pinch.",
+    "ability_id" : 68
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Protects the Pokémon\nfrom recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Protects the Pokémon\nfrom recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Protects the Pokémon\nfrom recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Protège le Pokémon des\ndégâts de contrecoups.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Protects the Pokémon\nfrom recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Protects the Pokémon\nfrom recoil damage.",
+    "ability_id" : 69
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Summons sunlight in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Summons sunlight in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Summons sunlight in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon makes it\nsunny if it is in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon makes it\nsunny if it is in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon makes it\nsunny if it is in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Intensifie les rayons du\nsoleil pendant le combat.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Turns the sunlight harsh\nif it is in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Turns the sunlight harsh\nif it is in battle.",
+    "ability_id" : 70
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents fleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents fleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents fleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the foe from\nfleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the foe from\nfleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the foe from\nfleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche l’ennemi de\ns’enfuir.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the foe from\nfleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the foe from\nfleeing.",
+    "ability_id" : 71
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents sleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche le Pokémon de\ns’endormir.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents the Pokémon\nfrom falling asleep.",
+    "ability_id" : 72
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Prevents ability reduction.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents the Pokémon’s\nstats from being lowered.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents the Pokémon’s\nstats from being lowered.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents its stats from\nbeing lowered.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche les stats\ndu Pokémon de baisser.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering its stats.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents other Pokémon\nfrom lowering its stats.",
+    "ability_id" : 73
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Raises ATTACK.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the power of\nphysical attacks.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the power of\nphysical attacks.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the power of\nphysical attacks.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Attaque du\nPokémon.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises the Pokémon’s\nAttack stat.",
+    "ability_id" : 74
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Blocks critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon est protégé\ndes coups critiques.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon is protected\nagainst critical hits.",
+    "ability_id" : 75
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 5,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 6,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 7,
+    "flavor_text" : "Negates weather effects.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Annule les effets du\nclimat.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Eliminates the effects of\nweather.",
+    "ability_id" : 76
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises evasion if the\nPokémon is confused.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises evasion if the\nPokémon is confused.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises evasion if the\nPokémon is confused.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Esquive si le\nPokémon est confus.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises evasion if the\nPokémon is confused.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises evasion if the\nPokémon is confused.",
+    "ability_id" : 77
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises Speed if hit by an\nElectric-type move.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises Speed if hit by an\nElectric-type move.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises Speed if hit by an\nElectric-type move.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vit. si touché\npar une cap. Électrik.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises Speed if hit by an\nElectric-type move.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises Speed if hit by an\nElectric-type move.",
+    "ability_id" : 78
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises Attack if the foe\nis of the same gender.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises Attack if the foe\nis of the same gender.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises Attack if the foe\nis of the same gender.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Devient plus fort si\nl’ennemi est du même sexe.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Deals more damage to a\nPokémon of same gender.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Deals more damage to a\nPokémon of same gender.",
+    "ability_id" : 79
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises Speed each time\nthe Pokémon flinches.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises Speed each time\nthe Pokémon flinches.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises Speed each time\nthe Pokémon flinches.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vitesse quand\nle Pokémon a peur.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises Speed each time\nthe Pokémon flinches.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises Speed each time\nthe Pokémon flinches.",
+    "ability_id" : 80
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises evasion in a\nhailstorm.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises evasion in a\nhailstorm.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises evasion in a\nhailstorm.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Esquive durant\nles tempêtes de grêle.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises evasion in a\nhailstorm.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises evasion in a\nhailstorm.",
+    "ability_id" : 81
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Encourages the early use\nof a held Berry.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Encourages the early use\nof a held Berry.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Encourages the early use\nof a held Berry.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Encourage l’utilisation\nd’une Baie tenue.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Encourages the early use\nof a held Berry.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Encourages the early use\nof a held Berry.",
+    "ability_id" : 82
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises Attack upon taking\na critical hit.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises Attack upon taking\na critical hit.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises Attack upon\ntaking a critical hit.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte l’Attaque au max\naprès un coup critique.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Maxes Attack after\ntaking a critical hit.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Maxes Attack after\ntaking a critical hit.",
+    "ability_id" : 83
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Raises Speed if a held\nitem is used.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Raises Speed if a held\nitem is used.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Raises Speed if a held\nitem is used.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vit. si l’objet\ntenu est utilisé ou perdu.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises Speed if a held\nitem is used.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises Speed if a held\nitem is used.",
+    "ability_id" : 84
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Weakens the power of\nFire-type moves.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Weakens the power of\nFire-type moves.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Weakens the power of\nFire-type moves.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Réduit la puissance des\ncapacités de type Feu.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Weakens the power of\nFire-type moves.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Weakens the power of\nFire-type moves.",
+    "ability_id" : 85
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon is prone to\nwild stat changes.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon is prone to\nwild stat changes.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon is prone to\nwild stat changes.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon est sujet à\ndes variations de stats.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon is prone to\nwild stat changes.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon is prone to\nwild stat changes.",
+    "ability_id" : 86
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Reduces HP if it is hot.\nWater restores HP.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Reduces HP if it is hot.\nWater restores HP.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Reduces HP if it is hot.\nWater restores HP.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Perd des PV à la chaleur.\nL’eau les restaure.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces HP if it is hot.\nWater restores HP.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces HP if it is hot.\nWater restores HP.",
+    "ability_id" : 87
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Adjusts power according\nto the foe’s ability.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Adjusts power according\nto the foe’s ability.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Adjusts power according\nto the foe’s ability.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Ajuste la puissance selon\nl’ennemi.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Adjusts power according\nto a foe’s defenses.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Adjusts power according\nto a foe’s defenses.",
+    "ability_id" : 88
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts the power of\npunching moves.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts the power of\npunching moves.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts the power of\npunching moves.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la puissance des\ncapacités coups de poing.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the power of\npunching moves.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the power of\npunching moves.",
+    "ability_id" : 89
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Restores HP if the\nPokémon is poisoned.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Restores HP if the\nPokémon is poisoned.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Restores HP if the\nPokémon is poisoned.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Restaure des PV si le\nPokémon est empoisonné.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Restores HP if the\nPokémon is poisoned.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Restores HP if the\nPokémon is poisoned.",
+    "ability_id" : 90
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up moves of the\nsame type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up moves of the\nsame type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up moves of the\nsame type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la puissance des\ncapacités de même type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up moves of the\nsame type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up moves of the\nsame type.",
+    "ability_id" : 91
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Increases the frequency\nof multi-strike moves.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Increases the frequency\nof multi-strike moves.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Increases the frequency\nof multi-strike moves.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la fréquence des\nattaques multiples.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Increases the frequency\nof multi-strike moves.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Increases the frequency\nof multi-strike moves.",
+    "ability_id" : 92
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Heals status problems if\nit is raining.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Heals status problems if\nit is raining.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Heals status problems if\nit is raining.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Soigne les problèmes de\nstatut s’il pleut.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Heals status problems if\nit is raining.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Heals status problems if\nit is raining.",
+    "ability_id" : 93
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Atq. Spé. mais\nbaisse les PV au soleil.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "In sunshine, Sp. Atk is\nboosted but HP decreases.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "In sunshine, Sp. Atk is\nboosted but HP decreases.",
+    "ability_id" : 94
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Boosts Speed if there is a\nstatus problem.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Boosts Speed if there is a\nstatus problem.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Boosts Speed if there is\na status problem.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vitesse en cas\nde problème de statut.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts Speed if there is\na status problem.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts Speed if there is\na status problem.",
+    "ability_id" : 95
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "All the Pokémon’s moves\nbecome the Normal type.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "All the Pokémon’s moves\nbecome the Normal type.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "All the Pokémon’s moves\nbecome the Normal type.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Toutes les capacités sont\nde type Normal.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "All the Pokémon’s moves\nbecome the Normal type.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "All the Pokémon’s moves\nbecome the Normal type.",
+    "ability_id" : 96
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up moves if they\nbecome critical hits.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up moves if they\nbecome critical hits.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up moves if they\nbecome critical hits.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la puissance\ndes coups critiques.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up moves if they\nbecome critical hits.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up moves if they\nbecome critical hits.",
+    "ability_id" : 97
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon only takes\ndamage from attacks.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon only takes\ndamage from attacks.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon only takes\ndamage from attacks.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Seule une attaque directe\npeut blesser le Pokémon.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon only takes\ndamage from attacks.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon only takes\ndamage from attacks.",
+    "ability_id" : 98
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Ensures the Pokémon and\nits foe’s attacks land.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Ensures the Pokémon and\nits foe’s attacks land.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ensures both Pokémon’s\nand foe’s attacks land.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Capacités du Pokémon et\nde l’ennemi réussissent.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ensures attacks by or\nagainst the Pokémon land.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ensures attacks by or\nagainst the Pokémon land.",
+    "ability_id" : 99
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon moves after\neven slower foes.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon moves after\neven slower foes.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon moves after\neven slower foes.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Attaque toujours après \nl’ennemi, même plus lent.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon moves after\nall other Pokémon do.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon moves after\nall other Pokémon do.",
+    "ability_id" : 100
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up the Pokémon’s\nweaker moves.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up the Pokémon’s\nweaker moves.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up the Pokémon’s\nweaker moves.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la puissance des\ncapacités les plus faibles.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up the Pokémon’s\nweaker moves.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up the Pokémon’s\nweaker moves.",
+    "ability_id" : 101
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Prevents status problems\nin sunny weather.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Prevents status problems\nin sunny weather.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Prevents problems with\nstatus in sunny weather.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche les problèmes\nde statut au soleil.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Prevents problems with\nstatus in sunny weather.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Prevents problems with\nstatus in sunny weather.",
+    "ability_id" : 102
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon can’t use\nany held items.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon can’t use\nany held items.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon can’t use\nany held items.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon ne peut\nutiliser aucun objet tenu.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon can’t use\nany held items.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon can’t use\nany held items.",
+    "ability_id" : 103
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Moves can be used\nregardless of abilities.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Moves can be used\nregardless of abilities.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Moves can be used\nregardless of abilities.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Les cap. spé. adverses ne\nbloquent pas ses cap.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 104
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Heightens the critical-hit\nratios of moves.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Heightens the critical-hit\nratios of moves.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Heightens the critical-\nhit ratios of moves.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la fréquence\ndes coups critiques.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Heightens the critical-\nhit ratios of moves.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Heightens the critical-\nhit ratios of moves.",
+    "ability_id" : 105
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Damages the foe landing\nthe finishing hit.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Damages the foe landing\nthe finishing hit.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Damages the foe landing\nthe finishing hit.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Blesse l’ennemi qui \nporte le coup de grâce.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Damages the attacker\nlanding the finishing hit.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Damages the attacker\nlanding the finishing hit.",
+    "ability_id" : 106
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Senses the foe’s\ndangerous moves.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Senses the foe’s\ndangerous moves.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Senses the foe’s\ndangerous moves.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Prévoit les capacités\nennemies dangereuses.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Senses a foe’s\ndangerous moves.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Senses a foe’s\ndangerous moves.",
+    "ability_id" : 107
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Determines what moves\nthe foe has.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Determines what moves\nthe foe has.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Determines what moves\nthe foe has.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Découvre la capacité\nennemie la plus puissante.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Determines what moves\na foe has.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Determines what moves\na foe has.",
+    "ability_id" : 108
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Ignores any change in\nability by the foe.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Ignores any change in\nability by the foe.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Ignores any change in\nability by the foe.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Ignore les changements de\nstats de l’ennemi.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Ignores any stat changes\nin the Pokémon.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Ignores any stat changes\nin the Pokémon.",
+    "ability_id" : 109
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up “not very\neffective” moves.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up “not very\neffective” moves.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up “not very\neffective” moves.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Améliore les capacités\n“pas très efficaces”.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up “not very\neffective” moves.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up “not very\neffective” moves.",
+    "ability_id" : 110
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers down super­\neffective moves.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers down super­\neffective moves.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Affaiblit les capacités\n“super efficaces”.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks.",
+    "ability_id" : 111
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Temporarily halves Attack\nand Speed.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Temporarily halves Attack\nand Speed.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Temporarily halves\nAttack and Speed.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Divise temporairement\nVitesse et Attaque par 2.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Temporarily halves\nAttack and Speed.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Temporarily halves\nAttack and Speed.",
+    "ability_id" : 112
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Enables moves to hit\nGhost-type foes.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Enables moves to hit\nGhost-type foes.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Enables moves to hit\nGhost-type foes.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Les cap. Normal touchent\nles Pokémon Spectre.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Enables moves to hit\nGhost-type Pokémon.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Enables moves to hit\nGhost-type Pokémon.",
+    "ability_id" : 113
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon draws in all\nWater-type moves.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon draws in all\nWater-type moves.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon draws in all\nWater-type moves.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Attire l’eau et augmente\nl’Atq. Spé.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Draws in all Water-type\nmoves to up Sp. Attack.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Draws in all Water-type\nmoves to up Sp. Attack.",
+    "ability_id" : 114
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon regains HP in\na hailstorm.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon regains HP in\na hailstorm.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon regains HP in\na hailstorm.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Régénère ses PV lors des\ntempêtes de grêle.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon gradually\nregains HP in a hailstorm.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon gradually\nregains HP in a hailstorm.",
+    "ability_id" : 115
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers down super­\neffective moves.",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers down super­\neffective moves.",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Affaiblit les capacités\n“super efficaces”.",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks.",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces damage from\nsupereffective attacks.",
+    "ability_id" : 116
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon summons a\nhailstorm in battle.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon summons a\nhailstorm in battle.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon summons a\nhailstorm in battle.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Déclenche une tempête de\ngrêle pendant le combat.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon summons a\nhailstorm in battle.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon summons a\nhailstorm in battle.",
+    "ability_id" : 117
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon may gather\nHoney from somewhere.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon may gather\nHoney from somewhere.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon may gather\nHoney from somewhere.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Le Pokémon peut parfois\ntrouver du Miel.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon may gather\nHoney from somewhere.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon may gather\nHoney from somewhere.",
+    "ability_id" : 118
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "The Pokémon can check\nthe foe’s held item.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "The Pokémon can check\nthe foe’s held item.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "The Pokémon can check\nthe foe’s held item.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Permet de connaître\nl’objet tenu par l’ennemi.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "The Pokémon can check\na foe’s held item.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "The Pokémon can check\na foe’s held item.",
+    "ability_id" : 119
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up moves that\nhave recoil damage.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up moves that\nhave recoil damage.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up moves that\nhave recoil damage.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les cap. ayant des\ndégâts de contrecoups.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up moves that\nhave recoil damage.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up moves that\nhave recoil damage.",
+    "ability_id" : 120
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Changes type to match\nthe held Plate.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Changes type to match\nthe held Plate.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Changes type to match\nthe held Plate.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Modifie le type en fonction\nde la Plaque tenue.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Changes type to match\nthe held Plate.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Changes type to match\nthe held Plate.",
+    "ability_id" : 121
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Powers up party Pokémon\nwhen it is sunny.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Powers up party Pokémon\nwhen it is sunny.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Powers up party Pokémon\nwhen it is sunny.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Pokémon de l’équipe plus\npuissants au soleil.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up party Pokémon\nwhen it is sunny.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up party Pokémon\nwhen it is sunny.",
+    "ability_id" : 122
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 8,
+    "flavor_text" : "Reduces a sleeping foe’s\nHP.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 9,
+    "flavor_text" : "Reduces a sleeping foe’s\nHP.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 10,
+    "flavor_text" : "Reduces a sleeping\nfoe’s HP.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Réduit les PV d’un ennemi\nendormi.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces a sleeping\nfoe’s HP.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces a sleeping\nfoe’s HP.",
+    "ability_id" : 123
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Vole l’objet de l’ennemi\nsi son attaque touche.",
+    "ability_id" : 124
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Steals an item when hit\nby another Pokémon.",
+    "ability_id" : 124
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Steals an item when hit\nby another Pokémon.",
+    "ability_id" : 124
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Frappe plus fort mais\nannule les effets cumulés.",
+    "ability_id" : 125
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Removes added effects to\nincrease move damage.",
+    "ability_id" : 125
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Removes added effects to\nincrease move damage.",
+    "ability_id" : 125
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Inverse les variations\nde stats.",
+    "ability_id" : 126
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Makes stat changes have\nan opposite effect.",
+    "ability_id" : 126
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Makes stat changes have\nan opposite effect.",
+    "ability_id" : 126
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "L’ennemi stresse et ne\npeut plus manger de Baies.",
+    "ability_id" : 127
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Makes the foe nervous and\nunable to eat Berries.",
+    "ability_id" : 127
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Makes the foe nervous and\nunable to eat Berries.",
+    "ability_id" : 127
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte l’Attaque quand\nles stats baissent.",
+    "ability_id" : 128
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "When its stats are lowered\nits Attack increases.",
+    "ability_id" : 128
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "When its stats are lowered\nits Attack increases.",
+    "ability_id" : 128
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Baisse les stats quand les\nPV tombent à la moitié.",
+    "ability_id" : 129
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Lowers stats when HP\nbecomes half or less.",
+    "ability_id" : 129
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Lowers stats when HP\nbecomes half or less.",
+    "ability_id" : 129
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Peut empêcher l’ennemi de\nréutiliser une attaque.",
+    "ability_id" : 130
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "May disable a move used\non the Pokémon.",
+    "ability_id" : 130
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "May disable a move used\non the Pokémon.",
+    "ability_id" : 130
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Guérit parfois le statut\ndes alliés alentour.",
+    "ability_id" : 131
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "May heal an ally’s status\nconditions.",
+    "ability_id" : 131
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "May heal an ally’s status\nconditions.",
+    "ability_id" : 131
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Diminue les dégâts subis\npar les alliés.",
+    "ability_id" : 132
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces damage done\nto allies.",
+    "ability_id" : 132
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces damage done\nto allies.",
+    "ability_id" : 132
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Un coup physique baisse la\nDéfense, monte la Vitesse.",
+    "ability_id" : 133
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Physical attacks lower\nDefense and raise Speed.",
+    "ability_id" : 133
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Physical attacks lower\nDefense and raise Speed.",
+    "ability_id" : 133
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Double le poids\ndu Pokémon.",
+    "ability_id" : 134
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Doubles the Pokémon’s\nweight.",
+    "ability_id" : 134
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Doubles the Pokémon’s\nweight.",
+    "ability_id" : 134
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Divise par deux le\npoids du Pokémon.",
+    "ability_id" : 135
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Halves the Pokémon’s\nweight.",
+    "ability_id" : 135
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Halves the Pokémon’s\nweight.",
+    "ability_id" : 135
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Reçoit moins de dégâts si\nles PV sont au maximum.",
+    "ability_id" : 136
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reduces damage when HP\nis full.",
+    "ability_id" : 136
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reduces damage when HP\nis full.",
+    "ability_id" : 136
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les att. physiques\nsi le statut est poison.",
+    "ability_id" : 137
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up physical\nattacks when poisoned.",
+    "ability_id" : 137
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up physical\nattacks when poisoned.",
+    "ability_id" : 137
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les att. spéciales\nsi le statut est brûlure.",
+    "ability_id" : 138
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Powers up special attacks\nwhen burned.",
+    "ability_id" : 138
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Powers up special attacks\nwhen burned.",
+    "ability_id" : 138
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Les Baies utilisées\npeuvent repousser.",
+    "ability_id" : 139
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "May create another\nBerry after one is used.",
+    "ability_id" : 139
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "May create another\nBerry after one is used.",
+    "ability_id" : 139
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Anticipe et évite les\nattaques de ses alliés.",
+    "ability_id" : 140
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Anticipates an ally’s\nattack and dodges it.",
+    "ability_id" : 140
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Anticipates an ally’s\nattack and dodges it.",
+    "ability_id" : 140
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte une stat tout en\nen baissant une autre.",
+    "ability_id" : 141
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises one stat and\nlowers another.",
+    "ability_id" : 141
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises one stat and\nlowers another.",
+    "ability_id" : 141
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Neutralise les dégâts dus\nà la météo.",
+    "ability_id" : 142
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Protects the Pokémon from\ndamage from weather.",
+    "ability_id" : 142
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Protects the Pokémon from\ndamage from weather.",
+    "ability_id" : 142
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Peut empoisonner l’ennemi\npar simple contact.",
+    "ability_id" : 143
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "May poison targets when a\nPokémon makes contact.",
+    "ability_id" : 143
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "May poison targets when a\nPokémon makes contact.",
+    "ability_id" : 143
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Restaure un peu de PV\nsi le Pokémon est retiré.",
+    "ability_id" : 144
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Restores a little HP when\nwithdrawn from battle.",
+    "ability_id" : 144
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Restores a little HP when\nwithdrawn from battle.",
+    "ability_id" : 144
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Empêche la Déf. de baisser\nà cause d’attaques.",
+    "ability_id" : 145
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Protects the Pokémon from\nDefense-lowering attacks.",
+    "ability_id" : 145
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Protects the Pokémon from\nDefense-lowering attacks.",
+    "ability_id" : 145
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente la Vitesse lors\ndes tempêtes de sable.",
+    "ability_id" : 146
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in a sandstorm.",
+    "ability_id" : 146
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the Pokémon’s\nSpeed in a sandstorm.",
+    "ability_id" : 146
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Son corps résiste mieux\naux attaques de statut.",
+    "ability_id" : 147
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Makes status-changing\nmoves more likely to miss.",
+    "ability_id" : 147
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Makes status-changing\nmoves more likely to miss.",
+    "ability_id" : 147
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Booste les capacités s’il\nattaque en dernier.",
+    "ability_id" : 148
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts move power when\nthe Pokémon moves last.",
+    "ability_id" : 148
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts move power when\nthe Pokémon moves last.",
+    "ability_id" : 148
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Prend l’apparence du der-\nnier Pokémon de l’équipe.",
+    "ability_id" : 149
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Comes out disguised as\nthe Pokémon in back.",
+    "ability_id" : 149
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Comes out disguised as\nthe Pokémon in back.",
+    "ability_id" : 149
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Adopte l’apparence du\nPokémon adverse.",
+    "ability_id" : 150
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "It transforms itself into\nthe Pokémon it is facing.",
+    "ability_id" : 150
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "It transforms itself into\nthe Pokémon it is facing.",
+    "ability_id" : 150
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Traverse les barrières de\nl’ennemi pour attaquer.",
+    "ability_id" : 151
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Passes through the foe’s\nbarrier and strikes.",
+    "ability_id" : 151
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Passes through the foe’s\nbarrier and strikes.",
+    "ability_id" : 151
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Momifie la cap. spé. de\nl’ennemi qui le touche.",
+    "ability_id" : 152
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Contact with this Pokémon\nspreads this Ability.",
+    "ability_id" : 152
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Contact with this Pokémon\nspreads this Ability.",
+    "ability_id" : 152
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte l’Attaque quand\nil met un ennemi K.O.",
+    "ability_id" : 153
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts Attack after\nknocking out any Pokémon.",
+    "ability_id" : 153
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts Attack after\nknocking out any Pokémon.",
+    "ability_id" : 153
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte l’Attaque si une\natt. Ténèbres le touche.",
+    "ability_id" : 154
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Raises Attack when hit by\na Dark-type move.",
+    "ability_id" : 154
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Raises Attack when hit by\na Dark-type move.",
+    "ability_id" : 154
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Sa peur de certains types\naugmente sa Vitesse.",
+    "ability_id" : 155
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Some move types scare\nit and boost its Speed.",
+    "ability_id" : 155
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Some move types scare\nit and boost its Speed.",
+    "ability_id" : 155
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Renvoie les attaques\nde statut.",
+    "ability_id" : 156
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Reflects status-\nchanging moves.",
+    "ability_id" : 156
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Reflects status-\nchanging moves.",
+    "ability_id" : 156
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Augmente l’Attaque après\nune attaque Plante.",
+    "ability_id" : 157
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts Attack when hit by\na Grass-type move.",
+    "ability_id" : 157
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts Attack when hit by\na Grass-type move.",
+    "ability_id" : 157
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Utilise les attaques de\nstatut en premier.",
+    "ability_id" : 158
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Gives priority to a\nstatus move.",
+    "ability_id" : 158
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Gives priority to a\nstatus move.",
+    "ability_id" : 158
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Renforce des capacités en\ncas de tempête de sable.",
+    "ability_id" : 159
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts certain moves’\npower in a sandstorm.",
+    "ability_id" : 159
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts certain moves’\npower in a sandstorm.",
+    "ability_id" : 159
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Blesse l’ennemi au moindre\ncontact.",
+    "ability_id" : 160
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Inflicts damage to the\nPokémon on contact.",
+    "ability_id" : 160
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Inflicts damage to the\nPokémon on contact.",
+    "ability_id" : 160
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Transforme le Pokémon\ndans les moments délicats.",
+    "ability_id" : 161
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Changes the Pokémon’s\nshape when HP is halved.",
+    "ability_id" : 161
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Changes the Pokémon’s\nshape when HP is halved.",
+    "ability_id" : 161
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Monte la Précision des\nPokémon de l’équipe.",
+    "ability_id" : 162
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Boosts the accuracy of its\nallies and itself.",
+    "ability_id" : 162
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Boosts the accuracy of its\nallies and itself.",
+    "ability_id" : 162
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Les cap. spé. adverses ne\nbloquent pas ses cap.",
+    "ability_id" : 163
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 163
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 163
+  },
+  {
+    "language_id" : 5,
+    "version_group_id" : 11,
+    "flavor_text" : "Les cap. spé. adverses ne\nbloquent pas ses cap.",
+    "ability_id" : 164
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 11,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 164
+  },
+  {
+    "language_id" : 9,
+    "version_group_id" : 14,
+    "flavor_text" : "Moves can be used\nregardless of Abilities.",
+    "ability_id" : 164
+  }
+]

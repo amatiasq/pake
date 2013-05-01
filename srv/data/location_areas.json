@@ -1,0 +1,3980 @@
+[
+  {
+    "game_index" : 1,
+    "id" : 1,
+    "location_id" : 1,
+    "identifier" : null
+  },
+  {
+    "game_index" : 2,
+    "id" : 2,
+    "location_id" : 2,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 3,
+    "location_id" : 3,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 4,
+    "location_id" : 4,
+    "identifier" : null
+  },
+  {
+    "game_index" : 5,
+    "id" : 5,
+    "location_id" : 5,
+    "identifier" : null
+  },
+  {
+    "game_index" : 6,
+    "id" : 6,
+    "location_id" : 6,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 7,
+    "id" : 7,
+    "location_id" : 6,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 8,
+    "id" : 8,
+    "location_id" : 7,
+    "identifier" : null
+  },
+  {
+    "game_index" : 9,
+    "id" : 9,
+    "location_id" : 8,
+    "identifier" : null
+  },
+  {
+    "game_index" : 10,
+    "id" : 10,
+    "location_id" : 9,
+    "identifier" : null
+  },
+  {
+    "game_index" : 11,
+    "id" : 11,
+    "location_id" : 10,
+    "identifier" : "route-207"
+  },
+  {
+    "game_index" : 12,
+    "id" : 12,
+    "location_id" : 10,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 13,
+    "id" : 13,
+    "location_id" : 10,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 14,
+    "id" : 14,
+    "location_id" : 10,
+    "identifier" : "snowfall"
+  },
+  {
+    "game_index" : 15,
+    "id" : 15,
+    "location_id" : 10,
+    "identifier" : "blizzard"
+  },
+  {
+    "game_index" : 16,
+    "id" : 16,
+    "location_id" : 10,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 17,
+    "id" : 17,
+    "location_id" : 10,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 18,
+    "id" : 18,
+    "location_id" : 10,
+    "identifier" : "6f"
+  },
+  {
+    "game_index" : 19,
+    "id" : 19,
+    "location_id" : 10,
+    "identifier" : "7f"
+  },
+  {
+    "game_index" : 20,
+    "id" : 20,
+    "location_id" : 10,
+    "identifier" : "cave"
+  },
+  {
+    "game_index" : 21,
+    "id" : 21,
+    "location_id" : 10,
+    "identifier" : "route-216"
+  },
+  {
+    "game_index" : 22,
+    "id" : 22,
+    "location_id" : 10,
+    "identifier" : "route-211"
+  },
+  {
+    "game_index" : 23,
+    "id" : 23,
+    "location_id" : 10,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 24,
+    "id" : 24,
+    "location_id" : 11,
+    "identifier" : "area-1"
+  },
+  {
+    "game_index" : 25,
+    "id" : 25,
+    "location_id" : 11,
+    "identifier" : "area-2"
+  },
+  {
+    "game_index" : 26,
+    "id" : 26,
+    "location_id" : 11,
+    "identifier" : "area-3"
+  },
+  {
+    "game_index" : 27,
+    "id" : 27,
+    "location_id" : 11,
+    "identifier" : "area-4"
+  },
+  {
+    "game_index" : 28,
+    "id" : 28,
+    "location_id" : 11,
+    "identifier" : "area-5"
+  },
+  {
+    "game_index" : 29,
+    "id" : 29,
+    "location_id" : 11,
+    "identifier" : "area-6"
+  },
+  {
+    "game_index" : 30,
+    "id" : 30,
+    "location_id" : 12,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 31,
+    "id" : 31,
+    "location_id" : 12,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 32,
+    "id" : 32,
+    "location_id" : 12,
+    "identifier" : "b1f-a"
+  },
+  {
+    "game_index" : 33,
+    "id" : 33,
+    "location_id" : 12,
+    "identifier" : "b1f-b"
+  },
+  {
+    "game_index" : 34,
+    "id" : 34,
+    "location_id" : 12,
+    "identifier" : "b1f-c"
+  },
+  {
+    "game_index" : 35,
+    "id" : 35,
+    "location_id" : 12,
+    "identifier" : "b2f-a"
+  },
+  {
+    "game_index" : 36,
+    "id" : 36,
+    "location_id" : 12,
+    "identifier" : "b2f-b"
+  },
+  {
+    "game_index" : 37,
+    "id" : 37,
+    "location_id" : 12,
+    "identifier" : "b2f-c"
+  },
+  {
+    "game_index" : 38,
+    "id" : 38,
+    "location_id" : 12,
+    "identifier" : "b3f-a"
+  },
+  {
+    "game_index" : 39,
+    "id" : 39,
+    "location_id" : 12,
+    "identifier" : "b3f-b"
+  },
+  {
+    "game_index" : 40,
+    "id" : 40,
+    "location_id" : 12,
+    "identifier" : "b3f-c"
+  },
+  {
+    "game_index" : 41,
+    "id" : 41,
+    "location_id" : 12,
+    "identifier" : "b3f-d"
+  },
+  {
+    "game_index" : 42,
+    "id" : 42,
+    "location_id" : 12,
+    "identifier" : "b3f-e"
+  },
+  {
+    "game_index" : 43,
+    "id" : 43,
+    "location_id" : 12,
+    "identifier" : "b4f-a"
+  },
+  {
+    "game_index" : 44,
+    "id" : 44,
+    "location_id" : 12,
+    "identifier" : "b4f-b"
+  },
+  {
+    "game_index" : 45,
+    "id" : 45,
+    "location_id" : 12,
+    "identifier" : "b4f-c"
+  },
+  {
+    "game_index" : 46,
+    "id" : 46,
+    "location_id" : 12,
+    "identifier" : "b4f-d"
+  },
+  {
+    "game_index" : 47,
+    "id" : 47,
+    "location_id" : 12,
+    "identifier" : "b5f"
+  },
+  {
+    "game_index" : 48,
+    "id" : 48,
+    "location_id" : 13,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 49,
+    "id" : 49,
+    "location_id" : 13,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 50,
+    "id" : 50,
+    "location_id" : 13,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 51,
+    "id" : 51,
+    "location_id" : 13,
+    "identifier" : "inside-b1f"
+  },
+  {
+    "game_index" : 52,
+    "id" : 52,
+    "location_id" : 13,
+    "identifier" : "inside"
+  },
+  {
+    "game_index" : 53,
+    "id" : 53,
+    "location_id" : 13,
+    "identifier" : "inside-exit"
+  },
+  {
+    "game_index" : 54,
+    "id" : 54,
+    "location_id" : 14,
+    "identifier" : null
+  },
+  {
+    "game_index" : 55,
+    "id" : 55,
+    "location_id" : 15,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 56,
+    "id" : 56,
+    "location_id" : 15,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 57,
+    "id" : 57,
+    "location_id" : 16,
+    "identifier" : null
+  },
+  {
+    "game_index" : 58,
+    "id" : 58,
+    "location_id" : 16,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 59,
+    "id" : 59,
+    "location_id" : 16,
+    "identifier" : "inside"
+  },
+  {
+    "game_index" : 60,
+    "id" : 60,
+    "location_id" : 178,
+    "identifier" : null
+  },
+  {
+    "game_index" : 61,
+    "id" : 61,
+    "location_id" : 18,
+    "identifier" : "pillar-1"
+  },
+  {
+    "game_index" : 62,
+    "id" : 62,
+    "location_id" : 18,
+    "identifier" : "pillar-2"
+  },
+  {
+    "game_index" : 63,
+    "id" : 63,
+    "location_id" : 18,
+    "identifier" : "pillar-3"
+  },
+  {
+    "game_index" : 64,
+    "id" : 64,
+    "location_id" : 18,
+    "identifier" : "before-pillar-1"
+  },
+  {
+    "game_index" : 70,
+    "id" : 70,
+    "location_id" : 18,
+    "identifier" : "between-pillars-1-and-2"
+  },
+  {
+    "game_index" : 76,
+    "id" : 76,
+    "location_id" : 18,
+    "identifier" : "between-pillars-2-and-3"
+  },
+  {
+    "game_index" : 82,
+    "id" : 82,
+    "location_id" : 18,
+    "identifier" : "after-pillar-3"
+  },
+  {
+    "game_index" : 107,
+    "id" : 107,
+    "location_id" : 19,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 108,
+    "id" : 108,
+    "location_id" : 19,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 109,
+    "id" : 109,
+    "location_id" : 19,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 110,
+    "id" : 110,
+    "location_id" : 19,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 111,
+    "id" : 111,
+    "location_id" : 19,
+    "identifier" : "b4f"
+  },
+  {
+    "game_index" : 112,
+    "id" : 112,
+    "location_id" : 19,
+    "identifier" : "b5f"
+  },
+  {
+    "game_index" : 113,
+    "id" : 113,
+    "location_id" : 20,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 114,
+    "id" : 114,
+    "location_id" : 20,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 115,
+    "id" : 115,
+    "location_id" : 22,
+    "identifier" : "0-9-different-unown-caught"
+  },
+  {
+    "game_index" : 116,
+    "id" : 116,
+    "location_id" : 22,
+    "identifier" : "10-25-different-unown-caught"
+  },
+  {
+    "game_index" : 117,
+    "id" : 117,
+    "location_id" : 180,
+    "identifier" : "26-plus-different-unown-caught"
+  },
+  {
+    "game_index" : 118,
+    "id" : 118,
+    "location_id" : 23,
+    "identifier" : null
+  },
+  {
+    "game_index" : 119,
+    "id" : 119,
+    "location_id" : 24,
+    "identifier" : null
+  },
+  {
+    "game_index" : 120,
+    "id" : 120,
+    "location_id" : 24,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 121,
+    "id" : 121,
+    "location_id" : 24,
+    "identifier" : "b1f-left"
+  },
+  {
+    "game_index" : 122,
+    "id" : 122,
+    "location_id" : 24,
+    "identifier" : "b1f-right"
+  },
+  {
+    "game_index" : 123,
+    "id" : 123,
+    "location_id" : 24,
+    "identifier" : "b2f-right"
+  },
+  {
+    "game_index" : 124,
+    "id" : 124,
+    "location_id" : 24,
+    "identifier" : "b2f-left"
+  },
+  {
+    "game_index" : 125,
+    "id" : 125,
+    "location_id" : 24,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 126,
+    "id" : 126,
+    "location_id" : 25,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 127,
+    "id" : 127,
+    "location_id" : 25,
+    "identifier" : "dining-room"
+  },
+  {
+    "game_index" : 128,
+    "id" : 128,
+    "location_id" : 25,
+    "identifier" : "2f-private-room"
+  },
+  {
+    "game_index" : 129,
+    "id" : 129,
+    "location_id" : 25,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 130,
+    "id" : 130,
+    "location_id" : 25,
+    "identifier" : "2f-leftmost-room"
+  },
+  {
+    "game_index" : 131,
+    "id" : 131,
+    "location_id" : 25,
+    "identifier" : "2f-left-room"
+  },
+  {
+    "game_index" : 132,
+    "id" : 132,
+    "location_id" : 25,
+    "identifier" : "2f-middle-room"
+  },
+  {
+    "game_index" : 133,
+    "id" : 133,
+    "location_id" : 25,
+    "identifier" : "2f-right-room"
+  },
+  {
+    "game_index" : 134,
+    "id" : 134,
+    "location_id" : 25,
+    "identifier" : "2f-rightmost-room"
+  },
+  {
+    "game_index" : 135,
+    "id" : 135,
+    "location_id" : 26,
+    "identifier" : "before-galactic-intervention"
+  },
+  {
+    "game_index" : 136,
+    "id" : 136,
+    "location_id" : 26,
+    "identifier" : "after-galactic-intervention"
+  },
+  {
+    "game_index" : 137,
+    "id" : 137,
+    "location_id" : 27,
+    "identifier" : null
+  },
+  {
+    "game_index" : 138,
+    "id" : 138,
+    "location_id" : 28,
+    "identifier" : null
+  },
+  {
+    "game_index" : 139,
+    "id" : 139,
+    "location_id" : 29,
+    "identifier" : null
+  },
+  {
+    "game_index" : 140,
+    "id" : 140,
+    "location_id" : 30,
+    "identifier" : null
+  },
+  {
+    "game_index" : 141,
+    "id" : 141,
+    "location_id" : 31,
+    "identifier" : null
+  },
+  {
+    "game_index" : 142,
+    "id" : 142,
+    "location_id" : 32,
+    "identifier" : null
+  },
+  {
+    "game_index" : 143,
+    "id" : 143,
+    "location_id" : 33,
+    "identifier" : null
+  },
+  {
+    "game_index" : 144,
+    "id" : 144,
+    "location_id" : 34,
+    "identifier" : "south-towards-jubilife-city"
+  },
+  {
+    "game_index" : 145,
+    "id" : 145,
+    "location_id" : 34,
+    "identifier" : "north-towards-floaroma-town"
+  },
+  {
+    "game_index" : 146,
+    "id" : 146,
+    "location_id" : 35,
+    "identifier" : "south-towards-floaroma-town"
+  },
+  {
+    "game_index" : 147,
+    "id" : 147,
+    "location_id" : 35,
+    "identifier" : "east-towards-eterna-city"
+  },
+  {
+    "game_index" : 148,
+    "id" : 148,
+    "location_id" : 36,
+    "identifier" : null
+  },
+  {
+    "game_index" : 149,
+    "id" : 149,
+    "location_id" : 37,
+    "identifier" : null
+  },
+  {
+    "game_index" : 150,
+    "id" : 150,
+    "location_id" : 38,
+    "identifier" : null
+  },
+  {
+    "game_index" : 151,
+    "id" : 151,
+    "location_id" : 39,
+    "identifier" : null
+  },
+  {
+    "game_index" : 152,
+    "id" : 152,
+    "location_id" : 40,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 153,
+    "id" : 153,
+    "location_id" : 40,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 154,
+    "id" : 154,
+    "location_id" : 40,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 155,
+    "id" : 155,
+    "location_id" : 40,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 156,
+    "id" : 156,
+    "location_id" : 40,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 157,
+    "id" : 157,
+    "location_id" : 41,
+    "identifier" : "south-towards-solaceon-town"
+  },
+  {
+    "game_index" : 158,
+    "id" : 158,
+    "location_id" : 41,
+    "identifier" : "west-towards-celestic-town"
+  },
+  {
+    "game_index" : 159,
+    "id" : 159,
+    "location_id" : 42,
+    "identifier" : "west-towards-eterna-city"
+  },
+  {
+    "game_index" : 160,
+    "id" : 160,
+    "location_id" : 42,
+    "identifier" : "east-towards-celestic-town"
+  },
+  {
+    "game_index" : 161,
+    "id" : 161,
+    "location_id" : 43,
+    "identifier" : "north-towards-hearthome-city"
+  },
+  {
+    "game_index" : 162,
+    "id" : 162,
+    "location_id" : 43,
+    "identifier" : "east-towards-pastoria-city"
+  },
+  {
+    "game_index" : 163,
+    "id" : 163,
+    "location_id" : 44,
+    "identifier" : null
+  },
+  {
+    "game_index" : 164,
+    "id" : 164,
+    "location_id" : 45,
+    "identifier" : null
+  },
+  {
+    "game_index" : 165,
+    "id" : 165,
+    "location_id" : 46,
+    "identifier" : null
+  },
+  {
+    "game_index" : 166,
+    "id" : 166,
+    "location_id" : 47,
+    "identifier" : null
+  },
+  {
+    "game_index" : 167,
+    "id" : 167,
+    "location_id" : 48,
+    "identifier" : null
+  },
+  {
+    "game_index" : 168,
+    "id" : 168,
+    "location_id" : 49,
+    "identifier" : null
+  },
+  {
+    "game_index" : 169,
+    "id" : 169,
+    "location_id" : 50,
+    "identifier" : null
+  },
+  {
+    "game_index" : 170,
+    "id" : 170,
+    "location_id" : 51,
+    "identifier" : null
+  },
+  {
+    "game_index" : 171,
+    "id" : 171,
+    "location_id" : 52,
+    "identifier" : null
+  },
+  {
+    "game_index" : 172,
+    "id" : 172,
+    "location_id" : 53,
+    "identifier" : null
+  },
+  {
+    "game_index" : 173,
+    "id" : 173,
+    "location_id" : 54,
+    "identifier" : null
+  },
+  {
+    "game_index" : 174,
+    "id" : 174,
+    "location_id" : 55,
+    "identifier" : null
+  },
+  {
+    "game_index" : 175,
+    "id" : 175,
+    "location_id" : 56,
+    "identifier" : null
+  },
+  {
+    "game_index" : 176,
+    "id" : 176,
+    "location_id" : 57,
+    "identifier" : null
+  },
+  {
+    "game_index" : 177,
+    "id" : 177,
+    "location_id" : 58,
+    "identifier" : null
+  },
+  {
+    "game_index" : 178,
+    "id" : 178,
+    "location_id" : 59,
+    "identifier" : null
+  },
+  {
+    "game_index" : 179,
+    "id" : 179,
+    "location_id" : 60,
+    "identifier" : null
+  },
+  {
+    "game_index" : 180,
+    "id" : 180,
+    "location_id" : 61,
+    "identifier" : null
+  },
+  {
+    "game_index" : 181,
+    "id" : 181,
+    "location_id" : 62,
+    "identifier" : null
+  },
+  {
+    "game_index" : 182,
+    "id" : 182,
+    "location_id" : 63,
+    "identifier" : null
+  },
+  {
+    "game_index" : 183,
+    "id" : 183,
+    "location_id" : 64,
+    "identifier" : null
+  },
+  {
+    "game_index" : 1,
+    "id" : 184,
+    "location_id" : 84,
+    "identifier" : null
+  },
+  {
+    "game_index" : 2,
+    "id" : 185,
+    "location_id" : 108,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 186,
+    "location_id" : 69,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 187,
+    "location_id" : 110,
+    "identifier" : null
+  },
+  {
+    "game_index" : 5,
+    "id" : 188,
+    "location_id" : 111,
+    "identifier" : null
+  },
+  {
+    "game_index" : 6,
+    "id" : 189,
+    "location_id" : 153,
+    "identifier" : null
+  },
+  {
+    "game_index" : 7,
+    "id" : 190,
+    "location_id" : 138,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 8,
+    "id" : 191,
+    "location_id" : 138,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 9,
+    "id" : 192,
+    "location_id" : 112,
+    "identifier" : null
+  },
+  {
+    "game_index" : 10,
+    "id" : 193,
+    "location_id" : 135,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 11,
+    "id" : 194,
+    "location_id" : 135,
+    "identifier" : "interior-a"
+  },
+  {
+    "game_index" : 12,
+    "id" : 195,
+    "location_id" : 135,
+    "identifier" : "interior-b"
+  },
+  {
+    "game_index" : 13,
+    "id" : 196,
+    "location_id" : 135,
+    "identifier" : "interior-c"
+  },
+  {
+    "game_index" : 14,
+    "id" : 197,
+    "location_id" : 135,
+    "identifier" : "interior-d"
+  },
+  {
+    "game_index" : 15,
+    "id" : 198,
+    "location_id" : 141,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 16,
+    "id" : 199,
+    "location_id" : 141,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 17,
+    "id" : 200,
+    "location_id" : 141,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 18,
+    "id" : 201,
+    "location_id" : 113,
+    "identifier" : null
+  },
+  {
+    "game_index" : 19,
+    "id" : 202,
+    "location_id" : 137,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 20,
+    "id" : 203,
+    "location_id" : 137,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 21,
+    "id" : 204,
+    "location_id" : 78,
+    "identifier" : null
+  },
+  {
+    "game_index" : 22,
+    "id" : 205,
+    "location_id" : 114,
+    "identifier" : null
+  },
+  {
+    "game_index" : 23,
+    "id" : 206,
+    "location_id" : 115,
+    "identifier" : null
+  },
+  {
+    "game_index" : 24,
+    "id" : 207,
+    "location_id" : 83,
+    "identifier" : null
+  },
+  {
+    "game_index" : 25,
+    "id" : 208,
+    "location_id" : 150,
+    "identifier" : null
+  },
+  {
+    "game_index" : 26,
+    "id" : 209,
+    "location_id" : 116,
+    "identifier" : null
+  },
+  {
+    "game_index" : 27,
+    "id" : 210,
+    "location_id" : 117,
+    "identifier" : null
+  },
+  {
+    "game_index" : 28,
+    "id" : 211,
+    "location_id" : 75,
+    "identifier" : null
+  },
+  {
+    "game_index" : 29,
+    "id" : 212,
+    "location_id" : 66,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 30,
+    "id" : 213,
+    "location_id" : 66,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 31,
+    "id" : 214,
+    "location_id" : 139,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 32,
+    "id" : 215,
+    "location_id" : 139,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 33,
+    "id" : 216,
+    "location_id" : 139,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 34,
+    "id" : 217,
+    "location_id" : 139,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 35,
+    "id" : 218,
+    "location_id" : 139,
+    "identifier" : "6f"
+  },
+  {
+    "game_index" : 36,
+    "id" : 219,
+    "location_id" : 139,
+    "identifier" : "7f"
+  },
+  {
+    "game_index" : 37,
+    "id" : 220,
+    "location_id" : 139,
+    "identifier" : "8f"
+  },
+  {
+    "game_index" : 38,
+    "id" : 221,
+    "location_id" : 139,
+    "identifier" : "9f"
+  },
+  {
+    "game_index" : 39,
+    "id" : 222,
+    "location_id" : 118,
+    "identifier" : null
+  },
+  {
+    "game_index" : 40,
+    "id" : 223,
+    "location_id" : 119,
+    "identifier" : null
+  },
+  {
+    "game_index" : 41,
+    "id" : 224,
+    "location_id" : 85,
+    "identifier" : null
+  },
+  {
+    "game_index" : 42,
+    "id" : 225,
+    "location_id" : 121,
+    "identifier" : null
+  },
+  {
+    "game_index" : 43,
+    "id" : 226,
+    "location_id" : 122,
+    "identifier" : null
+  },
+  {
+    "game_index" : 44,
+    "id" : 227,
+    "location_id" : 156,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 45,
+    "id" : 228,
+    "location_id" : 156,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 46,
+    "id" : 229,
+    "location_id" : 156,
+    "identifier" : "empty-floor-x"
+  },
+  {
+    "game_index" : 47,
+    "id" : 230,
+    "location_id" : 156,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 48,
+    "id" : 231,
+    "location_id" : 156,
+    "identifier" : "empty-floor-y"
+  },
+  {
+    "game_index" : 49,
+    "id" : 232,
+    "location_id" : 156,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 52,
+    "id" : 235,
+    "location_id" : 70,
+    "identifier" : null
+  },
+  {
+    "game_index" : 53,
+    "id" : 236,
+    "location_id" : 123,
+    "identifier" : null
+  },
+  {
+    "game_index" : 54,
+    "id" : 237,
+    "location_id" : 81,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 55,
+    "id" : 238,
+    "location_id" : 81,
+    "identifier" : "lower-cave"
+  },
+  {
+    "game_index" : 56,
+    "id" : 239,
+    "location_id" : 81,
+    "identifier" : "upper-cave"
+  },
+  {
+    "game_index" : 57,
+    "id" : 240,
+    "location_id" : 81,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 58,
+    "id" : 241,
+    "location_id" : 124,
+    "identifier" : null
+  },
+  {
+    "game_index" : 59,
+    "id" : 242,
+    "location_id" : 79,
+    "identifier" : null
+  },
+  {
+    "game_index" : 60,
+    "id" : 243,
+    "location_id" : 125,
+    "identifier" : null
+  },
+  {
+    "game_index" : 61,
+    "id" : 244,
+    "location_id" : 77,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 62,
+    "id" : 245,
+    "location_id" : 77,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 63,
+    "id" : 246,
+    "location_id" : 77,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 64,
+    "id" : 247,
+    "location_id" : 77,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 66,
+    "id" : 249,
+    "location_id" : 65,
+    "identifier" : null
+  },
+  {
+    "game_index" : 67,
+    "id" : 250,
+    "location_id" : 74,
+    "identifier" : null
+  },
+  {
+    "game_index" : 68,
+    "id" : 251,
+    "location_id" : 126,
+    "identifier" : null
+  },
+  {
+    "game_index" : 69,
+    "id" : 252,
+    "location_id" : 127,
+    "identifier" : null
+  },
+  {
+    "game_index" : 70,
+    "id" : 253,
+    "location_id" : 72,
+    "identifier" : "violet-city-entrance"
+  },
+  {
+    "game_index" : 71,
+    "id" : 254,
+    "location_id" : 72,
+    "identifier" : "blackthorn-city-entrance"
+  },
+  {
+    "game_index" : 72,
+    "id" : 255,
+    "location_id" : 128,
+    "identifier" : null
+  },
+  {
+    "game_index" : 73,
+    "id" : 256,
+    "location_id" : 80,
+    "identifier" : "mt-moon-square"
+  },
+  {
+    "game_index" : 74,
+    "id" : 257,
+    "location_id" : 148,
+    "identifier" : null
+  },
+  {
+    "game_index" : 75,
+    "id" : 258,
+    "location_id" : 136,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 76,
+    "id" : 259,
+    "location_id" : 136,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 77,
+    "id" : 260,
+    "location_id" : 136,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 78,
+    "id" : 261,
+    "location_id" : 136,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 79,
+    "id" : 262,
+    "location_id" : 136,
+    "identifier" : "b4f"
+  },
+  {
+    "game_index" : 80,
+    "id" : 263,
+    "location_id" : 82,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 81,
+    "id" : 264,
+    "location_id" : 82,
+    "identifier" : "1f-top"
+  },
+  {
+    "game_index" : 82,
+    "id" : 265,
+    "location_id" : 82,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 83,
+    "id" : 266,
+    "location_id" : 128,
+    "identifier" : "cave-gate"
+  },
+  {
+    "game_index" : 84,
+    "id" : 267,
+    "location_id" : 128,
+    "identifier" : "inside-cave"
+  },
+  {
+    "game_index" : 85,
+    "id" : 268,
+    "location_id" : 139,
+    "identifier" : "10f"
+  },
+  {
+    "game_index" : 86,
+    "id" : 269,
+    "location_id" : 82,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 87,
+    "id" : 270,
+    "location_id" : 82,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 88,
+    "id" : 271,
+    "location_id" : 82,
+    "identifier" : "mountainside"
+  },
+  {
+    "game_index" : 89,
+    "id" : 272,
+    "location_id" : 82,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 90,
+    "id" : 273,
+    "location_id" : 82,
+    "identifier" : "top"
+  },
+  {
+    "game_index" : 92,
+    "id" : 275,
+    "location_id" : 149,
+    "identifier" : null
+  },
+  {
+    "game_index" : 93,
+    "id" : 276,
+    "location_id" : 91,
+    "identifier" : null
+  },
+  {
+    "game_index" : 94,
+    "id" : 277,
+    "location_id" : 98,
+    "identifier" : null
+  },
+  {
+    "game_index" : 95,
+    "id" : 278,
+    "location_id" : 100,
+    "identifier" : null
+  },
+  {
+    "game_index" : 96,
+    "id" : 279,
+    "location_id" : 71,
+    "identifier" : null
+  },
+  {
+    "game_index" : 97,
+    "id" : 280,
+    "location_id" : 154,
+    "identifier" : null
+  },
+  {
+    "game_index" : 98,
+    "id" : 281,
+    "location_id" : 68,
+    "identifier" : null
+  },
+  {
+    "game_index" : 99,
+    "id" : 282,
+    "location_id" : 151,
+    "identifier" : null
+  },
+  {
+    "game_index" : 100,
+    "id" : 283,
+    "location_id" : 67,
+    "identifier" : null
+  },
+  {
+    "game_index" : 101,
+    "id" : 284,
+    "location_id" : 76,
+    "identifier" : null
+  },
+  {
+    "game_index" : 102,
+    "id" : 285,
+    "location_id" : 86,
+    "identifier" : null
+  },
+  {
+    "game_index" : 103,
+    "id" : 286,
+    "location_id" : 129,
+    "identifier" : null
+  },
+  {
+    "game_index" : 104,
+    "id" : 287,
+    "location_id" : 105,
+    "identifier" : null
+  },
+  {
+    "game_index" : 105,
+    "id" : 288,
+    "location_id" : 106,
+    "identifier" : null
+  },
+  {
+    "game_index" : 106,
+    "id" : 289,
+    "location_id" : 107,
+    "identifier" : null
+  },
+  {
+    "game_index" : 107,
+    "id" : 290,
+    "location_id" : 80,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 108,
+    "id" : 291,
+    "location_id" : 80,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 109,
+    "id" : 292,
+    "location_id" : 87,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 110,
+    "id" : 293,
+    "location_id" : 87,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 111,
+    "id" : 294,
+    "location_id" : 152,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 112,
+    "id" : 295,
+    "location_id" : 88,
+    "identifier" : null
+  },
+  {
+    "game_index" : 113,
+    "id" : 296,
+    "location_id" : 99,
+    "identifier" : "south-towards-viridian-city"
+  },
+  {
+    "game_index" : 114,
+    "id" : 297,
+    "location_id" : 109,
+    "identifier" : null
+  },
+  {
+    "game_index" : 115,
+    "id" : 298,
+    "location_id" : 120,
+    "identifier" : null
+  },
+  {
+    "game_index" : 116,
+    "id" : 299,
+    "location_id" : 130,
+    "identifier" : null
+  },
+  {
+    "game_index" : 117,
+    "id" : 300,
+    "location_id" : 131,
+    "identifier" : null
+  },
+  {
+    "game_index" : 118,
+    "id" : 301,
+    "location_id" : 132,
+    "identifier" : null
+  },
+  {
+    "game_index" : 119,
+    "id" : 302,
+    "location_id" : 133,
+    "identifier" : null
+  },
+  {
+    "game_index" : 120,
+    "id" : 303,
+    "location_id" : 134,
+    "identifier" : null
+  },
+  {
+    "game_index" : 121,
+    "id" : 304,
+    "location_id" : 89,
+    "identifier" : null
+  },
+  {
+    "game_index" : 122,
+    "id" : 305,
+    "location_id" : 90,
+    "identifier" : null
+  },
+  {
+    "game_index" : 123,
+    "id" : 306,
+    "location_id" : 92,
+    "identifier" : null
+  },
+  {
+    "game_index" : 124,
+    "id" : 307,
+    "location_id" : 93,
+    "identifier" : null
+  },
+  {
+    "game_index" : 125,
+    "id" : 308,
+    "location_id" : 94,
+    "identifier" : null
+  },
+  {
+    "game_index" : 126,
+    "id" : 309,
+    "location_id" : 95,
+    "identifier" : null
+  },
+  {
+    "game_index" : 127,
+    "id" : 310,
+    "location_id" : 96,
+    "identifier" : null
+  },
+  {
+    "game_index" : 128,
+    "id" : 311,
+    "location_id" : 97,
+    "identifier" : null
+  },
+  {
+    "game_index" : 129,
+    "id" : 312,
+    "location_id" : 101,
+    "identifier" : null
+  },
+  {
+    "game_index" : 130,
+    "id" : 313,
+    "location_id" : 102,
+    "identifier" : null
+  },
+  {
+    "game_index" : 131,
+    "id" : 314,
+    "location_id" : 103,
+    "identifier" : null
+  },
+  {
+    "game_index" : 132,
+    "id" : 315,
+    "location_id" : 104,
+    "identifier" : null
+  },
+  {
+    "game_index" : 133,
+    "id" : 316,
+    "location_id" : 140,
+    "identifier" : null
+  },
+  {
+    "game_index" : 134,
+    "id" : 317,
+    "location_id" : 73,
+    "identifier" : null
+  },
+  {
+    "game_index" : 135,
+    "id" : 318,
+    "location_id" : 152,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 136,
+    "id" : 319,
+    "location_id" : 152,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 137,
+    "id" : 320,
+    "location_id" : 99,
+    "identifier" : "north-towards-pewter-city"
+  },
+  {
+    "game_index" : 138,
+    "id" : 321,
+    "location_id" : 155,
+    "identifier" : null
+  },
+  {
+    "game_index" : 140,
+    "id" : 323,
+    "location_id" : 147,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 141,
+    "id" : 324,
+    "location_id" : 147,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 142,
+    "id" : 325,
+    "location_id" : 147,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 326,
+    "location_id" : 80,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 327,
+    "location_id" : 80,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 328,
+    "location_id" : 87,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 329,
+    "location_id" : 157,
+    "identifier" : null
+  },
+  {
+    "game_index" : 0,
+    "id" : 330,
+    "location_id" : 158,
+    "identifier" : null
+  },
+  {
+    "game_index" : 0,
+    "id" : 331,
+    "location_id" : 159,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 332,
+    "location_id" : 159,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 333,
+    "location_id" : 159,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 334,
+    "location_id" : 160,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 335,
+    "location_id" : 160,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 336,
+    "location_id" : 160,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 337,
+    "location_id" : 160,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 338,
+    "location_id" : 160,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 339,
+    "location_id" : 160,
+    "identifier" : "6f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 340,
+    "location_id" : 160,
+    "identifier" : "7f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 341,
+    "location_id" : 161,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 342,
+    "location_id" : 161,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 343,
+    "location_id" : 161,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 344,
+    "location_id" : 161,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 345,
+    "location_id" : 162,
+    "identifier" : "middle"
+  },
+  {
+    "game_index" : 0,
+    "id" : 346,
+    "location_id" : 162,
+    "identifier" : "area-1-east"
+  },
+  {
+    "game_index" : 0,
+    "id" : 347,
+    "location_id" : 162,
+    "identifier" : "area-2-north"
+  },
+  {
+    "game_index" : 0,
+    "id" : 348,
+    "location_id" : 162,
+    "identifier" : "area-3-west"
+  },
+  {
+    "game_index" : 0,
+    "id" : 349,
+    "location_id" : 151,
+    "identifier" : "ss-anne-dock"
+  },
+  {
+    "game_index" : 0,
+    "id" : 350,
+    "location_id" : 429,
+    "identifier" : null
+  },
+  {
+    "game_index" : 1,
+    "id" : 351,
+    "location_id" : 430,
+    "identifier" : null
+  },
+  {
+    "game_index" : 2,
+    "id" : 352,
+    "location_id" : 431,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 353,
+    "location_id" : 432,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 354,
+    "location_id" : 433,
+    "identifier" : null
+  },
+  {
+    "game_index" : 5,
+    "id" : 355,
+    "location_id" : 434,
+    "identifier" : null
+  },
+  {
+    "game_index" : 6,
+    "id" : 356,
+    "location_id" : 435,
+    "identifier" : null
+  },
+  {
+    "game_index" : 7,
+    "id" : 357,
+    "location_id" : 435,
+    "identifier" : "back"
+  },
+  {
+    "game_index" : 8,
+    "id" : 358,
+    "location_id" : 435,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 9,
+    "id" : 359,
+    "location_id" : 435,
+    "identifier" : "backsmall-room"
+  },
+  {
+    "game_index" : 10,
+    "id" : 360,
+    "location_id" : 436,
+    "identifier" : null
+  },
+  {
+    "game_index" : 11,
+    "id" : 361,
+    "location_id" : 437,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 12,
+    "id" : 362,
+    "location_id" : 437,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 13,
+    "id" : 363,
+    "location_id" : 437,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 14,
+    "id" : 364,
+    "location_id" : 437,
+    "identifier" : "1fsmall-room"
+  },
+  {
+    "game_index" : 15,
+    "id" : 365,
+    "location_id" : 438,
+    "identifier" : null
+  },
+  {
+    "game_index" : 16,
+    "id" : 366,
+    "location_id" : 439,
+    "identifier" : null
+  },
+  {
+    "game_index" : 17,
+    "id" : 367,
+    "location_id" : 440,
+    "identifier" : null
+  },
+  {
+    "game_index" : 18,
+    "id" : 368,
+    "location_id" : 441,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 19,
+    "id" : 369,
+    "location_id" : 441,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 20,
+    "id" : 370,
+    "location_id" : 441,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 21,
+    "id" : 371,
+    "location_id" : 441,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 22,
+    "id" : 372,
+    "location_id" : 441,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 23,
+    "id" : 373,
+    "location_id" : 441,
+    "identifier" : "6f"
+  },
+  {
+    "game_index" : 24,
+    "id" : 374,
+    "location_id" : 441,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 25,
+    "id" : 375,
+    "location_id" : 441,
+    "identifier" : "summit"
+  },
+  {
+    "game_index" : 26,
+    "id" : 376,
+    "location_id" : 442,
+    "identifier" : null
+  },
+  {
+    "game_index" : 35,
+    "id" : 377,
+    "location_id" : 443,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 36,
+    "id" : 378,
+    "location_id" : 443,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 37,
+    "id" : 379,
+    "location_id" : 443,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 38,
+    "id" : 380,
+    "location_id" : 443,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 39,
+    "id" : 381,
+    "location_id" : 443,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 40,
+    "id" : 382,
+    "location_id" : 444,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 41,
+    "id" : 383,
+    "location_id" : 444,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 42,
+    "id" : 384,
+    "location_id" : 444,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 43,
+    "id" : 385,
+    "location_id" : 445,
+    "identifier" : null
+  },
+  {
+    "game_index" : 47,
+    "id" : 386,
+    "location_id" : 445,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 48,
+    "id" : 387,
+    "location_id" : 446,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 49,
+    "id" : 388,
+    "location_id" : 446,
+    "identifier" : null
+  },
+  {
+    "game_index" : 50,
+    "id" : 389,
+    "location_id" : 447,
+    "identifier" : null
+  },
+  {
+    "game_index" : 52,
+    "id" : 390,
+    "location_id" : 448,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 53,
+    "id" : 391,
+    "location_id" : 448,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 54,
+    "id" : 392,
+    "location_id" : 448,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 55,
+    "id" : 393,
+    "location_id" : 449,
+    "identifier" : null
+  },
+  {
+    "game_index" : 56,
+    "id" : 394,
+    "location_id" : 450,
+    "identifier" : null
+  },
+  {
+    "game_index" : 57,
+    "id" : 395,
+    "location_id" : 451,
+    "identifier" : null
+  },
+  {
+    "game_index" : 58,
+    "id" : 396,
+    "location_id" : 452,
+    "identifier" : null
+  },
+  {
+    "game_index" : 59,
+    "id" : 397,
+    "location_id" : 453,
+    "identifier" : null
+  },
+  {
+    "game_index" : 60,
+    "id" : 398,
+    "location_id" : 454,
+    "identifier" : null
+  },
+  {
+    "game_index" : 61,
+    "id" : 399,
+    "location_id" : 455,
+    "identifier" : null
+  },
+  {
+    "game_index" : 62,
+    "id" : 400,
+    "location_id" : 456,
+    "identifier" : null
+  },
+  {
+    "game_index" : 63,
+    "id" : 401,
+    "location_id" : 457,
+    "identifier" : null
+  },
+  {
+    "game_index" : 64,
+    "id" : 402,
+    "location_id" : 458,
+    "identifier" : null
+  },
+  {
+    "game_index" : 65,
+    "id" : 403,
+    "location_id" : 459,
+    "identifier" : null
+  },
+  {
+    "game_index" : 66,
+    "id" : 404,
+    "location_id" : 460,
+    "identifier" : null
+  },
+  {
+    "game_index" : 67,
+    "id" : 405,
+    "location_id" : 461,
+    "identifier" : null
+  },
+  {
+    "game_index" : 68,
+    "id" : 406,
+    "location_id" : 462,
+    "identifier" : null
+  },
+  {
+    "game_index" : 69,
+    "id" : 407,
+    "location_id" : 463,
+    "identifier" : null
+  },
+  {
+    "game_index" : 70,
+    "id" : 408,
+    "location_id" : 464,
+    "identifier" : null
+  },
+  {
+    "game_index" : 71,
+    "id" : 409,
+    "location_id" : 465,
+    "identifier" : null
+  },
+  {
+    "game_index" : 72,
+    "id" : 410,
+    "location_id" : 466,
+    "identifier" : null
+  },
+  {
+    "game_index" : 73,
+    "id" : 411,
+    "location_id" : 467,
+    "identifier" : null
+  },
+  {
+    "game_index" : 74,
+    "id" : 412,
+    "location_id" : 468,
+    "identifier" : null
+  },
+  {
+    "game_index" : 75,
+    "id" : 413,
+    "location_id" : 469,
+    "identifier" : null
+  },
+  {
+    "game_index" : 76,
+    "id" : 414,
+    "location_id" : 470,
+    "identifier" : null
+  },
+  {
+    "game_index" : 77,
+    "id" : 415,
+    "location_id" : 471,
+    "identifier" : null
+  },
+  {
+    "game_index" : 78,
+    "id" : 416,
+    "location_id" : 472,
+    "identifier" : null
+  },
+  {
+    "game_index" : 95,
+    "id" : 417,
+    "location_id" : 472,
+    "identifier" : "underwater"
+  },
+  {
+    "game_index" : 79,
+    "id" : 418,
+    "location_id" : 473,
+    "identifier" : null
+  },
+  {
+    "game_index" : 80,
+    "id" : 419,
+    "location_id" : 474,
+    "identifier" : null
+  },
+  {
+    "game_index" : 96,
+    "id" : 420,
+    "location_id" : 474,
+    "identifier" : "underwater"
+  },
+  {
+    "game_index" : 81,
+    "id" : 421,
+    "location_id" : 475,
+    "identifier" : null
+  },
+  {
+    "game_index" : 82,
+    "id" : 422,
+    "location_id" : 476,
+    "identifier" : null
+  },
+  {
+    "game_index" : 83,
+    "id" : 423,
+    "location_id" : 477,
+    "identifier" : null
+  },
+  {
+    "game_index" : 84,
+    "id" : 424,
+    "location_id" : 478,
+    "identifier" : null
+  },
+  {
+    "game_index" : 85,
+    "id" : 425,
+    "location_id" : 479,
+    "identifier" : null
+  },
+  {
+    "game_index" : 86,
+    "id" : 426,
+    "location_id" : 480,
+    "identifier" : null
+  },
+  {
+    "game_index" : 87,
+    "id" : 427,
+    "location_id" : 481,
+    "identifier" : null
+  },
+  {
+    "game_index" : 88,
+    "id" : 428,
+    "location_id" : 482,
+    "identifier" : null
+  },
+  {
+    "game_index" : 89,
+    "id" : 429,
+    "location_id" : 483,
+    "identifier" : "nwmach-bike-area"
+  },
+  {
+    "game_index" : 90,
+    "id" : 430,
+    "location_id" : 483,
+    "identifier" : "neacro-bike-area"
+  },
+  {
+    "game_index" : 91,
+    "id" : 431,
+    "location_id" : 483,
+    "identifier" : "sw"
+  },
+  {
+    "game_index" : 92,
+    "id" : 432,
+    "location_id" : 483,
+    "identifier" : "se"
+  },
+  {
+    "game_index" : 93,
+    "id" : 433,
+    "location_id" : 484,
+    "identifier" : null
+  },
+  {
+    "game_index" : 94,
+    "id" : 434,
+    "location_id" : 485,
+    "identifier" : null
+  },
+  {
+    "game_index" : 97,
+    "id" : 435,
+    "location_id" : 483,
+    "identifier" : "expansion-south"
+  },
+  {
+    "game_index" : 98,
+    "id" : 436,
+    "location_id" : 483,
+    "identifier" : "expansion-north"
+  },
+  {
+    "game_index" : 99,
+    "id" : 437,
+    "location_id" : 486,
+    "identifier" : null
+  },
+  {
+    "game_index" : 107,
+    "id" : 438,
+    "location_id" : 487,
+    "identifier" : null
+  },
+  {
+    "game_index" : 111,
+    "id" : 439,
+    "location_id" : 488,
+    "identifier" : null
+  },
+  {
+    "game_index" : 112,
+    "id" : 440,
+    "location_id" : 489,
+    "identifier" : null
+  },
+  {
+    "game_index" : 114,
+    "id" : 441,
+    "location_id" : 490,
+    "identifier" : "a"
+  },
+  {
+    "game_index" : 115,
+    "id" : 442,
+    "location_id" : 490,
+    "identifier" : "b"
+  },
+  {
+    "game_index" : 116,
+    "id" : 443,
+    "location_id" : 490,
+    "identifier" : "c"
+  },
+  {
+    "game_index" : 117,
+    "id" : 444,
+    "location_id" : 490,
+    "identifier" : "d"
+  },
+  {
+    "game_index" : 118,
+    "id" : 445,
+    "location_id" : 490,
+    "identifier" : "e"
+  },
+  {
+    "game_index" : 119,
+    "id" : 446,
+    "location_id" : 490,
+    "identifier" : "f"
+  },
+  {
+    "game_index" : 120,
+    "id" : 447,
+    "location_id" : 490,
+    "identifier" : "g"
+  },
+  {
+    "game_index" : 121,
+    "id" : 448,
+    "location_id" : 490,
+    "identifier" : "h"
+  },
+  {
+    "game_index" : 122,
+    "id" : 449,
+    "location_id" : 490,
+    "identifier" : "i"
+  },
+  {
+    "game_index" : 0,
+    "id" : 450,
+    "location_id" : 491,
+    "identifier" : null
+  },
+  {
+    "game_index" : 1,
+    "id" : 451,
+    "location_id" : 492,
+    "identifier" : null
+  },
+  {
+    "game_index" : 2,
+    "id" : 452,
+    "location_id" : 493,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 453,
+    "location_id" : 494,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 454,
+    "location_id" : 495,
+    "identifier" : null
+  },
+  {
+    "game_index" : 5,
+    "id" : 455,
+    "location_id" : 496,
+    "identifier" : null
+  },
+  {
+    "game_index" : 6,
+    "id" : 456,
+    "location_id" : 497,
+    "identifier" : null
+  },
+  {
+    "game_index" : 7,
+    "id" : 457,
+    "location_id" : 155,
+    "identifier" : null
+  },
+  {
+    "game_index" : 8,
+    "id" : 458,
+    "location_id" : 80,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 9,
+    "id" : 459,
+    "location_id" : 80,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 10,
+    "id" : 460,
+    "location_id" : 80,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 11,
+    "id" : 461,
+    "location_id" : 498,
+    "identifier" : null
+  },
+  {
+    "game_index" : 12,
+    "id" : 462,
+    "location_id" : 73,
+    "identifier" : null
+  },
+  {
+    "game_index" : 13,
+    "id" : 463,
+    "location_id" : 499,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 14,
+    "id" : 464,
+    "location_id" : 499,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 15,
+    "id" : 465,
+    "location_id" : 499,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 16,
+    "id" : 466,
+    "location_id" : 161,
+    "identifier" : null
+  },
+  {
+    "game_index" : 19,
+    "id" : 467,
+    "location_id" : 161,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 20,
+    "id" : 468,
+    "location_id" : 162,
+    "identifier" : "center"
+  },
+  {
+    "game_index" : 21,
+    "id" : 469,
+    "location_id" : 162,
+    "identifier" : "area-1-east"
+  },
+  {
+    "game_index" : 22,
+    "id" : 470,
+    "location_id" : 162,
+    "identifier" : "area-2-north"
+  },
+  {
+    "game_index" : 23,
+    "id" : 471,
+    "location_id" : 162,
+    "identifier" : "area-3-west"
+  },
+  {
+    "game_index" : 24,
+    "id" : 472,
+    "location_id" : 147,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 25,
+    "id" : 473,
+    "location_id" : 147,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 26,
+    "id" : 474,
+    "location_id" : 147,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 27,
+    "id" : 475,
+    "location_id" : 87,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 28,
+    "id" : 476,
+    "location_id" : 87,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 29,
+    "id" : 477,
+    "location_id" : 136,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 30,
+    "id" : 478,
+    "location_id" : 136,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 31,
+    "id" : 479,
+    "location_id" : 136,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 32,
+    "id" : 480,
+    "location_id" : 136,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 33,
+    "id" : 481,
+    "location_id" : 136,
+    "identifier" : "b4f"
+  },
+  {
+    "game_index" : 34,
+    "id" : 482,
+    "location_id" : 160,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 35,
+    "id" : 483,
+    "location_id" : 160,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 36,
+    "id" : 484,
+    "location_id" : 160,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 37,
+    "id" : 485,
+    "location_id" : 160,
+    "identifier" : "6f"
+  },
+  {
+    "game_index" : 38,
+    "id" : 486,
+    "location_id" : 160,
+    "identifier" : "7f"
+  },
+  {
+    "game_index" : 39,
+    "id" : 487,
+    "location_id" : 158,
+    "identifier" : null
+  },
+  {
+    "game_index" : 40,
+    "id" : 488,
+    "location_id" : 500,
+    "identifier" : null
+  },
+  {
+    "game_index" : 41,
+    "id" : 489,
+    "location_id" : 500,
+    "identifier" : "cave"
+  },
+  {
+    "game_index" : 42,
+    "id" : 490,
+    "location_id" : 500,
+    "identifier" : "inside"
+  },
+  {
+    "game_index" : 44,
+    "id" : 491,
+    "location_id" : 500,
+    "identifier" : "1f-cave-behind-team-rocket"
+  },
+  {
+    "game_index" : 45,
+    "id" : 492,
+    "location_id" : 500,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 46,
+    "id" : 493,
+    "location_id" : 500,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 47,
+    "id" : 494,
+    "location_id" : 500,
+    "identifier" : "b3f"
+  },
+  {
+    "game_index" : 50,
+    "id" : 495,
+    "location_id" : 501,
+    "identifier" : null
+  },
+  {
+    "game_index" : 51,
+    "id" : 496,
+    "location_id" : 502,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 52,
+    "id" : 497,
+    "location_id" : 502,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 53,
+    "id" : 498,
+    "location_id" : 502,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 54,
+    "id" : 499,
+    "location_id" : 502,
+    "identifier" : "waterfall"
+  },
+  {
+    "game_index" : 55,
+    "id" : 500,
+    "location_id" : 503,
+    "identifier" : null
+  },
+  {
+    "game_index" : 56,
+    "id" : 501,
+    "location_id" : 504,
+    "identifier" : "room-1"
+  },
+  {
+    "game_index" : 57,
+    "id" : 502,
+    "location_id" : 504,
+    "identifier" : "room-2"
+  },
+  {
+    "game_index" : 58,
+    "id" : 503,
+    "location_id" : 504,
+    "identifier" : "room-3"
+  },
+  {
+    "game_index" : 59,
+    "id" : 504,
+    "location_id" : 504,
+    "identifier" : "room-4"
+  },
+  {
+    "game_index" : 60,
+    "id" : 505,
+    "location_id" : 504,
+    "identifier" : "room-5"
+  },
+  {
+    "game_index" : 61,
+    "id" : 506,
+    "location_id" : 504,
+    "identifier" : "room-6"
+  },
+  {
+    "game_index" : 62,
+    "id" : 507,
+    "location_id" : 504,
+    "identifier" : "room-7"
+  },
+  {
+    "game_index" : 63,
+    "id" : 508,
+    "location_id" : 504,
+    "identifier" : "room-8"
+  },
+  {
+    "game_index" : 64,
+    "id" : 509,
+    "location_id" : 504,
+    "identifier" : "room-9"
+  },
+  {
+    "game_index" : 65,
+    "id" : 510,
+    "location_id" : 504,
+    "identifier" : "room-10"
+  },
+  {
+    "game_index" : 66,
+    "id" : 511,
+    "location_id" : 504,
+    "identifier" : "item-rooms"
+  },
+  {
+    "game_index" : 70,
+    "id" : 512,
+    "location_id" : 505,
+    "identifier" : null
+  },
+  {
+    "game_index" : 71,
+    "id" : 513,
+    "location_id" : 506,
+    "identifier" : null
+  },
+  {
+    "game_index" : 72,
+    "id" : 514,
+    "location_id" : 507,
+    "identifier" : null
+  },
+  {
+    "game_index" : 73,
+    "id" : 515,
+    "location_id" : 508,
+    "identifier" : null
+  },
+  {
+    "game_index" : 74,
+    "id" : 516,
+    "location_id" : 509,
+    "identifier" : null
+  },
+  {
+    "game_index" : 75,
+    "id" : 517,
+    "location_id" : 510,
+    "identifier" : null
+  },
+  {
+    "game_index" : 76,
+    "id" : 518,
+    "location_id" : 511,
+    "identifier" : null
+  },
+  {
+    "game_index" : 77,
+    "id" : 519,
+    "location_id" : 512,
+    "identifier" : null
+  },
+  {
+    "game_index" : 78,
+    "id" : 520,
+    "location_id" : 513,
+    "identifier" : null
+  },
+  {
+    "game_index" : 79,
+    "id" : 521,
+    "location_id" : 514,
+    "identifier" : null
+  },
+  {
+    "game_index" : 80,
+    "id" : 522,
+    "location_id" : 515,
+    "identifier" : null
+  },
+  {
+    "game_index" : 81,
+    "id" : 523,
+    "location_id" : 516,
+    "identifier" : null
+  },
+  {
+    "game_index" : 82,
+    "id" : 524,
+    "location_id" : 517,
+    "identifier" : null
+  },
+  {
+    "game_index" : 83,
+    "id" : 525,
+    "location_id" : 518,
+    "identifier" : null
+  },
+  {
+    "game_index" : 84,
+    "id" : 526,
+    "location_id" : 519,
+    "identifier" : null
+  },
+  {
+    "game_index" : 85,
+    "id" : 527,
+    "location_id" : 520,
+    "identifier" : null
+  },
+  {
+    "game_index" : 86,
+    "id" : 528,
+    "location_id" : 521,
+    "identifier" : null
+  },
+  {
+    "game_index" : 87,
+    "id" : 529,
+    "location_id" : 88,
+    "identifier" : null
+  },
+  {
+    "game_index" : 88,
+    "id" : 530,
+    "location_id" : 99,
+    "identifier" : null
+  },
+  {
+    "game_index" : 89,
+    "id" : 531,
+    "location_id" : 109,
+    "identifier" : null
+  },
+  {
+    "game_index" : 90,
+    "id" : 532,
+    "location_id" : 120,
+    "identifier" : null
+  },
+  {
+    "game_index" : 91,
+    "id" : 533,
+    "location_id" : 130,
+    "identifier" : null
+  },
+  {
+    "game_index" : 92,
+    "id" : 534,
+    "location_id" : 131,
+    "identifier" : null
+  },
+  {
+    "game_index" : 93,
+    "id" : 535,
+    "location_id" : 132,
+    "identifier" : null
+  },
+  {
+    "game_index" : 94,
+    "id" : 536,
+    "location_id" : 133,
+    "identifier" : null
+  },
+  {
+    "game_index" : 95,
+    "id" : 537,
+    "location_id" : 134,
+    "identifier" : null
+  },
+  {
+    "game_index" : 96,
+    "id" : 538,
+    "location_id" : 89,
+    "identifier" : null
+  },
+  {
+    "game_index" : 97,
+    "id" : 539,
+    "location_id" : 90,
+    "identifier" : null
+  },
+  {
+    "game_index" : 98,
+    "id" : 540,
+    "location_id" : 91,
+    "identifier" : null
+  },
+  {
+    "game_index" : 99,
+    "id" : 541,
+    "location_id" : 92,
+    "identifier" : null
+  },
+  {
+    "game_index" : 100,
+    "id" : 542,
+    "location_id" : 93,
+    "identifier" : null
+  },
+  {
+    "game_index" : 101,
+    "id" : 543,
+    "location_id" : 94,
+    "identifier" : null
+  },
+  {
+    "game_index" : 102,
+    "id" : 544,
+    "location_id" : 95,
+    "identifier" : null
+  },
+  {
+    "game_index" : 103,
+    "id" : 545,
+    "location_id" : 96,
+    "identifier" : null
+  },
+  {
+    "game_index" : 104,
+    "id" : 546,
+    "location_id" : 97,
+    "identifier" : null
+  },
+  {
+    "game_index" : 105,
+    "id" : 547,
+    "location_id" : 522,
+    "identifier" : null
+  },
+  {
+    "game_index" : 106,
+    "id" : 548,
+    "location_id" : 523,
+    "identifier" : null
+  },
+  {
+    "game_index" : 107,
+    "id" : 549,
+    "location_id" : 524,
+    "identifier" : null
+  },
+  {
+    "game_index" : 109,
+    "id" : 550,
+    "location_id" : 102,
+    "identifier" : null
+  },
+  {
+    "game_index" : 110,
+    "id" : 551,
+    "location_id" : 157,
+    "identifier" : null
+  },
+  {
+    "game_index" : 111,
+    "id" : 552,
+    "location_id" : 103,
+    "identifier" : null
+  },
+  {
+    "game_index" : 112,
+    "id" : 553,
+    "location_id" : 104,
+    "identifier" : null
+  },
+  {
+    "game_index" : 113,
+    "id" : 554,
+    "location_id" : 86,
+    "identifier" : null
+  },
+  {
+    "game_index" : 114,
+    "id" : 555,
+    "location_id" : 154,
+    "identifier" : null
+  },
+  {
+    "game_index" : 115,
+    "id" : 556,
+    "location_id" : 68,
+    "identifier" : null
+  },
+  {
+    "game_index" : 116,
+    "id" : 557,
+    "location_id" : 525,
+    "identifier" : null
+  },
+  {
+    "game_index" : 117,
+    "id" : 558,
+    "location_id" : 67,
+    "identifier" : null
+  },
+  {
+    "game_index" : 118,
+    "id" : 559,
+    "location_id" : 76,
+    "identifier" : null
+  },
+  {
+    "game_index" : 119,
+    "id" : 560,
+    "location_id" : 71,
+    "identifier" : null
+  },
+  {
+    "game_index" : 120,
+    "id" : 561,
+    "location_id" : 526,
+    "identifier" : null
+  },
+  {
+    "game_index" : 121,
+    "id" : 562,
+    "location_id" : 527,
+    "identifier" : null
+  },
+  {
+    "game_index" : 122,
+    "id" : 563,
+    "location_id" : 528,
+    "identifier" : null
+  },
+  {
+    "game_index" : 123,
+    "id" : 564,
+    "location_id" : 529,
+    "identifier" : "a"
+  },
+  {
+    "game_index" : 124,
+    "id" : 565,
+    "location_id" : 529,
+    "identifier" : "b"
+  },
+  {
+    "game_index" : 125,
+    "id" : 566,
+    "location_id" : 529,
+    "identifier" : "c"
+  },
+  {
+    "game_index" : 126,
+    "id" : 567,
+    "location_id" : 529,
+    "identifier" : "d"
+  },
+  {
+    "game_index" : 127,
+    "id" : 568,
+    "location_id" : 529,
+    "identifier" : "e"
+  },
+  {
+    "game_index" : 128,
+    "id" : 569,
+    "location_id" : 529,
+    "identifier" : "f"
+  },
+  {
+    "game_index" : 129,
+    "id" : 570,
+    "location_id" : 529,
+    "identifier" : "g"
+  },
+  {
+    "game_index" : 130,
+    "id" : 571,
+    "location_id" : 529,
+    "identifier" : "h"
+  },
+  {
+    "game_index" : 131,
+    "id" : 572,
+    "location_id" : 529,
+    "identifier" : "i"
+  },
+  {
+    "game_index" : 13,
+    "id" : 573,
+    "location_id" : 530,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 14,
+    "id" : 574,
+    "location_id" : 530,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 15,
+    "id" : 575,
+    "location_id" : 530,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 0,
+    "id" : 576,
+    "location_id" : 348,
+    "identifier" : null
+  },
+  {
+    "game_index" : 1,
+    "id" : 577,
+    "location_id" : 352,
+    "identifier" : null
+  },
+  {
+    "game_index" : 2,
+    "id" : 578,
+    "location_id" : 354,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 579,
+    "location_id" : 374,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 580,
+    "location_id" : 374,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 5,
+    "id" : 581,
+    "location_id" : 375,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 6,
+    "id" : 582,
+    "location_id" : 375,
+    "identifier" : "inside"
+  },
+  {
+    "game_index" : 7,
+    "id" : 583,
+    "location_id" : 376,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 8,
+    "id" : 584,
+    "location_id" : 376,
+    "identifier" : null
+  },
+  {
+    "game_index" : 9,
+    "id" : 585,
+    "location_id" : 377,
+    "identifier" : "a"
+  },
+  {
+    "game_index" : 11,
+    "id" : 586,
+    "location_id" : 377,
+    "identifier" : "b"
+  },
+  {
+    "game_index" : 15,
+    "id" : 587,
+    "location_id" : 377,
+    "identifier" : "c"
+  },
+  {
+    "game_index" : 30,
+    "id" : 588,
+    "location_id" : 377,
+    "identifier" : "d"
+  },
+  {
+    "game_index" : 40,
+    "id" : 589,
+    "location_id" : 378,
+    "identifier" : null
+  },
+  {
+    "game_index" : 41,
+    "id" : 590,
+    "location_id" : 379,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 42,
+    "id" : 591,
+    "location_id" : 379,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 43,
+    "id" : 592,
+    "location_id" : 379,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 44,
+    "id" : 593,
+    "location_id" : 380,
+    "identifier" : null
+  },
+  {
+    "game_index" : 48,
+    "id" : 594,
+    "location_id" : 381,
+    "identifier" : "entrance"
+  },
+  {
+    "game_index" : 49,
+    "id" : 595,
+    "location_id" : 381,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 50,
+    "id" : 596,
+    "location_id" : 381,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 51,
+    "id" : 597,
+    "location_id" : 381,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 52,
+    "id" : 598,
+    "location_id" : 382,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 53,
+    "id" : 599,
+    "location_id" : 382,
+    "identifier" : "unknown-area-53"
+  },
+  {
+    "game_index" : 54,
+    "id" : 600,
+    "location_id" : 382,
+    "identifier" : "unknown-area-54"
+  },
+  {
+    "game_index" : 55,
+    "id" : 601,
+    "location_id" : 382,
+    "identifier" : "unknown-area-55"
+  },
+  {
+    "game_index" : 56,
+    "id" : 602,
+    "location_id" : 382,
+    "identifier" : "unknown-area-56"
+  },
+  {
+    "game_index" : 57,
+    "id" : 603,
+    "location_id" : 382,
+    "identifier" : "unknown-area-57"
+  },
+  {
+    "game_index" : 58,
+    "id" : 604,
+    "location_id" : 382,
+    "identifier" : "unknown-area-58"
+  },
+  {
+    "game_index" : 59,
+    "id" : 605,
+    "location_id" : 382,
+    "identifier" : "unknown-area-59"
+  },
+  {
+    "game_index" : 60,
+    "id" : 606,
+    "location_id" : 382,
+    "identifier" : "unknown-area-60"
+  },
+  {
+    "game_index" : 61,
+    "id" : 607,
+    "location_id" : 382,
+    "identifier" : "unknown-area-61"
+  },
+  {
+    "game_index" : 62,
+    "id" : 608,
+    "location_id" : 382,
+    "identifier" : "unknown-area-62"
+  },
+  {
+    "game_index" : 63,
+    "id" : 609,
+    "location_id" : 382,
+    "identifier" : "unknown-area-63"
+  },
+  {
+    "game_index" : 64,
+    "id" : 610,
+    "location_id" : 382,
+    "identifier" : "unknown-area-64"
+  },
+  {
+    "game_index" : 65,
+    "id" : 611,
+    "location_id" : 382,
+    "identifier" : "unknown-area-65"
+  },
+  {
+    "game_index" : 66,
+    "id" : 612,
+    "location_id" : 382,
+    "identifier" : "unknown-area-66"
+  },
+  {
+    "game_index" : 67,
+    "id" : 613,
+    "location_id" : 415,
+    "identifier" : null
+  },
+  {
+    "game_index" : 68,
+    "id" : 614,
+    "location_id" : 403,
+    "identifier" : "outside"
+  },
+  {
+    "game_index" : 69,
+    "id" : 615,
+    "location_id" : 403,
+    "identifier" : null
+  },
+  {
+    "game_index" : 70,
+    "id" : 616,
+    "location_id" : 403,
+    "identifier" : "forest"
+  },
+  {
+    "game_index" : 71,
+    "id" : 617,
+    "location_id" : 403,
+    "identifier" : "forest-cave"
+  },
+  {
+    "game_index" : 72,
+    "id" : 618,
+    "location_id" : 405,
+    "identifier" : null
+  },
+  {
+    "game_index" : 73,
+    "id" : 619,
+    "location_id" : 413,
+    "identifier" : null
+  },
+  {
+    "game_index" : 74,
+    "id" : 620,
+    "location_id" : 407,
+    "identifier" : null
+  },
+  {
+    "game_index" : 75,
+    "id" : 621,
+    "location_id" : 409,
+    "identifier" : null
+  },
+  {
+    "game_index" : 76,
+    "id" : 622,
+    "location_id" : 410,
+    "identifier" : null
+  },
+  {
+    "game_index" : 77,
+    "id" : 623,
+    "location_id" : 356,
+    "identifier" : null
+  },
+  {
+    "game_index" : 78,
+    "id" : 624,
+    "location_id" : 357,
+    "identifier" : null
+  },
+  {
+    "game_index" : 79,
+    "id" : 625,
+    "location_id" : 358,
+    "identifier" : null
+  },
+  {
+    "game_index" : 80,
+    "id" : 626,
+    "location_id" : 395,
+    "identifier" : null
+  },
+  {
+    "game_index" : 82,
+    "id" : 627,
+    "location_id" : 359,
+    "identifier" : null
+  },
+  {
+    "game_index" : 83,
+    "id" : 628,
+    "location_id" : 360,
+    "identifier" : null
+  },
+  {
+    "game_index" : 84,
+    "id" : 629,
+    "location_id" : 361,
+    "identifier" : null
+  },
+  {
+    "game_index" : 85,
+    "id" : 630,
+    "location_id" : 396,
+    "identifier" : null
+  },
+  {
+    "game_index" : 87,
+    "id" : 631,
+    "location_id" : 416,
+    "identifier" : null
+  },
+  {
+    "game_index" : 88,
+    "id" : 632,
+    "location_id" : 362,
+    "identifier" : null
+  },
+  {
+    "game_index" : 89,
+    "id" : 633,
+    "location_id" : 398,
+    "identifier" : "2f"
+  },
+  {
+    "game_index" : 90,
+    "id" : 634,
+    "location_id" : 398,
+    "identifier" : "3f"
+  },
+  {
+    "game_index" : 91,
+    "id" : 635,
+    "location_id" : 398,
+    "identifier" : "4f"
+  },
+  {
+    "game_index" : 92,
+    "id" : 636,
+    "location_id" : 398,
+    "identifier" : "5f"
+  },
+  {
+    "game_index" : 93,
+    "id" : 637,
+    "location_id" : 363,
+    "identifier" : null
+  },
+  {
+    "game_index" : 94,
+    "id" : 638,
+    "location_id" : 399,
+    "identifier" : null
+  },
+  {
+    "game_index" : 95,
+    "id" : 639,
+    "location_id" : 364,
+    "identifier" : null
+  },
+  {
+    "game_index" : 96,
+    "id" : 640,
+    "location_id" : 401,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 97,
+    "id" : 641,
+    "location_id" : 401,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 98,
+    "id" : 642,
+    "location_id" : 401,
+    "identifier" : "b2f"
+  },
+  {
+    "game_index" : 99,
+    "id" : 643,
+    "location_id" : 365,
+    "identifier" : null
+  },
+  {
+    "game_index" : 100,
+    "id" : 644,
+    "location_id" : 365,
+    "identifier" : "victory-road-gate"
+  },
+  {
+    "game_index" : 101,
+    "id" : 645,
+    "location_id" : 366,
+    "identifier" : null
+  },
+  {
+    "game_index" : 102,
+    "id" : 646,
+    "location_id" : 367,
+    "identifier" : null
+  },
+  {
+    "game_index" : 103,
+    "id" : 647,
+    "location_id" : 368,
+    "identifier" : null
+  },
+  {
+    "game_index" : 104,
+    "id" : 648,
+    "location_id" : 369,
+    "identifier" : null
+  },
+  {
+    "game_index" : 105,
+    "id" : 649,
+    "location_id" : 412,
+    "identifier" : null
+  },
+  {
+    "game_index" : 106,
+    "id" : 650,
+    "location_id" : 370,
+    "identifier" : null
+  },
+  {
+    "game_index" : 107,
+    "id" : 651,
+    "location_id" : 371,
+    "identifier" : null
+  },
+  {
+    "game_index" : 108,
+    "id" : 652,
+    "location_id" : 414,
+    "identifier" : null
+  },
+  {
+    "game_index" : 109,
+    "id" : 653,
+    "location_id" : 373,
+    "identifier" : null
+  },
+  {
+    "game_index" : 110,
+    "id" : 654,
+    "location_id" : 384,
+    "identifier" : null
+  },
+  {
+    "game_index" : 111,
+    "id" : 655,
+    "location_id" : 372,
+    "identifier" : null
+  },
+  {
+    "game_index" : 1,
+    "id" : 656,
+    "location_id" : 350,
+    "identifier" : null
+  },
+  {
+    "game_index" : 3,
+    "id" : 657,
+    "location_id" : 531,
+    "identifier" : null
+  },
+  {
+    "game_index" : 4,
+    "id" : 658,
+    "location_id" : 532,
+    "identifier" : null
+  },
+  {
+    "game_index" : 5,
+    "id" : 659,
+    "location_id" : 533,
+    "identifier" : null
+  },
+  {
+    "game_index" : 31,
+    "id" : 660,
+    "location_id" : 382,
+    "identifier" : "7f"
+  },
+  {
+    "game_index" : 71,
+    "id" : 661,
+    "location_id" : 548,
+    "identifier" : "unknown-area-71"
+  },
+  {
+    "game_index" : 72,
+    "id" : 662,
+    "location_id" : 548,
+    "identifier" : "unknown-area-72"
+  },
+  {
+    "game_index" : 73,
+    "id" : 663,
+    "location_id" : 548,
+    "identifier" : "unknown-area-73"
+  },
+  {
+    "game_index" : 74,
+    "id" : 664,
+    "location_id" : 548,
+    "identifier" : "unknown-area-74"
+  },
+  {
+    "game_index" : 75,
+    "id" : 665,
+    "location_id" : 548,
+    "identifier" : "unknown-area-75"
+  },
+  {
+    "game_index" : 76,
+    "id" : 666,
+    "location_id" : 548,
+    "identifier" : "unknown-area-76"
+  },
+  {
+    "game_index" : 77,
+    "id" : 667,
+    "location_id" : 548,
+    "identifier" : "unknown-area-77"
+  },
+  {
+    "game_index" : 78,
+    "id" : 668,
+    "location_id" : 548,
+    "identifier" : "unknown-area-78"
+  },
+  {
+    "game_index" : 79,
+    "id" : 669,
+    "location_id" : 548,
+    "identifier" : "unknown-area-79"
+  },
+  {
+    "game_index" : 80,
+    "id" : 670,
+    "location_id" : 548,
+    "identifier" : "unknown-area-80"
+  },
+  {
+    "game_index" : 37,
+    "id" : 671,
+    "location_id" : 543,
+    "identifier" : null
+  },
+  {
+    "game_index" : 38,
+    "id" : 672,
+    "location_id" : 543,
+    "identifier" : "unknown-area-38"
+  },
+  {
+    "game_index" : 44,
+    "id" : 673,
+    "location_id" : 544,
+    "identifier" : "outer"
+  },
+  {
+    "game_index" : 45,
+    "id" : 674,
+    "location_id" : 544,
+    "identifier" : "inner"
+  },
+  {
+    "game_index" : 46,
+    "id" : 675,
+    "location_id" : 545,
+    "identifier" : "outer"
+  },
+  {
+    "game_index" : 47,
+    "id" : 676,
+    "location_id" : 545,
+    "identifier" : "inner"
+  },
+  {
+    "game_index" : 48,
+    "id" : 677,
+    "location_id" : 546,
+    "identifier" : "unknown-area-48"
+  },
+  {
+    "game_index" : 49,
+    "id" : 678,
+    "location_id" : 546,
+    "identifier" : "unknown-area-49"
+  },
+  {
+    "game_index" : 50,
+    "id" : 679,
+    "location_id" : 546,
+    "identifier" : "unknown-area-50"
+  },
+  {
+    "game_index" : 51,
+    "id" : 680,
+    "location_id" : 546,
+    "identifier" : "unknown-area-51"
+  },
+  {
+    "game_index" : 52,
+    "id" : 681,
+    "location_id" : 546,
+    "identifier" : "unknown-area-52"
+  },
+  {
+    "game_index" : 53,
+    "id" : 682,
+    "location_id" : 546,
+    "identifier" : "unknown-area-53"
+  },
+  {
+    "game_index" : 54,
+    "id" : 683,
+    "location_id" : 546,
+    "identifier" : "unknown-area-54"
+  },
+  {
+    "game_index" : 55,
+    "id" : 684,
+    "location_id" : 546,
+    "identifier" : "unknown-area-55"
+  },
+  {
+    "game_index" : 56,
+    "id" : 685,
+    "location_id" : 546,
+    "identifier" : "unknown-area-56"
+  },
+  {
+    "game_index" : 57,
+    "id" : 686,
+    "location_id" : 546,
+    "identifier" : "unknown-area-57"
+  },
+  {
+    "game_index" : 58,
+    "id" : 687,
+    "location_id" : 546,
+    "identifier" : "unknown-area-58"
+  },
+  {
+    "game_index" : 59,
+    "id" : 688,
+    "location_id" : 546,
+    "identifier" : "unknown-area-59"
+  },
+  {
+    "game_index" : 60,
+    "id" : 689,
+    "location_id" : 546,
+    "identifier" : "unknown-area-60"
+  },
+  {
+    "game_index" : 61,
+    "id" : 690,
+    "location_id" : 547,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 65,
+    "id" : 691,
+    "location_id" : 547,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 81,
+    "id" : 692,
+    "location_id" : 550,
+    "identifier" : "castelia-sewers-entrance"
+  },
+  {
+    "game_index" : 82,
+    "id" : 693,
+    "location_id" : 550,
+    "identifier" : "relic-castle-entrance"
+  },
+  {
+    "game_index" : 83,
+    "id" : 694,
+    "location_id" : 550,
+    "identifier" : "pwt-entrance"
+  },
+  {
+    "game_index" : 84,
+    "id" : 695,
+    "location_id" : 551,
+    "identifier" : null
+  },
+  {
+    "game_index" : 87,
+    "id" : 696,
+    "location_id" : 562,
+    "identifier" : null
+  },
+  {
+    "game_index" : 90,
+    "id" : 697,
+    "location_id" : 563,
+    "identifier" : null
+  },
+  {
+    "game_index" : 91,
+    "id" : 698,
+    "location_id" : 564,
+    "identifier" : null
+  },
+  {
+    "game_index" : 92,
+    "id" : 699,
+    "location_id" : 565,
+    "identifier" : null
+  },
+  {
+    "game_index" : 93,
+    "id" : 700,
+    "location_id" : 554,
+    "identifier" : "1f"
+  },
+  {
+    "game_index" : 94,
+    "id" : 701,
+    "location_id" : 554,
+    "identifier" : "b1f"
+  },
+  {
+    "game_index" : 95,
+    "id" : 702,
+    "location_id" : 560,
+    "identifier" : null
+  },
+  {
+    "game_index" : 128,
+    "id" : 703,
+    "location_id" : 538,
+    "identifier" : null
+  },
+  {
+    "game_index" : 129,
+    "id" : 704,
+    "location_id" : 539,
+    "identifier" : null
+  },
+  {
+    "game_index" : 130,
+    "id" : 705,
+    "location_id" : 541,
+    "identifier" : null
+  },
+  {
+    "game_index" : 131,
+    "id" : 706,
+    "location_id" : 542,
+    "identifier" : null
+  },
+  {
+    "game_index" : 134,
+    "id" : 707,
+    "location_id" : 540,
+    "identifier" : null
+  }
+]

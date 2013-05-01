@@ -1,0 +1,158 @@
+[
+  {
+    "local_language_id" : 9,
+    "name" : "Makes contact",
+    "move_flag_id" : 1,
+    "description" : "User touches the target.  This triggers some abilities (e.g., []{ability:static}) and items (e.g., []{item:sticky-barb})."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Has a charging turn",
+    "move_flag_id" : 2,
+    "description" : "This move has a charging turn that can be skipped with a []{item:power-herb}."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Must recharge",
+    "move_flag_id" : 3,
+    "description" : "The turn after this move is used, the Pokémon's action is skipped so it can recharge."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Blocked by Detect and Protect",
+    "move_flag_id" : 4,
+    "description" : "This move will not work if the target has used []{move:detect} or []{move:protect} this turn."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Reflectable",
+    "move_flag_id" : 5,
+    "description" : "This move may be reflected back at the user with []{move:magic-coat} or []{ability:magic-bounce}."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Snatchable",
+    "move_flag_id" : 6,
+    "description" : "This move will be stolen if another Pokémon has used []{move:snatch} this turn."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Copied by Mirror Move",
+    "move_flag_id" : 7,
+    "description" : "A Pokémon targeted by this move can use []{move:mirror-move} to copy it."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Punch-based",
+    "move_flag_id" : 8,
+    "description" : "This move has 1.2× its usual power when used by a Pokémon with []{ability:iron-fist}."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Sound-based",
+    "move_flag_id" : 9,
+    "description" : "Pokémon with []{ability:soundproof} are immune to this move."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Unusable during Gravity",
+    "move_flag_id" : 10,
+    "description" : "This move cannot be used in high []{move:gravity}."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Defrosts when used",
+    "move_flag_id" : 11,
+    "description" : "This move can be used while frozen to force the Pokémon to defrost."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Targets opposite side in triples",
+    "move_flag_id" : 12,
+    "description" : "In triple battles, this move can be used on either side to target the farthest away opposing Pokémon."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Heals",
+    "move_flag_id" : 13,
+    "description" : "This move is blocked by []{move:heal-block}."
+  },
+  {
+    "local_language_id" : 9,
+    "name" : "Ignores Substitute",
+    "move_flag_id" : 14,
+    "description" : "This move ignores the target's []{move:substitute}."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Blokované Detectem a Protectem",
+    "move_flag_id" : 4,
+    "description" : "Tento útok nebude fungovat, použil-li cíl toto kolo []{move:detect} či [protect]{move:protect}."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Rozmrazí při použití",
+    "move_flag_id" : 11,
+    "description" : "Tento útok může zmražený pokémon použít k rozmrznutí."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Odrazitelný",
+    "move_flag_id" : 5,
+    "description" : null
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Nepoužitelný s Gravitací",
+    "move_flag_id" : 10,
+    "description" : "Tento útok nelze použít při [zvýšené gravitaci]{move:gravity} "
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Má dobíjecí kolo",
+    "move_flag_id" : 3,
+    "description" : "Kolo po použití tohoto útoku přeskočí Pokémon svůj tah, aby se mohl dobít."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Ukradnutelný",
+    "move_flag_id" : 6,
+    "description" : "Tento útok bude ukraden, pokud jiný Pokémon toto kolo použil []{move:snatch}"
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Úderový",
+    "move_flag_id" : 8,
+    "description" : null
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Má nabíjecí kolo",
+    "move_flag_id" : 2,
+    "description" : "Tento útok má nabíjecí kolo, které lze přeskočit pomocí []{item:power-herb}."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Zvukový",
+    "move_flag_id" : 9,
+    "description" : "Pokémoni s []{ability:soundproof} jsou proti tomuto útoku odolní."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Kopírovatelný Mirror Movem",
+    "move_flag_id" : 7,
+    "description" : "Pokémon co je cílem tohoto útoku ho může zkopírovat pomocí []{move:mirror-move}"
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Způsobí dotek",
+    "move_flag_id" : 1,
+    "description" : "Uživatel se dotkne cíle.  Toto zaktivuje některé schopnosti (např. []{ability:static}) a věci (např. []{item:sticky-barb})."
+  },
+  {
+    "local_language_id" : 10,
+    "name" : "Léčí",
+    "move_flag_id" : 13,
+    "description" : "Tento útok bude blokován pomocí []{move:heal-block}."
+  }
+]

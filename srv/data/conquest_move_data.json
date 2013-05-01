@@ -1,0 +1,1109 @@
+[
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 1,
+    "power" : 26,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 9,
+    "move_id" : 2,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 14,
+    "move_id" : 3,
+    "power" : 10,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 17,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 60,
+    "move_id" : 22,
+    "power" : 24,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 44,
+    "move_id" : 29,
+    "power" : 39,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 33,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 37,
+    "move_id" : 34,
+    "power" : 45,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 39,
+    "move_id" : 40,
+    "power" : 12,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 68,
+    "move_id" : 41,
+    "power" : 26,
+    "effect_chance" : 20,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 44,
+    "move_id" : 44,
+    "power" : 36,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 41,
+    "move_id" : 52,
+    "power" : 26,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 41,
+    "move_id" : 53,
+    "power" : 45,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 60,
+    "move_id" : 55,
+    "power" : 24,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 60,
+    "move_id" : 56,
+    "power" : 51,
+    "effect_chance" : null,
+    "accuracy" : 80
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 42,
+    "move_id" : 58,
+    "power" : 45,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 16,
+    "effect_id" : 42,
+    "move_id" : 59,
+    "power" : 51,
+    "effect_chance" : 10,
+    "accuracy" : 70
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 43,
+    "move_id" : 60,
+    "power" : 35,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 17,
+    "effect_id" : 33,
+    "move_id" : 61,
+    "power" : 38,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 67,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 21,
+    "move_id" : 71,
+    "power" : 20,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 21,
+    "move_id" : 72,
+    "power" : 26,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 9,
+    "move_id" : 75,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 5,
+    "effect_id" : 64,
+    "move_id" : 80,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 1,
+    "move_id" : 82,
+    "power" : 40,
+    "effect_chance" : null,
+    "accuracy" : 75
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 14,
+    "effect_id" : 15,
+    "move_id" : 83,
+    "power" : 12,
+    "effect_chance" : null,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 37,
+    "move_id" : 84,
+    "power" : 24,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 15,
+    "effect_id" : 37,
+    "move_id" : 85,
+    "power" : 45,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 12,
+    "effect_id" : 37,
+    "move_id" : 87,
+    "power" : 51,
+    "effect_chance" : 30,
+    "accuracy" : 70
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 16,
+    "move_id" : 91,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 12,
+    "effect_id" : 43,
+    "move_id" : 93,
+    "power" : 29,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 13,
+    "effect_id" : 30,
+    "move_id" : 94,
+    "power" : 44,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 38,
+    "move_id" : 95,
+    "power" : null,
+    "effect_chance" : 100,
+    "accuracy" : 60
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 98,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 1,
+    "effect_id" : 22,
+    "move_id" : 100,
+    "power" : null,
+    "effect_chance" : null,
+    "accuracy" : null
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 37,
+    "move_id" : 122,
+    "power" : 14,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 19,
+    "effect_id" : 41,
+    "move_id" : 126,
+    "power" : 51,
+    "effect_chance" : 10,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 26,
+    "move_id" : 136,
+    "power" : 65,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 67,
+    "move_id" : 138,
+    "power" : 48,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 33,
+    "move_id" : 145,
+    "power" : 20,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 1,
+    "effect_id" : 69,
+    "move_id" : 150,
+    "power" : null,
+    "effect_chance" : null,
+    "accuracy" : null
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 14,
+    "move_id" : 154,
+    "power" : 10,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 44,
+    "move_id" : 157,
+    "power" : 41,
+    "effect_chance" : 30,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 44,
+    "move_id" : 158,
+    "power" : 43,
+    "effect_chance" : 10,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 9,
+    "move_id" : 163,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 62,
+    "move_id" : 172,
+    "power" : 32,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 42,
+    "move_id" : 181,
+    "power" : 24,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 52,
+    "move_id" : 185,
+    "power" : 36,
+    "effect_chance" : null,
+    "accuracy" : null
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 18,
+    "effect_id" : 39,
+    "move_id" : 188,
+    "power" : 44,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 36,
+    "move_id" : 189,
+    "power" : 17,
+    "effect_chance" : 100,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 58,
+    "move_id" : 196,
+    "power" : 34,
+    "effect_chance" : 100,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 5,
+    "effect_id" : 64,
+    "move_id" : 200,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 37,
+    "move_id" : 209,
+    "power" : 39,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 3,
+    "move_id" : 210,
+    "power" : 12,
+    "effect_chance" : null,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 7,
+    "effect_id" : 30,
+    "move_id" : 231,
+    "power" : 45,
+    "effect_chance" : 30,
+    "accuracy" : 75
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 28,
+    "move_id" : 232,
+    "power" : 31,
+    "effect_chance" : 10,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 10,
+    "effect_id" : 9,
+    "move_id" : 238,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 80
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 30,
+    "move_id" : 242,
+    "power" : 43,
+    "effect_chance" : 20,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 30,
+    "move_id" : 247,
+    "power" : 43,
+    "effect_chance" : 20,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 16,
+    "effect_id" : 18,
+    "move_id" : 248,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 59,
+    "move_id" : 276,
+    "power" : 55,
+    "effect_chance" : 100,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 3,
+    "move_id" : 301,
+    "power" : 18,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 6,
+    "effect_id" : 60,
+    "move_id" : 304,
+    "power" : 44,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 40,
+    "move_id" : 305,
+    "power" : 31,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 28,
+    "move_id" : 309,
+    "power" : 48,
+    "effect_chance" : 20,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 44,
+    "move_id" : 310,
+    "power" : 20,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 58,
+    "move_id" : 317,
+    "power" : 31,
+    "effect_chance" : 100,
+    "accuracy" : 80
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 337,
+    "power" : 43,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 66,
+    "move_id" : 342,
+    "power" : 29,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 15,
+    "effect_id" : 63,
+    "move_id" : 344,
+    "power" : 58,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 9,
+    "move_id" : 348,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 14,
+    "move_id" : 350,
+    "power" : 10,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 43,
+    "move_id" : 352,
+    "power" : 36,
+    "effect_chance" : 20,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 65,
+    "move_id" : 358,
+    "power" : 36,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 6,
+    "move_id" : 360,
+    "power" : 18,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 48,
+    "move_id" : 362,
+    "power" : 35,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 7,
+    "move_id" : 372,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 37,
+    "move_id" : 395,
+    "power" : 31,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 11,
+    "effect_id" : 52,
+    "move_id" : 396,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : null
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 39,
+    "move_id" : 398,
+    "power" : 43,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 9,
+    "move_id" : 400,
+    "power" : 38,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 7,
+    "effect_id" : 60,
+    "move_id" : 401,
+    "power" : 44,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 10,
+    "effect_id" : 60,
+    "move_id" : 404,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 60,
+    "move_id" : 406,
+    "power" : 44,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 2,
+    "range_id" : 13,
+    "effect_id" : 44,
+    "move_id" : 407,
+    "power" : 45,
+    "effect_chance" : 20,
+    "accuracy" : 75
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 8,
+    "effect_id" : 25,
+    "move_id" : 413,
+    "power" : 58,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 9,
+    "effect_id" : 30,
+    "move_id" : 414,
+    "power" : 44,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 418,
+    "power" : 26,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 61,
+    "move_id" : 424,
+    "power" : 39,
+    "effect_chance" : 10,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 60,
+    "move_id" : 425,
+    "power" : 26,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 36,
+    "move_id" : 426,
+    "power" : 39,
+    "effect_chance" : 30,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 3,
+    "effect_id" : 9,
+    "move_id" : 427,
+    "power" : 38,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 9,
+    "effect_id" : 30,
+    "move_id" : 430,
+    "power" : 41,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 6,
+    "effect_id" : 37,
+    "move_id" : 435,
+    "power" : 41,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 6,
+    "effect_id" : 29,
+    "move_id" : 437,
+    "power" : 52,
+    "effect_chance" : 100,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 12,
+    "effect_id" : 23,
+    "move_id" : 439,
+    "power" : 58,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 10,
+    "effect_id" : 66,
+    "move_id" : 440,
+    "power" : 38,
+    "effect_chance" : 10,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 44,
+    "move_id" : 442,
+    "power" : 43,
+    "effect_chance" : 30,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 9,
+    "effect_id" : 9,
+    "move_id" : 444,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 80
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 6,
+    "effect_id" : 60,
+    "move_id" : 449,
+    "power" : 55,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 51,
+    "move_id" : 450,
+    "power" : 36,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 21,
+    "effect_id" : 23,
+    "move_id" : 459,
+    "power" : 58,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 60,
+    "move_id" : 473,
+    "power" : 43,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 15,
+    "effect_id" : 49,
+    "move_id" : 474,
+    "power" : 35,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 18,
+    "effect_id" : 60,
+    "move_id" : 481,
+    "power" : 38,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 5,
+    "move_id" : 486,
+    "power" : 26,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 8,
+    "move_id" : 492,
+    "power" : 47,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 2,
+    "move_id" : 506,
+    "power" : 31,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 17,
+    "move_id" : 507,
+    "power" : 36,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 4,
+    "effect_id" : 47,
+    "move_id" : 510,
+    "power" : 28,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 3,
+    "range_id" : 11,
+    "effect_id" : 19,
+    "move_id" : 521,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 5,
+    "effect_id" : 58,
+    "move_id" : 523,
+    "power" : 33,
+    "effect_chance" : 100,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 5,
+    "range_id" : 7,
+    "effect_id" : 20,
+    "move_id" : 525,
+    "power" : 33,
+    "effect_chance" : null,
+    "accuracy" : 90
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 9,
+    "move_id" : 529,
+    "power" : 41,
+    "effect_chance" : null,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 2,
+    "effect_id" : 4,
+    "move_id" : 533,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : 1,
+    "range_id" : 11,
+    "effect_id" : 60,
+    "move_id" : 535,
+    "power" : 43,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 5,
+    "effect_id" : 36,
+    "move_id" : 539,
+    "power" : 42,
+    "effect_chance" : 40,
+    "accuracy" : 95
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 20,
+    "effect_id" : 60,
+    "move_id" : 540,
+    "power" : 45,
+    "effect_chance" : null,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 7,
+    "effect_id" : 14,
+    "move_id" : 541,
+    "power" : 23,
+    "effect_chance" : null,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : 4,
+    "range_id" : 2,
+    "effect_id" : 37,
+    "move_id" : 550,
+    "power" : 57,
+    "effect_chance" : 20,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 9,
+    "effect_id" : 41,
+    "move_id" : 551,
+    "power" : 55,
+    "effect_chance" : 20,
+    "accuracy" : 85
+  },
+  {
+    "displacement_id" : 2,
+    "range_id" : 13,
+    "effect_id" : 28,
+    "move_id" : 552,
+    "power" : 41,
+    "effect_chance" : 50,
+    "accuracy" : 100
+  },
+  {
+    "displacement_id" : null,
+    "range_id" : 11,
+    "effect_id" : 44,
+    "move_id" : 556,
+    "power" : 45,
+    "effect_chance" : 30,
+    "accuracy" : 90
+  }
+]

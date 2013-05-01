@@ -1,0 +1,98 @@
+[
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 1,
+    "name" : "Countable",
+    "description" : "Has a count in the bag"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 2,
+    "name" : "Consumable",
+    "description" : "Consumed when used"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 3,
+    "name" : "Usable_overworld",
+    "description" : "Usable outside battle"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 4,
+    "name" : "Usable_in_battle",
+    "description" : "Usable in battle"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 5,
+    "name" : "Holdable",
+    "description" : "Can be held by a Pokémon"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 6,
+    "name" : "Holdable_passive",
+    "description" : "Works passively when held"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 7,
+    "name" : "Holdable_active",
+    "description" : "Usable by a Pokémon when held"
+  },
+  {
+    "local_language_id" : 9,
+    "item_flag_id" : 8,
+    "name" : "Underground",
+    "description" : "Appears in Sinnoh Underground"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 4,
+    "name" : null,
+    "description" : "Použitelný v souboji"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 5,
+    "name" : "Držitelný",
+    "description" : "Může být držen pokémonem"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 3,
+    "name" : null,
+    "description" : "Použitelný mimo souboj"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 6,
+    "name" : null,
+    "description" : "Funguje pasivně při držení"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 8,
+    "name" : "Podzemí",
+    "description" : "Nachází se v Sinnohském podzemí"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 2,
+    "name" : "Spotřebující se",
+    "description" : "Spotřebuje se po použití"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 7,
+    "name" : null,
+    "description" : "Použitelný pokémonem při držení"
+  },
+  {
+    "local_language_id" : 10,
+    "item_flag_id" : 1,
+    "name" : "Počítatelný",
+    "description" : null
+  }
+]

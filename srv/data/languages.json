@@ -1,0 +1,82 @@
+[
+  {
+    "iso3166" : "jp",
+    "id" : 1,
+    "iso639" : "ja",
+    "official" : 1,
+    "identifier" : "ja",
+    "order" : 1
+  },
+  {
+    "iso3166" : "jp",
+    "id" : 2,
+    "iso639" : "ja",
+    "official" : 1,
+    "identifier" : "roomaji",
+    "order" : 2
+  },
+  {
+    "iso3166" : "kr",
+    "id" : 3,
+    "iso639" : "ko",
+    "official" : 1,
+    "identifier" : "ko",
+    "order" : null
+  },
+  {
+    "iso3166" : "cn",
+    "id" : 4,
+    "iso639" : "zh",
+    "official" : 1,
+    "identifier" : "zh",
+    "order" : null
+  },
+  {
+    "iso3166" : "fr",
+    "id" : 5,
+    "iso639" : "fr",
+    "official" : 1,
+    "identifier" : "fr",
+    "order" : null
+  },
+  {
+    "iso3166" : "de",
+    "id" : 6,
+    "iso639" : "de",
+    "official" : 1,
+    "identifier" : "de",
+    "order" : null
+  },
+  {
+    "iso3166" : "es",
+    "id" : 7,
+    "iso639" : "es",
+    "official" : 1,
+    "identifier" : "es",
+    "order" : null
+  },
+  {
+    "iso3166" : "it",
+    "id" : 8,
+    "iso639" : "it",
+    "official" : 1,
+    "identifier" : "it",
+    "order" : null
+  },
+  {
+    "iso3166" : "us",
+    "id" : 9,
+    "iso639" : "en",
+    "official" : 1,
+    "identifier" : "en",
+    "order" : 0
+  },
+  {
+    "iso3166" : "cz",
+    "id" : 10,
+    "iso639" : "cs",
+    "official" : 0,
+    "identifier" : "cs",
+    "order" : null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "is_base" : 1,
+    "identifier" : "hp"
+  },
+  {
+    "id" : 2,
+    "is_base" : 1,
+    "identifier" : "attack"
+  },
+  {
+    "id" : 3,
+    "is_base" : 1,
+    "identifier" : "defense"
+  },
+  {
+    "id" : 4,
+    "is_base" : 1,
+    "identifier" : "speed"
+  },
+  {
+    "id" : 5,
+    "is_base" : 0,
+    "identifier" : "range"
+  },
+  {
+    "id" : 6,
+    "is_base" : 0,
+    "identifier" : "energy"
+  }
+]

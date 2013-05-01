@@ -1,0 +1,1132 @@
+[
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 50,
+    "evolved_species_id" : 5,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 83,
+    "evolved_species_id" : 6,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 59,
+    "evolved_species_id" : 24,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 50,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 25,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 26,
+    "item_id" : 83
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 50,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 39,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 40,
+    "item_id" : 81
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 55,
+    "evolved_species_id" : 42,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 96,
+    "evolved_species_id" : 53,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 83,
+    "evolved_species_id" : 64,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 55,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 65,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 86,
+    "evolved_species_id" : 67,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 60,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 68,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 99,
+    "evolved_species_id" : 93,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 60,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 94,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 108,
+    "evolved_species_id" : 112,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 16,
+    "evolved_species_id" : 130,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 134,
+    "item_id" : 84
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 135,
+    "item_id" : 83
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 136,
+    "item_id" : 82
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 50,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 143,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 60,
+    "evolved_species_id" : 148,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 132,
+    "evolved_species_id" : 149,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 65,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 169,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 53,
+    "evolved_species_id" : 180,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 90,
+    "evolved_species_id" : 181,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 1,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 94,
+    "evolved_species_id" : 195,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 70,
+    "kingdom_id" : 11,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 196,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 70,
+    "kingdom_id" : 16,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 197,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 73,
+    "evolved_species_id" : 205,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 208,
+    "item_id" : 210
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 212,
+    "item_id" : 210
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 74,
+    "evolved_species_id" : 247,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 132,
+    "evolved_species_id" : 248,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 58,
+    "evolved_species_id" : 253,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 118,
+    "evolved_species_id" : 254,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 44,
+    "evolved_species_id" : 281,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 75,
+    "evolved_species_id" : 282,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 83,
+    "evolved_species_id" : 305,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 130,
+    "evolved_species_id" : 306,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 116,
+    "evolved_species_id" : 348,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 104,
+    "evolved_species_id" : 356,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 50,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 358,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 1,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 128,
+    "evolved_species_id" : 362,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 1,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 138,
+    "evolved_species_id" : 364,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 1,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 195,
+    "evolved_species_id" : 365,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 64,
+    "evolved_species_id" : 375,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 111,
+    "evolved_species_id" : 376,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 48,
+    "evolved_species_id" : 391,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 102,
+    "evolved_species_id" : 392,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 51,
+    "evolved_species_id" : 394,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 102,
+    "evolved_species_id" : 395,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 48,
+    "evolved_species_id" : 397,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 92,
+    "evolved_species_id" : 398,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 39,
+    "evolved_species_id" : 400,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 35,
+    "evolved_species_id" : 404,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 95,
+    "evolved_species_id" : 405,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 113,
+    "evolved_species_id" : 411,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 1,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 146,
+    "evolved_species_id" : 426,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 429,
+    "item_id" : 108
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 44,
+    "evolved_species_id" : 444,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 136,
+    "evolved_species_id" : 445,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 50,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 448,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 90,
+    "evolved_species_id" : 452,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 81,
+    "evolved_species_id" : 454,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 175,
+    "evolved_species_id" : 461,
+    "item_id" : 303
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 464,
+    "item_id" : 298
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : 5,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 94,
+    "evolved_species_id" : 470,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : 6,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 91,
+    "evolved_species_id" : 471,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : 2,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 475,
+    "item_id" : 109
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 477,
+    "item_id" : 302
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : 1,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 478,
+    "item_id" : 109
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 54,
+    "evolved_species_id" : 496,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 104,
+    "evolved_species_id" : 497,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 41,
+    "evolved_species_id" : 499,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 115,
+    "evolved_species_id" : 500,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 54,
+    "evolved_species_id" : 502,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 104,
+    "evolved_species_id" : 503,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 512,
+    "item_id" : 85
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 514,
+    "item_id" : 82
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 516,
+    "item_id" : 84
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 518,
+    "item_id" : 81
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 81,
+    "evolved_species_id" : 523,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 59,
+    "evolved_species_id" : 525,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 60,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 526,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 97,
+    "evolved_species_id" : 530,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 81,
+    "evolved_species_id" : 533,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 60,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 1,
+    "minimum_stat" : null,
+    "evolved_species_id" : 534,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 60,
+    "evolved_species_id" : 541,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : 65,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 542,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 50,
+    "evolved_species_id" : 544,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 57,
+    "evolved_species_id" : 545,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 547,
+    "item_id" : 80
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 549,
+    "item_id" : 80
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 80,
+    "evolved_species_id" : 552,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 110,
+    "evolved_species_id" : 553,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 110,
+    "evolved_species_id" : 555,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 86,
+    "evolved_species_id" : 560,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 90,
+    "evolved_species_id" : 571,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 573,
+    "item_id" : 107
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 70,
+    "evolved_species_id" : 575,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 3,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 106,
+    "evolved_species_id" : 576,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 4,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 84,
+    "evolved_species_id" : 596,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 84,
+    "evolved_species_id" : 608,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : null,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : null,
+    "evolved_species_id" : 609,
+    "item_id" : 108
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 113,
+    "evolved_species_id" : 611,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 173,
+    "evolved_species_id" : 612,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 73,
+    "evolved_species_id" : 614,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 118,
+    "evolved_species_id" : 625,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 119,
+    "evolved_species_id" : 628,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 72,
+    "evolved_species_id" : 634,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 143,
+    "evolved_species_id" : 635,
+    "item_id" : null
+  },
+  {
+    "required_stat_id" : 2,
+    "warrior_gender_id" : null,
+    "minimum_link" : null,
+    "kingdom_id" : null,
+    "recruiting_ko_required" : 0,
+    "minimum_stat" : 131,
+    "evolved_species_id" : 637,
+    "item_id" : null
+  }
+]

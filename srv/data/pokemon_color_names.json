@@ -1,0 +1,107 @@
+[
+  {
+    "pokemon_color_id" : 1,
+    "name" : "黒い",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 1,
+    "name" : "Black",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 2,
+    "name" : "青い",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 2,
+    "name" : "Blue",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 3,
+    "name" : "茶色",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 3,
+    "name" : "Brown",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 4,
+    "name" : "灰色",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 4,
+    "name" : "Gray",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 5,
+    "name" : "緑",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 5,
+    "name" : "Green",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 6,
+    "name" : "ピンク",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 6,
+    "name" : "Pink",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 7,
+    "name" : "パーパル",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 7,
+    "name" : "Purple",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 8,
+    "name" : "赤い",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 8,
+    "name" : "Red",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 9,
+    "name" : "白い",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 9,
+    "name" : "White",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 10,
+    "name" : "黄色",
+    "local_language_id" : 1
+  },
+  {
+    "pokemon_color_id" : 10,
+    "name" : "Yellow",
+    "local_language_id" : 9
+  },
+  {
+    "pokemon_color_id" : 4,
+    "name" : "Šedá",
+    "local_language_id" : 10
+  }
+]

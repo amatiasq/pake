@@ -1,0 +1,27 @@
+[
+  {
+    "id" : 1,
+    "affects_target" : 0,
+    "identifier" : "advance-1"
+  },
+  {
+    "id" : 2,
+    "affects_target" : 0,
+    "identifier" : "advance-2"
+  },
+  {
+    "id" : 3,
+    "affects_target" : 0,
+    "identifier" : "switch-back"
+  },
+  {
+    "id" : 4,
+    "affects_target" : 1,
+    "identifier" : "knockback"
+  },
+  {
+    "id" : 5,
+    "affects_target" : 1,
+    "identifier" : "knockback-switch"
+  }
+]

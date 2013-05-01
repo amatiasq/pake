@@ -1,0 +1,5602 @@
+[
+  {
+    "ability_id" : 1,
+    "name" : "あくしゅう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Puanteur",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Duftnote",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Hedor",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Tanfo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Stench",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 2,
+    "name" : "あめふらし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Crachin",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Niesel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Llovizna",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Piovischio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Drizzle",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 3,
+    "name" : "かそく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Turbo",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Temposchub",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Impulso",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Acceleratore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Speed Boost",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 4,
+    "name" : "カブトアーマー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Armurbaston",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Kampfpanzer",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Armad. Bat.",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Lottascudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Battle Armor",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 5,
+    "name" : "がんじょう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Fermeté",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Robustheit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Robustez",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Vigore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Sturdy",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 6,
+    "name" : "しめりけ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Moiteur",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Feuchtigkeit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Humedad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Umidità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Damp",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 7,
+    "name" : "じゅうなん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Échauffement",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Flexibilität",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Flexibilidad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Scioltezza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Limber",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 8,
+    "name" : "すながくれ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Voile Sable",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Sandschleier",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Velo Arena",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Sabbiavelo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Sand Veil",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 9,
+    "name" : "せいでんき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Statik",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Statik",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Elec. Estát.",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Statico",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Static",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10,
+    "name" : "ちくでん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Absorb Volt",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Voltabsorber",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Absor. Elec.",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Assorbivolt",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Volt Absorb",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 11,
+    "name" : "ちょすい",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 11,
+    "name" : "Absorb Eau",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 11,
+    "name" : "H2O-Absorber",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 11,
+    "name" : "Absor. Agua",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 11,
+    "name" : "Assorbacqua",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 11,
+    "name" : "Water Absorb",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 12,
+    "name" : "どんかん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Benêt",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Dösigkeit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Despiste",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Indifferenza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Oblivious",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 13,
+    "name" : "ノーてんき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Ciel Gris",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Wolke Sieben",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Aclimatación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Antimeteo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Cloud Nine",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 14,
+    "name" : "ふくがん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Œil Composé",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Facettenauge",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Ojocompuesto",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Insettocchi",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Compoundeyes",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 15,
+    "name" : "ふみん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Insomnia",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Insomnia",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Insomnio",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Insonnia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Insomnia",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 16,
+    "name" : "へんしょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Déguisement",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Farbwechsel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Cambio Color",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Cambiacolore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Color Change",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 17,
+    "name" : "めんえき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Vaccin",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Immunität",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Inmunidad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Immunità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Immunity",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 18,
+    "name" : "もらいび",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Torche",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Feuerfänger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Absor. Fuego",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Fuocardore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Flash Fire",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 19,
+    "name" : "りんぷん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Écran Poudre",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Puderabwehr",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Polvo Escudo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Polvoscudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Shield Dust",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 20,
+    "name" : "マイペース",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Tempo Perso",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Tempomacher",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Ritmo Propio",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Mente Locale",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Own Tempo",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 21,
+    "name" : "きゅうばん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Ventouse",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Saugnapf",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Ventosas",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Ventose",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Suction Cups",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 22,
+    "name" : "いかく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Intimidation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Bedroher",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Intimidación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Prepotenza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Intimidate",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 23,
+    "name" : "かげふみ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Marque Ombre",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Wegsperre",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Sombratrampa",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Pedinombra",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Shadow Tag",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 24,
+    "name" : "さめはだ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Peau Dure",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Rauhaut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Piel Tosca",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Cartavetro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Rough Skin",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 25,
+    "name" : "ふしぎなまもり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Garde Mystik",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Wunderwache",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Superguarda",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Magidifesa",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Wonder Guard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 26,
+    "name" : "ふゆう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Lévitation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Schwebe",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Levitación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Levitazione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Levitate",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 27,
+    "name" : "ほうし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Pose Spore",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Sporenwirt",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Efec. Espora",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Spargispora",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Effect Spore",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 28,
+    "name" : "シンクロ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Synchro",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Synchro",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Sincronía",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Sincronismo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Synchronize",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 29,
+    "name" : "クリアボディ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Corps Sain",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Neutraltorso",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Cuerpo Puro",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Corpochiaro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Clear Body",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 30,
+    "name" : "しぜんかいふく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Médic Nature",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Innere Kraft",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Cura Natural",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Alternacura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Natural Cure",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 31,
+    "name" : "ひらいしん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Paratonnerre",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Blitzfänger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Pararrayos",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Parafulmine",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Lightningrod",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 32,
+    "name" : "てんのめぐみ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Sérénité",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Edelmut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Dicha",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Leggiadro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Serene Grace",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 33,
+    "name" : "すいすい",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Glissade",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Wassertempo",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Nado Rápido",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Nuotovelox",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Swift Swim",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 34,
+    "name" : "ようりょくそ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Chlorophyle",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Chlorophyll",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Clorofila",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Clorofilla",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Chlorophyll",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 35,
+    "name" : "はっこう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Lumiatirance",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Erleuchtung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Iluminación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Risplendi",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Illuminate",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 36,
+    "name" : "トレース",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Calque",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Fährte",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Rastro",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Traccia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Trace",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 37,
+    "name" : "ちからもち",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Coloforce",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Kraftkoloss",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Potencia",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Macroforza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Huge Power",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 38,
+    "name" : "どくのトゲ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Point Poison",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Giftdorn",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Punto Tóxico",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Velenopunto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Poison Point",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 39,
+    "name" : "せいしんりょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Attention",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Konzentrator",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Foco Interno",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Fuocodentro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Inner Focus",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 40,
+    "name" : "マグマのよろい",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Armumagma",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Magmapanzer",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Escudo Magma",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Magmascudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Magma Armor",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 41,
+    "name" : "みずのベール",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Ignifu-Voile",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Aquahülle",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Velo Agua",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Idrovelo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Water Veil",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 42,
+    "name" : "じりょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Magnépiège",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Magnetfalle",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Imán",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Magnetismo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Magnet Pull",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 43,
+    "name" : "ぼうおん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Anti-Bruit",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Lärmschutz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Insonorizar",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Antisuono",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Soundproof",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 44,
+    "name" : "あめうけざら",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Cuvette",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Regengenuss",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Cura Lluvia",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Copripioggia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Rain Dish",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 45,
+    "name" : "すなおこし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Sable Volant",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Sandsturm",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Chorro Arena",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Sabbiafiume",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Sand Stream",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 46,
+    "name" : "プレッシャー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Pression",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Erzwinger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Presión",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Pressione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Pressure",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 47,
+    "name" : "あついしぼう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Isograisse",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Speckschicht",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Sebo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Grassospesso",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Thick Fat",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 48,
+    "name" : "はやおき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Matinal",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Frühwecker",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Madrugar",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Sveglialampo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Early Bird",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 49,
+    "name" : "ほのおのからだ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Corps Ardent",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Flammkörper",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Cuerpo Llama",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Corpodifuoco",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Flame Body",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 50,
+    "name" : "にげあし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Fuite",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Angsthase",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Fuga",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Fugafacile",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Run Away",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 51,
+    "name" : "するどいめ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Regard Vif",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Adlerauge",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Vista Lince",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Sguardofermo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Keen Eye",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 52,
+    "name" : "かいりきバサミ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Hyper Cutter",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Scherenmacht",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Corte Fuerte",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Ipertaglio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Hyper Cutter",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 53,
+    "name" : "ものひろい",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Ramassage",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Mitnahme",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Recogida",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Raccolta",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Pickup",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 54,
+    "name" : "なまけ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Absentéisme",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Schnarchnase",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Ausente",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Pigrone",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Truant",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 55,
+    "name" : "はりきり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Agitation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Übereifer",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Entusiasmo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Tuttafretta",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Hustle",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 56,
+    "name" : "メロメロボディ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Joli Sourire",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Charmebolzen",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Gran Encanto",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Incantevole",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Cute Charm",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 57,
+    "name" : "プラス",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Plus",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Plus",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Más",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Più",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Plus",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 58,
+    "name" : "マイナス",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Minus",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Minus",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Menos",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Meno",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Minus",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 59,
+    "name" : "てんきや",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Météo",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Prognose",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Predicción",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Previsioni",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Forecast",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 60,
+    "name" : "ねんちゃく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Glue",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Wertehalter",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Viscosidad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Antifurto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Sticky Hold",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 61,
+    "name" : "だっぴ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Mue",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Expidermis",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Mudar",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Muta",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Shed Skin",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 62,
+    "name" : "こんじょう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Cran",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Adrenalin",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Agallas",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Dentistretti",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Guts",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 63,
+    "name" : "ふしぎなうろこ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Écaille Spé.",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Notschutz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Escama Esp.",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Pelledura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Marvel Scale",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 64,
+    "name" : "ヘドロえき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Suintement",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Kloakensoße",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Lodo Líquido",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Melma",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Liquid Ooze",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 65,
+    "name" : "しんりょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Engrais",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Notdünger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Espesura",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Erbaiuto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Overgrow",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 66,
+    "name" : "もうか",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Brasier",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Großbrand",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Mar Llamas",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Aiutofuoco",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Blaze",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 67,
+    "name" : "げきりゅう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Torrent",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Sturzbach",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Torrente",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Acquaiuto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Torrent",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 68,
+    "name" : "むしのしらせ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Essaim",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Hexaplaga",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Enjambre",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Aiutinsetto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Swarm",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 69,
+    "name" : "いしあたま",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Tête de Roc",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Steinhaupt",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Cabeza Roca",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Testadura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Rock Head",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 70,
+    "name" : "ひでり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Sécheresse",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Dürre",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Sequía",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Siccità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Drought",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 71,
+    "name" : "ありじごく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Piège",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Ausweglos",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Trampa Arena",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Trappoarena",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Arena Trap",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 72,
+    "name" : "やるき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Esprit Vital",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Munterkeit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Espír. Vital",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Spiritovivo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Vital Spirit",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 73,
+    "name" : "しろいけむり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 73,
+    "name" : "Écran Fumée",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 73,
+    "name" : "Pulverrauch",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 73,
+    "name" : "Humo Blanco",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 73,
+    "name" : "Fumochiaro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 73,
+    "name" : "White Smoke",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 74,
+    "name" : "ヨガパワー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Force Pure",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Mentalkraft",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Energía Pura",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Forzapura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Pure Power",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 75,
+    "name" : "シェルアーマー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Coque Armure",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Panzerhaut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Caparazón",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Guscioscudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Shell Armor",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 76,
+    "name" : "エアロック",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Air Lock",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Klimaschutz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Bucle Aire",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Riparo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Air Lock",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 77,
+    "name" : "ちどりあし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 77,
+    "name" : "Pieds Confus",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 77,
+    "name" : "Fußangel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 77,
+    "name" : "Tumbos",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 77,
+    "name" : "Intricopiedi",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 77,
+    "name" : "Tangled Feet",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 78,
+    "name" : "でんきエンジン",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 78,
+    "name" : "Motorisé",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 78,
+    "name" : "Starthilfe",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 78,
+    "name" : "Electromotor",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 78,
+    "name" : "Elettrorapid",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 78,
+    "name" : "Motor Drive",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 79,
+    "name" : "とうそうしん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 79,
+    "name" : "Rivalité",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 79,
+    "name" : "Rivalität",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 79,
+    "name" : "Rivalidad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 79,
+    "name" : "Antagonismo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 79,
+    "name" : "Rivalry",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 80,
+    "name" : "ふくつのこころ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 80,
+    "name" : "Impassible",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 80,
+    "name" : "Felsenfest",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 80,
+    "name" : "Impasible",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 80,
+    "name" : "Cuordeciso",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 80,
+    "name" : "Steadfast",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 81,
+    "name" : "ゆきがくれ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 81,
+    "name" : "Rideau Neige",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 81,
+    "name" : "Schneemantel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 81,
+    "name" : "Manto Níveo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 81,
+    "name" : "Mantelneve",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 81,
+    "name" : "Snow Cloak",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 82,
+    "name" : "くいしんぼう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 82,
+    "name" : "Gloutonnerie",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 82,
+    "name" : "Völlerei",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 82,
+    "name" : "Gula",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 82,
+    "name" : "Voracità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 82,
+    "name" : "Gluttony",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 83,
+    "name" : "いかりのつぼ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 83,
+    "name" : "Colérique",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 83,
+    "name" : "Kurzschluss",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 83,
+    "name" : "Irascible",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 83,
+    "name" : "Grancollera",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 83,
+    "name" : "Anger Point",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 84,
+    "name" : "かるわざ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 84,
+    "name" : "Délestage",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 84,
+    "name" : "Entlastung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 84,
+    "name" : "Liviano",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 84,
+    "name" : "Agiltecnica",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 84,
+    "name" : "Unburden",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 85,
+    "name" : "たいねつ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 85,
+    "name" : "Ignifuge",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 85,
+    "name" : "Hitzeschutz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 85,
+    "name" : "Ignífugo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 85,
+    "name" : "Antifuoco",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 85,
+    "name" : "Heatproof",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 86,
+    "name" : "たんじゅん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 86,
+    "name" : "Simple",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 86,
+    "name" : "Wankelmut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 86,
+    "name" : "Simple",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 86,
+    "name" : "Disinvoltura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 86,
+    "name" : "Simple",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 87,
+    "name" : "かんそうはだ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 87,
+    "name" : "Peau Sèche",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 87,
+    "name" : "Trockenheit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 87,
+    "name" : "Piel Seca",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 87,
+    "name" : "Pellearsa",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 87,
+    "name" : "Dry Skin",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 88,
+    "name" : "ダウンロード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 88,
+    "name" : "Télécharge",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 88,
+    "name" : "Download",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 88,
+    "name" : "Descarga",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 88,
+    "name" : "Download",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 88,
+    "name" : "Download",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 89,
+    "name" : "てつのこぶし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 89,
+    "name" : "Poing de Fer",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 89,
+    "name" : "Eisenfaust",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 89,
+    "name" : "Puño Férreo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 89,
+    "name" : "Ferropugno",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 89,
+    "name" : "Iron Fist",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 90,
+    "name" : "ポイズンヒール",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 90,
+    "name" : "Soin Poison",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 90,
+    "name" : "Aufheber",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 90,
+    "name" : "Antídoto",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 90,
+    "name" : "Velencura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 90,
+    "name" : "Poison Heal",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 91,
+    "name" : "てきおうりょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 91,
+    "name" : "Adaptabilité",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 91,
+    "name" : "Anpassung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 91,
+    "name" : "Adaptable",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 91,
+    "name" : "Adattabilità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 91,
+    "name" : "Adaptability",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 92,
+    "name" : "スキルリンク",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 92,
+    "name" : "Multi-Coups",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 92,
+    "name" : "Wertelink",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 92,
+    "name" : "Encadenado",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 92,
+    "name" : "Abillegame",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 92,
+    "name" : "Skill Link",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 93,
+    "name" : "うるおいボディ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 93,
+    "name" : "Hydratation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 93,
+    "name" : "Hydration",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 93,
+    "name" : "Hidratación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 93,
+    "name" : "Idratazione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 93,
+    "name" : "Hydration",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 94,
+    "name" : "サンパワー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 94,
+    "name" : "Force Soleil",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 94,
+    "name" : "Solarkraft",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 94,
+    "name" : "Poder Solar",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 94,
+    "name" : "Solarpotere",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 94,
+    "name" : "Solar Power",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 95,
+    "name" : "はやあし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 95,
+    "name" : "Pied Véloce",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 95,
+    "name" : "Rasanz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 95,
+    "name" : "Pies Rápidos",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 95,
+    "name" : "Piedisvelti",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 95,
+    "name" : "Quick Feet",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 96,
+    "name" : "ノーマルスキン",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 96,
+    "name" : "Normalise",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 96,
+    "name" : "Regulierung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 96,
+    "name" : "Normalidad",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 96,
+    "name" : "Normalità",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 96,
+    "name" : "Normalize",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 97,
+    "name" : "スナイパー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 97,
+    "name" : "Sniper",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 97,
+    "name" : "Superschütze",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 97,
+    "name" : "Francotirad.",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 97,
+    "name" : "Cecchino",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 97,
+    "name" : "Sniper",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 98,
+    "name" : "マジックガード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 98,
+    "name" : "Garde Magik",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 98,
+    "name" : "Magieschild",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 98,
+    "name" : "Muro Mágico",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 98,
+    "name" : "Magicscudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 98,
+    "name" : "Magic Guard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 99,
+    "name" : "ノーガード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 99,
+    "name" : "Annule Garde",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 99,
+    "name" : "Schildlos",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 99,
+    "name" : "Indefenso",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 99,
+    "name" : "Nullodifesa",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 99,
+    "name" : "No Guard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 100,
+    "name" : "あとだし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 100,
+    "name" : "Frein",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 100,
+    "name" : "Zeitspiel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 100,
+    "name" : "Rezagado",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 100,
+    "name" : "Rallentatore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 100,
+    "name" : "Stall",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 101,
+    "name" : "テクニシャン",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 101,
+    "name" : "Technicien",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 101,
+    "name" : "Techniker",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 101,
+    "name" : "Experto",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 101,
+    "name" : "Tecnico",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 101,
+    "name" : "Technician",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 102,
+    "name" : "リーフガード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 102,
+    "name" : "Feuil. Garde",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 102,
+    "name" : "Floraschild",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 102,
+    "name" : "Defensa Hoja",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 102,
+    "name" : "Fogliamanto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 102,
+    "name" : "Leaf Guard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 103,
+    "name" : "ぶきよう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 103,
+    "name" : "Maladresse",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 103,
+    "name" : "Tollpatsch",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 103,
+    "name" : "Zoquete",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 103,
+    "name" : "Impaccio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 103,
+    "name" : "Klutz",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 104,
+    "name" : "かたやぶり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 104,
+    "name" : "Brise Moule",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 104,
+    "name" : "Überbrückung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 104,
+    "name" : "Rompemoldes",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 104,
+    "name" : "Rompiforma",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 104,
+    "name" : "Mold Breaker",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 105,
+    "name" : "きょううん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 105,
+    "name" : "Chanceux",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 105,
+    "name" : "Glückspilz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 105,
+    "name" : "Afortunado",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 105,
+    "name" : "Supersorte",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 105,
+    "name" : "Super Luck",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 106,
+    "name" : "ゆうばく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 106,
+    "name" : "Boom Final",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 106,
+    "name" : "Finalschlag",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 106,
+    "name" : "Resquicio",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 106,
+    "name" : "Scoppio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 106,
+    "name" : "Aftermath",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 107,
+    "name" : "きけんよち",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 107,
+    "name" : "Anticipation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 107,
+    "name" : "Vorahnung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 107,
+    "name" : "Anticipación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 107,
+    "name" : "Presagio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 107,
+    "name" : "Anticipation",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 108,
+    "name" : "よちむ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 108,
+    "name" : "Prédiction",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 108,
+    "name" : "Vorwarnung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 108,
+    "name" : "Alerta",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 108,
+    "name" : "Premonizione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 108,
+    "name" : "Forewarn",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 109,
+    "name" : "てんねん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 109,
+    "name" : "Inconscient",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 109,
+    "name" : "Unkenntnis",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 109,
+    "name" : "Ignorante",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 109,
+    "name" : "Imprudenza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 109,
+    "name" : "Unaware",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 110,
+    "name" : "いろめがね",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 110,
+    "name" : "Lentiteintée",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 110,
+    "name" : "Aufwertung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 110,
+    "name" : "Cromolente",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 110,
+    "name" : "Lentifumé",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 110,
+    "name" : "Tinted Lens",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 111,
+    "name" : "フィルター",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 111,
+    "name" : "Filtre",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 111,
+    "name" : "Filter",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 111,
+    "name" : "Filtro",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 111,
+    "name" : "Filtro",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 111,
+    "name" : "Filter",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 112,
+    "name" : "スロースタート",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 112,
+    "name" : "Début Calme",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 112,
+    "name" : "Saumselig",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 112,
+    "name" : "Inicio Lento",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 112,
+    "name" : "Lentoinizio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 112,
+    "name" : "Slow Start",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 113,
+    "name" : "きもったま",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 113,
+    "name" : "Querelleur",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 113,
+    "name" : "Rauflust",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 113,
+    "name" : "Intrépido",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 113,
+    "name" : "Nervisaldi",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 113,
+    "name" : "Scrappy",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 114,
+    "name" : "よびみず",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 114,
+    "name" : "Lavabo",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 114,
+    "name" : "Sturmsog",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 114,
+    "name" : "Colector",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 114,
+    "name" : "Acquascolo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 114,
+    "name" : "Storm Drain",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 115,
+    "name" : "アイスボディ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 115,
+    "name" : "Corps Gel",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 115,
+    "name" : "Eishaut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 115,
+    "name" : "Gélido",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 115,
+    "name" : "Corpogelo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 115,
+    "name" : "Ice Body",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 116,
+    "name" : "ハードロック",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 116,
+    "name" : "Solide Roc",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 116,
+    "name" : "Felskern",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 116,
+    "name" : "Roca Sólida",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 116,
+    "name" : "Solidroccia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 116,
+    "name" : "Solid Rock",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 117,
+    "name" : "ゆきふらし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 117,
+    "name" : "Alerte Neige",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 117,
+    "name" : "Hagelalarm",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 117,
+    "name" : "Nevada",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 117,
+    "name" : "Scendineve",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 117,
+    "name" : "Snow Warning",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 118,
+    "name" : "みつあつめ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 118,
+    "name" : "Cherche Miel",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 118,
+    "name" : "Honigmaul",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 118,
+    "name" : "Recogemiel",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 118,
+    "name" : "Mielincetta",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 118,
+    "name" : "Honey Gather",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 119,
+    "name" : "おみとおし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 119,
+    "name" : "Fouille",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 119,
+    "name" : "Schnüffler",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 119,
+    "name" : "Cacheo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 119,
+    "name" : "Indagine",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 119,
+    "name" : "Frisk",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 120,
+    "name" : "すてみ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 120,
+    "name" : "Téméraire",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 120,
+    "name" : "Achtlos",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 120,
+    "name" : "Audaz",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 120,
+    "name" : "Temerarietà",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 120,
+    "name" : "Reckless",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 121,
+    "name" : "マルチタイプ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 121,
+    "name" : "Multi-Type",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 121,
+    "name" : "Variabilität",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 121,
+    "name" : "Multitipo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 121,
+    "name" : "Multitipo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 121,
+    "name" : "Multitype",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 122,
+    "name" : "フラワーギフト",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 122,
+    "name" : "Don Floral",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 122,
+    "name" : "Pflanzengabe",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 122,
+    "name" : "Don Floral",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 122,
+    "name" : "Regalfiore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 122,
+    "name" : "Flower Gift",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 123,
+    "name" : "ナイトメア",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 123,
+    "name" : "Mauvais Rêve",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 123,
+    "name" : "Alptraum",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 123,
+    "name" : "Mal Sueño",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 123,
+    "name" : "Sogniamari",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 123,
+    "name" : "Bad Dreams",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 124,
+    "name" : "わるいてぐせ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 124,
+    "name" : "Pickpocket",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 124,
+    "name" : "Langfinger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 124,
+    "name" : "Hurto",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 124,
+    "name" : "Arraffalesto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 124,
+    "name" : "Pickpocket",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 125,
+    "name" : "ちからずく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 125,
+    "name" : "Sans Limite",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 125,
+    "name" : "Rohe Gewalt",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 125,
+    "name" : "Pot. Bruta",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 125,
+    "name" : "Forzabruta",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 125,
+    "name" : "Sheer Force",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 126,
+    "name" : "あまのじゃく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 126,
+    "name" : "Contestation",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 126,
+    "name" : "Umkehrung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 126,
+    "name" : "Respondón",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 126,
+    "name" : "Inversione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 126,
+    "name" : "Contrary",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 127,
+    "name" : "きんちょうかん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 127,
+    "name" : "Tension",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 127,
+    "name" : "Anspannung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 127,
+    "name" : "Nerviosismo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 127,
+    "name" : "Agitazione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 127,
+    "name" : "Unnerve",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 128,
+    "name" : "まけんき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 128,
+    "name" : "Acharné",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 128,
+    "name" : "Siegeswille",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 128,
+    "name" : "Competitivo",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 128,
+    "name" : "Agonismo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 128,
+    "name" : "Defiant",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 129,
+    "name" : "よわき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 129,
+    "name" : "Défaitiste",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 129,
+    "name" : "Schwächling",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 129,
+    "name" : "Flaqueza",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 129,
+    "name" : "Sconforto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 129,
+    "name" : "Defeatist",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 130,
+    "name" : "のろわれボディ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 130,
+    "name" : "Corps Maudit",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 130,
+    "name" : "Tastfluch",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 130,
+    "name" : "Cue. Maldito",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 130,
+    "name" : "Corpofunesto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 130,
+    "name" : "Cursed Body",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 131,
+    "name" : "いやしのこころ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 131,
+    "name" : "Cœur Soin",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 131,
+    "name" : "Heilherz",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 131,
+    "name" : "Alma Cura",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 131,
+    "name" : "Curacuore",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 131,
+    "name" : "Healer",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 132,
+    "name" : "フレンドガード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 132,
+    "name" : "Garde Amie",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 132,
+    "name" : "Freundeshut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 132,
+    "name" : "Compiescolta",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 132,
+    "name" : "Amicoscudo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 132,
+    "name" : "Friend Guard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 133,
+    "name" : "くだけるよろい",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 133,
+    "name" : "Armurouillée",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 133,
+    "name" : "Bruchrüstung",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 133,
+    "name" : "Arm. Frágil",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 133,
+    "name" : "Sottilguscio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 133,
+    "name" : "Weak Armor",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 134,
+    "name" : "ヘヴィメタル",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 134,
+    "name" : "Heavy Metal",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 134,
+    "name" : "Schwermetall",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 134,
+    "name" : "Met. Pesado",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 134,
+    "name" : "Metalpesante",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 134,
+    "name" : "Heavy Metal",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 135,
+    "name" : "ライトメタル",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 135,
+    "name" : "Light Metal",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 135,
+    "name" : "Leichtmetall",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 135,
+    "name" : "Met. Liviano",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 135,
+    "name" : "Metalleggero",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 135,
+    "name" : "Light Metal",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 136,
+    "name" : "マルチスケイル",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 136,
+    "name" : "Multiécaille",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 136,
+    "name" : "Multischuppe",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 136,
+    "name" : "Compensación",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 136,
+    "name" : "Multisquame",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 136,
+    "name" : "Multiscale",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 137,
+    "name" : "どくぼうそう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 137,
+    "name" : "Rage Poison",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 137,
+    "name" : "Giftwahn",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 137,
+    "name" : "Ím. Tóxico",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 137,
+    "name" : "Velenimpeto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 137,
+    "name" : "Toxic Boost",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 138,
+    "name" : "ねつぼうそう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 138,
+    "name" : "Rage Brûlure",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 138,
+    "name" : "Hitzewahn",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 138,
+    "name" : "Ím. Ardiente",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 138,
+    "name" : "Bruciaimpeto",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 138,
+    "name" : "Flare Boost",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 139,
+    "name" : "しゅうかく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 139,
+    "name" : "Récolte",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 139,
+    "name" : "Reiche Ernte",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 139,
+    "name" : "Cosecha",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 139,
+    "name" : "Coglibacche",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 139,
+    "name" : "Harvest",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 140,
+    "name" : "テレパシー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 140,
+    "name" : "Télépathe",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 140,
+    "name" : "Telepathie",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 140,
+    "name" : "Telepatía",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 140,
+    "name" : "Telepatia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 140,
+    "name" : "Telepathy",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 141,
+    "name" : "ムラっけ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 141,
+    "name" : "Lunatique",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 141,
+    "name" : "Gefühlswippe",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 141,
+    "name" : "Veleta",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 141,
+    "name" : "Altalena",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 141,
+    "name" : "Moody",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 142,
+    "name" : "ぼうじん",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 142,
+    "name" : "Envelocape",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 142,
+    "name" : "Wetterfest",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 142,
+    "name" : "Funda",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 142,
+    "name" : "Copricapo",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 142,
+    "name" : "Overcoat",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 143,
+    "name" : "どくしゅ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 143,
+    "name" : "Toxitouche",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 143,
+    "name" : "Giftgriff",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 143,
+    "name" : "Toque Tóxico",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 143,
+    "name" : "Velentocco",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 143,
+    "name" : "Poison Touch",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 144,
+    "name" : "さいせいりょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 144,
+    "name" : "Régé-Force",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 144,
+    "name" : "Belebekraft",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 144,
+    "name" : "Regeneración",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 144,
+    "name" : "Rigenergia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 144,
+    "name" : "Regenerator",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 145,
+    "name" : "はとむね",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 145,
+    "name" : "Cœur de Coq",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 145,
+    "name" : "Brustbieter",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 145,
+    "name" : "Sacapecho",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 145,
+    "name" : "Pettinfuori",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 145,
+    "name" : "Big Pecks",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 146,
+    "name" : "すなかき",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 146,
+    "name" : "Baigne Sable",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 146,
+    "name" : "Sandscharrer",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 146,
+    "name" : "Ímpetu Arena",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 146,
+    "name" : "Remasabbia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 146,
+    "name" : "Sand Rush",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 147,
+    "name" : "ミラクルスキン",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 147,
+    "name" : "Peau Miracle",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 147,
+    "name" : "Wunderhaut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 147,
+    "name" : "Piel Milagro",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 147,
+    "name" : "Splendicute",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 147,
+    "name" : "Wonder Skin",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 148,
+    "name" : "アナライズ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 148,
+    "name" : "Analyste",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 148,
+    "name" : "Analyse",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 148,
+    "name" : "Cálc. Final",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 148,
+    "name" : "Ponderazione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 148,
+    "name" : "Analytic",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 149,
+    "name" : "イリュージョン",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 149,
+    "name" : "Illusion",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 149,
+    "name" : "Trugbild",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 149,
+    "name" : "Ilusión",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 149,
+    "name" : "Illusione",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 149,
+    "name" : "Illusion",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 150,
+    "name" : "かわりもの",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 150,
+    "name" : "Imposteur",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 150,
+    "name" : "Doppelgänger",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 150,
+    "name" : "Impostor",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 150,
+    "name" : "Sosia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 150,
+    "name" : "Imposter",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 151,
+    "name" : "すりぬけ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 151,
+    "name" : "Infiltration",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 151,
+    "name" : "Schwebedurch",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 151,
+    "name" : "Allanamiento",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 151,
+    "name" : "Intrapasso",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 151,
+    "name" : "Infiltrator",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 152,
+    "name" : "ミイラ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 152,
+    "name" : "Momie",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 152,
+    "name" : "Mumie",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 152,
+    "name" : "Momia",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 152,
+    "name" : "Mummia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 152,
+    "name" : "Mummy",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 153,
+    "name" : "じしんかじょう",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 153,
+    "name" : "Impudence",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 153,
+    "name" : "Hochmut",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 153,
+    "name" : "Autoestima",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 153,
+    "name" : "Arroganza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 153,
+    "name" : "Moxie",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 154,
+    "name" : "せいぎのこころ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 154,
+    "name" : "Cœur Noble",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 154,
+    "name" : "Redlichkeit",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 154,
+    "name" : "Justiciero",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 154,
+    "name" : "Giustizia",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 154,
+    "name" : "Justified",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 155,
+    "name" : "びびり",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 155,
+    "name" : "Phobique",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 155,
+    "name" : "Hasenfuß",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 155,
+    "name" : "Cobardía",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 155,
+    "name" : "Paura",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 155,
+    "name" : "Rattled",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 156,
+    "name" : "マジックミラー",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 156,
+    "name" : "Miroir Magik",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 156,
+    "name" : "Magiespiegel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 156,
+    "name" : "Espejomágico",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 156,
+    "name" : "Magispecchio",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 156,
+    "name" : "Magic Bounce",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 157,
+    "name" : "そうしょく",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 157,
+    "name" : "Herbivore",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 157,
+    "name" : "Vegetarier",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 157,
+    "name" : "Herbívoro",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 157,
+    "name" : "Mangiaerba",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 157,
+    "name" : "Sap Sipper",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 158,
+    "name" : "いたずらごころ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 158,
+    "name" : "Farceur",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 158,
+    "name" : "Strolch",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 158,
+    "name" : "Bromista",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 158,
+    "name" : "Burla",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 158,
+    "name" : "Prankster",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 159,
+    "name" : "すなのちから",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 159,
+    "name" : "Force Sable",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 159,
+    "name" : "Sandgewalt",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 159,
+    "name" : "Poder Arena",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 159,
+    "name" : "Silicoforza",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 159,
+    "name" : "Sand Force",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 160,
+    "name" : "てつのトゲ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 160,
+    "name" : "Épine de Fer",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 160,
+    "name" : "Eisenstachel",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 160,
+    "name" : "Punta Acero",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 160,
+    "name" : "Spineferrate",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 160,
+    "name" : "Iron Barbs",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 161,
+    "name" : "ダルマモード",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 161,
+    "name" : "Mode Transe",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 161,
+    "name" : "Trance-Modus",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 161,
+    "name" : "Modo Daruma",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 161,
+    "name" : "Stato Zen",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 161,
+    "name" : "Zen Mode",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 162,
+    "name" : "しょうりのほし",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 162,
+    "name" : "Victorieux",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 162,
+    "name" : "Triumphstern",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 162,
+    "name" : "Tinovictoria",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 162,
+    "name" : "Vittorstella",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 162,
+    "name" : "Victory Star",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 163,
+    "name" : "ターボブレイズ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 163,
+    "name" : "TurboBrasier",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 163,
+    "name" : "Turbobrand",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 163,
+    "name" : "Turbollama",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 163,
+    "name" : "Piroturbina",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 163,
+    "name" : "Turboblaze",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 164,
+    "name" : "テラボルテージ",
+    "local_language_id" : 1
+  },
+  {
+    "ability_id" : 164,
+    "name" : "Téra-Voltage",
+    "local_language_id" : 5
+  },
+  {
+    "ability_id" : 164,
+    "name" : "Teravolt",
+    "local_language_id" : 6
+  },
+  {
+    "ability_id" : 164,
+    "name" : "Terravoltaje",
+    "local_language_id" : 7
+  },
+  {
+    "ability_id" : 164,
+    "name" : "Teravolt",
+    "local_language_id" : 8
+  },
+  {
+    "ability_id" : 164,
+    "name" : "Teravolt",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10001,
+    "name" : "Mountaineer",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10002,
+    "name" : "Wave Rider",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10003,
+    "name" : "Skater",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10004,
+    "name" : "Thrust",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10005,
+    "name" : "Perception",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10006,
+    "name" : "Parry",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10007,
+    "name" : "Instinct",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10008,
+    "name" : "Dodge",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10009,
+    "name" : "Jagged Edge",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10010,
+    "name" : "Frostbite",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10011,
+    "name" : "Tenacity",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10012,
+    "name" : "Pride",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10013,
+    "name" : "Deep Sleep",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10014,
+    "name" : "Power Nap",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10015,
+    "name" : "Spirit",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10016,
+    "name" : "Warm Blanket",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10017,
+    "name" : "Gulp",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10018,
+    "name" : "Herbivore",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10019,
+    "name" : "Sandpit",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10020,
+    "name" : "Hot Blooded",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10021,
+    "name" : "Medic",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10022,
+    "name" : "Life Force",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10023,
+    "name" : "Lunchbox",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10024,
+    "name" : "Nurse",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10025,
+    "name" : "Melee",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10026,
+    "name" : "Sponge",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10027,
+    "name" : "Bodyguard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10028,
+    "name" : "Hero",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10029,
+    "name" : "Last Bastion",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10030,
+    "name" : "Stealth",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10031,
+    "name" : "Vanguard",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10032,
+    "name" : "Nomad",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10033,
+    "name" : "Sequence",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10034,
+    "name" : "Grass Cloak",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10035,
+    "name" : "Celebrate",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10036,
+    "name" : "Lullaby",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10037,
+    "name" : "Calming",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10038,
+    "name" : "Daze",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10039,
+    "name" : "Frighten",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10040,
+    "name" : "Interference",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10041,
+    "name" : "Mood Maker",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10042,
+    "name" : "Confidence",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10043,
+    "name" : "Fortune",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10044,
+    "name" : "Bonanza",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10045,
+    "name" : "Explode",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10046,
+    "name" : "Omnipotent",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10047,
+    "name" : "Share",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10048,
+    "name" : "Black Hole",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10049,
+    "name" : "Shadow Dash",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10050,
+    "name" : "Sprint",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10051,
+    "name" : "Disgust",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10052,
+    "name" : "High-rise",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10053,
+    "name" : "Climber",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10054,
+    "name" : "Flame Boost",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10055,
+    "name" : "Aqua Boost",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10056,
+    "name" : "Run Up",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10057,
+    "name" : "Conqueror",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10058,
+    "name" : "Shackle",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10059,
+    "name" : "Decoy",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 10060,
+    "name" : "Shield",
+    "local_language_id" : 9
+  },
+  {
+    "ability_id" : 57,
+    "name" : "Plus",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 68,
+    "name" : "Rojení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 37,
+    "name" : "Obrovská síla",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 42,
+    "name" : "Magnetismus",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 61,
+    "name" : "Svlékání kůže",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 66,
+    "name" : "Žár",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 73,
+    "name" : "Bílý kouř",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 53,
+    "name" : "Sbírání",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 58,
+    "name" : "Minus",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 11,
+    "name" : "Pohlcení vody",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 69,
+    "name" : "Kamenná hlava",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 16,
+    "name" : "Změna barvy",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 74,
+    "name" : "Ryzí síla",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 3,
+    "name" : "Zrychlení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 6,
+    "name" : "Vlhkost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 8,
+    "name" : "Pískový plášť",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 27,
+    "name" : "Výtrusy",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 32,
+    "name" : "Ušlechtilost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 7,
+    "name" : "Pružnost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 1,
+    "name" : "Smrad",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 12,
+    "name" : "Nevšímavost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 19,
+    "name" : "Štítový ptrach",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 22,
+    "name" : "Zastrašení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 24,
+    "name" : "Drsná kůže",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 4,
+    "name" : "Bojové brnění",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 43,
+    "name" : "Hluchota",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 14,
+    "name" : "Složené oči",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 48,
+    "name" : "Ranní ptáče",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 23,
+    "name" : "Znamení temna",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 17,
+    "name" : "Imunita",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 28,
+    "name" : "Synchronizace",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 35,
+    "name" : "Osvětlení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 38,
+    "name" : "Jedovatý roh",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 40,
+    "name" : "Lávové brnění",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 15,
+    "name" : "Nespavost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 2,
+    "name" : "Mrholení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 9,
+    "name" : "Statika",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 20,
+    "name" : "Vlastní tempo",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 59,
+    "name" : "Předpověď",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 30,
+    "name" : "Přírodní lék",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 64,
+    "name" : "Hnusný sliz",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 39,
+    "name" : "Soustředění",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 33,
+    "name" : "Hbitá plavba",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 44,
+    "name" : "Dešťová miska",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 51,
+    "name" : "Bystré oko",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 54,
+    "name" : "Ulejvání",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 13,
+    "name" : "Sedmé nebe",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 56,
+    "name" : "Roztomilost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 31,
+    "name" : "Hromosvod",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 18,
+    "name" : "Náhlý požár",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 25,
+    "name" : "Zázračný štít",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 36,
+    "name" : "Kopírování",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 75,
+    "name" : "Lasturoštít",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 46,
+    "name" : "Tlak",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 5,
+    "name" : "Robustnost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 55,
+    "name" : "Čilost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 10,
+    "name" : "Nabíjení",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 49,
+    "name" : "Ohnivé tělo",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 60,
+    "name" : "Ulepené ruce",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 67,
+    "name" : "Záplava",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 70,
+    "name" : "Vyprahlost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 29,
+    "name" : "Průsvitnost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 72,
+    "name" : "Neposednost",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 47,
+    "name" : "Tlustý tuk",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 34,
+    "name" : "Chlorofyl",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 41,
+    "name" : "Vodní rouška",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 52,
+    "name" : "Hyperřezač",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 62,
+    "name" : "Kuráž",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 21,
+    "name" : "Přísavky",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 71,
+    "name" : "Past",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 26,
+    "name" : "Levitace",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 65,
+    "name" : "Přerůstání",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 76,
+    "name" : "Vzdušný zámek",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 45,
+    "name" : "Proud písku",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 63,
+    "name" : "Zázračná šupina",
+    "local_language_id" : 10
+  },
+  {
+    "ability_id" : 50,
+    "name" : "Útěk",
+    "local_language_id" : 10
+  }
+]

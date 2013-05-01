@@ -1,0 +1,87 @@
+[
+  {
+    "kingdom_id" : 1,
+    "name" : "Aurora",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 2,
+    "name" : "Ignis",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 3,
+    "name" : "Fontaine",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 4,
+    "name" : "Violight",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 5,
+    "name" : "Greenleaf",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 6,
+    "name" : "Nixtorm",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 7,
+    "name" : "Pugilis",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 8,
+    "name" : "Viperia",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 9,
+    "name" : "Terrera",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 10,
+    "name" : "Avia",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 11,
+    "name" : "Illusio",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 12,
+    "name" : "Chrysalia",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 13,
+    "name" : "Cragspur",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 14,
+    "name" : "Spectra",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 15,
+    "name" : "Dragnor",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 16,
+    "name" : "Yaksha",
+    "local_language_id" : 9
+  },
+  {
+    "kingdom_id" : 17,
+    "name" : "Valora",
+    "local_language_id" : 9
+  }
+]

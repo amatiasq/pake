@@ -1,0 +1,652 @@
+[
+  {
+    "type_id" : 1,
+    "name" : "ノーマル",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normal",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normal",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normal",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normale",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normal",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 2,
+    "name" : "かくとう",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 2,
+    "name" : "Combat",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 2,
+    "name" : "Kampf",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 2,
+    "name" : "Lucha",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 2,
+    "name" : "Lotta",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 2,
+    "name" : "Fighting",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 3,
+    "name" : "ひこう",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 3,
+    "name" : "Vol",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 3,
+    "name" : "Flug",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 3,
+    "name" : "Volador",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 3,
+    "name" : "Volante",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 3,
+    "name" : "Flying",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 4,
+    "name" : "どく",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 4,
+    "name" : "Poison",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 4,
+    "name" : "Gift",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 4,
+    "name" : "Veneno",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 4,
+    "name" : "Veleno",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 4,
+    "name" : "Poison",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 5,
+    "name" : "じめん",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 5,
+    "name" : "Sol",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 5,
+    "name" : "Boden",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 5,
+    "name" : "Tierra",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 5,
+    "name" : "Terra",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 5,
+    "name" : "Ground",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 6,
+    "name" : "いわ",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 6,
+    "name" : "Roche",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 6,
+    "name" : "Gestein",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 6,
+    "name" : "Roca",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 6,
+    "name" : "Roccia",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 6,
+    "name" : "Rock",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 7,
+    "name" : "むし",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 7,
+    "name" : "Insecte",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 7,
+    "name" : "Käfer",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 7,
+    "name" : "Bicho",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 7,
+    "name" : "Coleottero",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 7,
+    "name" : "Bug",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 8,
+    "name" : "ゴースト",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 8,
+    "name" : "Spectre",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 8,
+    "name" : "Geist",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 8,
+    "name" : "Fantasma",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 8,
+    "name" : "Spettro",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 8,
+    "name" : "Ghost",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 9,
+    "name" : "はがね",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 9,
+    "name" : "Acier",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 9,
+    "name" : "Stahl",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 9,
+    "name" : "Acero",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 9,
+    "name" : "Acciaio",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 9,
+    "name" : "Steel",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 10,
+    "name" : "ほのお",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 10,
+    "name" : "Feu",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 10,
+    "name" : "Feuer",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 10,
+    "name" : "Fuego",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 10,
+    "name" : "Fuoco",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 10,
+    "name" : "Fire",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 11,
+    "name" : "みず",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 11,
+    "name" : "Eau",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 11,
+    "name" : "Wasser",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 11,
+    "name" : "Agua",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 11,
+    "name" : "Acqua",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 11,
+    "name" : "Water",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 12,
+    "name" : "くさ",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 12,
+    "name" : "Plante",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 12,
+    "name" : "Pflanze",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 12,
+    "name" : "Planta",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 12,
+    "name" : "Erba",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 12,
+    "name" : "Grass",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 13,
+    "name" : "でんき",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 13,
+    "name" : "Electrik",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 13,
+    "name" : "Electro",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 13,
+    "name" : "Eléctrico",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 13,
+    "name" : "Elettro",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 13,
+    "name" : "Electric",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 14,
+    "name" : "エスパー",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psy",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psycho",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psíquico",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psico",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psychic",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 15,
+    "name" : "こおり",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 15,
+    "name" : "Glace",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 15,
+    "name" : "Eis",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 15,
+    "name" : "Hielo",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 15,
+    "name" : "Ghiaccio",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 15,
+    "name" : "Ice",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 16,
+    "name" : "ドラゴン",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 16,
+    "name" : "Dragon",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 16,
+    "name" : "Drachen",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 16,
+    "name" : "Dragón",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 16,
+    "name" : "Drago",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 16,
+    "name" : "Dragon",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 17,
+    "name" : "あく",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 17,
+    "name" : "Ténèbres",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 17,
+    "name" : "Unlicht",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 17,
+    "name" : "Siniestro",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 17,
+    "name" : "Buio",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 17,
+    "name" : "Dark",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 10001,
+    "name" : "？？？",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 5
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 6
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 7
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 10002,
+    "name" : "ダーク",
+    "local_language_id" : 1
+  },
+  {
+    "type_id" : 10002,
+    "name" : "Ombra",
+    "local_language_id" : 8
+  },
+  {
+    "type_id" : 10002,
+    "name" : "Shadow",
+    "local_language_id" : 9
+  },
+  {
+    "type_id" : 4,
+    "name" : "Jedovatý",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 11,
+    "name" : "Vodní",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 14,
+    "name" : "Psychický",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 5,
+    "name" : "Zemní",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 16,
+    "name" : "Dračí",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 10,
+    "name" : "Ohnivý",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 17,
+    "name" : "Temný",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 3,
+    "name" : "Létající",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 6,
+    "name" : "Kamenný",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 8,
+    "name" : "Duší",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 15,
+    "name" : "Ledový",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 2,
+    "name" : "Bojovný",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 9,
+    "name" : "Ocelový",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 10001,
+    "name" : "???",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 7,
+    "name" : "Hmyzí",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 1,
+    "name" : "Normální",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 12,
+    "name" : "Travní",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 13,
+    "name" : "Elektrický",
+    "local_language_id" : 10
+  },
+  {
+    "type_id" : 10002,
+    "name" : "Stínový",
+    "local_language_id" : 10
+  }
+]

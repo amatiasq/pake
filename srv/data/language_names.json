@@ -1,0 +1,142 @@
+[
+  {
+    "language_id" : 1,
+    "name" : "日本語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 1,
+    "name" : "Japanese",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 2,
+    "name" : "正式ローマジ",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 2,
+    "name" : "Official roomaji",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 3,
+    "name" : "韓国語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 3,
+    "name" : "Korean",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 4,
+    "name" : "中国語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 4,
+    "name" : "Chinese",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 5,
+    "name" : "フランス語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 5,
+    "name" : "French",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 6,
+    "name" : "ドイツ語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 6,
+    "name" : "German",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 7,
+    "name" : "西語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 7,
+    "name" : "Spanish",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 8,
+    "name" : "伊語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 8,
+    "name" : "Italian",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 9,
+    "name" : "英語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 9,
+    "name" : "English",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 10,
+    "name" : "チェコ語",
+    "local_language_id" : 1
+  },
+  {
+    "language_id" : 10,
+    "name" : "Czech",
+    "local_language_id" : 9
+  },
+  {
+    "language_id" : 4,
+    "name" : "Čínština",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 5,
+    "name" : "Francouzština",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 3,
+    "name" : "Korejština",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 6,
+    "name" : "Němčina",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 8,
+    "name" : "Italština",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 9,
+    "name" : "Angličtina",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 7,
+    "name" : "Španělština",
+    "local_language_id" : 10
+  },
+  {
+    "language_id" : 1,
+    "name" : "Japonština",
+    "local_language_id" : 10
+  }
+]

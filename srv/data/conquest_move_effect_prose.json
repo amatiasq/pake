@@ -1,0 +1,308 @@
+[
+  {
+    "short_effect" : "Inflicts exactly 40 HP in damage.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts exactly 40 HP in damage, unaffected by stats or types.",
+    "conquest_move_effect_id" : 1
+  },
+  {
+    "short_effect" : "Has double power if $target has a major status ailment.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has double power if $target has a major status ailment.",
+    "conquest_move_effect_id" : 2
+  },
+  {
+    "short_effect" : "Doubles in power with each consecutive successful use.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Every time this move succeeds, its power doubles; if it fails or is not used for a turn, it resets.",
+    "conquest_move_effect_id" : 3
+  },
+  {
+    "short_effect" : "Ignores $target's stat modifiers.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts damage, ignoring $target's stat modifiers.",
+    "conquest_move_effect_id" : 4
+  },
+  {
+    "short_effect" : "Power rises the faster the user is compared to $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The greater the user's Speed compared to $target's, the more power this move has.",
+    "conquest_move_effect_id" : 5
+  },
+  {
+    "short_effect" : "Power rises the slower the user is compared to $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The lower the user's Speed compared to $target's, the more power this move has.",
+    "conquest_move_effect_id" : 6
+  },
+  {
+    "short_effect" : "Has double power if $target has already taken damage this turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has double power if $target has already taken damage this turn.",
+    "conquest_move_effect_id" : 7
+  },
+  {
+    "short_effect" : "Inflicts damage based on $target's Attack stat instead of the user's.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Damage is calculated using $target's Attack stat rather than the user's.",
+    "conquest_move_effect_id" : 8
+  },
+  {
+    "short_effect" : "Has an increased chance for a critical hit.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  This move's critical hit rate is higher than usual.",
+    "conquest_move_effect_id" : 9
+  },
+  {
+    "short_effect" : "Hits 2 to 5 times in one turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Hits two to five times in one turn, with damage calculated separately each time.",
+    "conquest_move_effect_id" : 14
+  },
+  {
+    "short_effect" : "Hits 4 to 5 times in one turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Hits four to five times in one turn, with damage calculated separately each time.",
+    "conquest_move_effect_id" : 15
+  },
+  {
+    "short_effect" : "Digs underground and hits at the beginning of the next turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user digs underground, dodging all moves until it attacks.  At the beginning of the next turn, the user hits $target, even if $target has moved, and cannot move again that turn.",
+    "conquest_move_effect_id" : 16
+  },
+  {
+    "short_effect" : "Lifts $target into the sky and hits at the beginning of the next turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user carries $target into the sky.  No moves can hit either Pokémon in this state.  At the beginning of the next turn, the user slams $target to the ground, inflicting regular damage.  The user cannot move again that turn.",
+    "conquest_move_effect_id" : 17
+  },
+  {
+    "short_effect" : "Hits $target at the beginning of the turn after next.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Hits $target at the beginning of the user's turn two turns after this one, even if the target has moved.\n\nIn the turn in-between, the user can use this move again, but it will miss any target that already has a Future Sight pending.",
+    "conquest_move_effect_id" : 18
+  },
+  {
+    "short_effect" : "User moves back one tile, switching places with any Pokémon already there.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.",
+    "conquest_move_effect_id" : 19
+  },
+  {
+    "short_effect" : "Switches $target with the Pokémon behind it.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.",
+    "conquest_move_effect_id" : 20
+  },
+  {
+    "short_effect" : "Heals the user by half the damage dealt.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user heals for half as many HP as it dealt in damage.",
+    "conquest_move_effect_id" : 21
+  },
+  {
+    "short_effect" : "Teleports randomly.",
+    "local_language_id" : 9,
+    "effect" : "The user teleports randomly to another tile.",
+    "conquest_move_effect_id" : 22
+  },
+  {
+    "short_effect" : "Cannot be used the turn after hitting.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  If the move succeeds, it cannot be used again on the next turn.",
+    "conquest_move_effect_id" : 23
+  },
+  {
+    "short_effect" : "Lowers the user's range and Defense until its next turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user's Defense is lowered and its range is lowered to one tile until the beginning of its next turn.",
+    "conquest_move_effect_id" : 25
+  },
+  {
+    "short_effect" : "Damages the user if it misses.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  If this move misses, the user takes some damage.",
+    "conquest_move_effect_id" : 26
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to raise the user's Attack.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Attack afterward.",
+    "conquest_move_effect_id" : 28
+  },
+  {
+    "short_effect" : "Lowers the user's Attack.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Lowers the user's Attack afterward.",
+    "conquest_move_effect_id" : 29
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to lower $target's Defense.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's Defense afterward.",
+    "conquest_move_effect_id" : 30
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to lower $target's Speed.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's Speed afterward.",
+    "conquest_move_effect_id" : 33
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to lower $target's accuracy.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's accuracy.",
+    "conquest_move_effect_id" : 36
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to paralyze $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to paralyze $target.",
+    "conquest_move_effect_id" : 37
+  },
+  {
+    "short_effect" : "Puts $target to sleep.",
+    "local_language_id" : 9,
+    "effect" : "Puts $target to sleep.",
+    "conquest_move_effect_id" : 38
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to poison $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to poison $target.",
+    "conquest_move_effect_id" : 39
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to badly poison $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to badly poison $target.",
+    "conquest_move_effect_id" : 40
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to burn $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to burn $target.",
+    "conquest_move_effect_id" : 41
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to freeze $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to freeze $target.",
+    "conquest_move_effect_id" : 42
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to confuse $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to confuse $target.",
+    "conquest_move_effect_id" : 43
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to make $target flinch.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to make $target flinch.",
+    "conquest_move_effect_id" : 44
+  },
+  {
+    "short_effect" : "Permanently destroys $target's item if it is consumable.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Permanently destroys $target's item if the item can be consumed in battle.",
+    "conquest_move_effect_id" : 47
+  },
+  {
+    "short_effect" : "Has double power against Pokémon with less than half their max HP remaining.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has double power when calculating damage against a target with less than half its max HP remaining, on a target-by-target basis.",
+    "conquest_move_effect_id" : 48
+  },
+  {
+    "short_effect" : "Has double power against poisoned Pokémon.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has double power when calculating damage against a poisoned target, on a target-by-target basis.",
+    "conquest_move_effect_id" : 49
+  },
+  {
+    "short_effect" : "Uses $target's item if it is consumable.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user steals $target's item, if the item can be consumed in battle, and uses it on itself, or destroys it if it would have no effect.",
+    "conquest_move_effect_id" : 51
+  },
+  {
+    "short_effect" : "Never misses.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Always has 100% accuracy.\n\nThis move still misses Pokémon under the effects of []{move:dig} or []{move:sky-drop} and can still be dodged by abilities such as []{ability:instinct}.",
+    "conquest_move_effect_id" : 52
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to lower $target's range by one tile.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's range by one tile.",
+    "conquest_move_effect_id" : 58
+  },
+  {
+    "short_effect" : "Lowers the user's Attack and Defense.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Lowers the user's Attack and Defense afterward.",
+    "conquest_move_effect_id" : 59
+  },
+  {
+    "short_effect" : "Inflicts regular damage with no additional effect.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.",
+    "conquest_move_effect_id" : 60
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance each to burn $target or make it flinch.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to burn $target, and a $effect_chance% chance, separately rolled, to make $target flinch.",
+    "conquest_move_effect_id" : 61
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to burn $target.  Thaws the user out if frozen.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Has a $effect_chance% chance to burn $target.  Can be used if the user is frozen, in which case it thaws out.",
+    "conquest_move_effect_id" : 62
+  },
+  {
+    "short_effect" : "Lowers the user's range and Defense until its next turn.  Has a $effect_chance% chance to paralyze $target.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  The user's Defense is lowered and its range is lowered to one tile until the beginning of its next turn.  Has a $effect_chance% chance to paralyze $target.",
+    "conquest_move_effect_id" : 63
+  },
+  {
+    "short_effect" : "Hits 2 to 3 times in one turn.  User has 0 range on its next turn.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Hits two to three times in one turn, with damage calculated separately for each hit.  The user's range is lowered to 0 on its next turn.",
+    "conquest_move_effect_id" : 64
+  },
+  {
+    "short_effect" : "Has double power and wakes $target up if it is asleep.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  If $target is asleep, this move has double power and wakes $target up.",
+    "conquest_move_effect_id" : 65
+  },
+  {
+    "short_effect" : "Has a $effect_chance% chance to poison $target and an increased chance for a critical hit.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts damage.  Has a $effect_chance% chance to poison $target.  This move's critical hit rate is higher than usual.",
+    "conquest_move_effect_id" : 66
+  },
+  {
+    "short_effect" : "Heals the user by half the damage inflicted.  Only works if $target is asleep.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts damage if $target is asleep, and fails otherwise.  Heals the user for half as many HP as it dealt in damage.",
+    "conquest_move_effect_id" : 67
+  },
+  {
+    "short_effect" : "Hits twice in one turn.  Has a $effect_chance% chance to poison $target with each hit.",
+    "local_language_id" : 9,
+    "effect" : "Inflicts regular damage.  Hits twice in one turn.  Has a $effect_chance% chance to poison $target with each hit.",
+    "conquest_move_effect_id" : 68
+  },
+  {
+    "short_effect" : "Does nothing.",
+    "local_language_id" : 9,
+    "effect" : "Does nothing.",
+    "conquest_move_effect_id" : 69
+  }
+]

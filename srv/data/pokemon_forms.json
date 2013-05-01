@@ -1,0 +1,7332 @@
+[
+  {
+    "is_default" : 1,
+    "id" : 1,
+    "form_order" : 1,
+    "order" : 1,
+    "pokemon_id" : 1,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 2,
+    "form_order" : 1,
+    "order" : 2,
+    "pokemon_id" : 2,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 3,
+    "form_order" : 1,
+    "order" : 3,
+    "pokemon_id" : 3,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 4,
+    "form_order" : 1,
+    "order" : 4,
+    "pokemon_id" : 4,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 5,
+    "form_order" : 1,
+    "order" : 5,
+    "pokemon_id" : 5,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 6,
+    "form_order" : 1,
+    "order" : 6,
+    "pokemon_id" : 6,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 7,
+    "form_order" : 1,
+    "order" : 7,
+    "pokemon_id" : 7,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 8,
+    "form_order" : 1,
+    "order" : 8,
+    "pokemon_id" : 8,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 9,
+    "form_order" : 1,
+    "order" : 9,
+    "pokemon_id" : 9,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 10,
+    "form_order" : 1,
+    "order" : 10,
+    "pokemon_id" : 10,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 11,
+    "form_order" : 1,
+    "order" : 11,
+    "pokemon_id" : 11,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 12,
+    "form_order" : 1,
+    "order" : 12,
+    "pokemon_id" : 12,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 13,
+    "form_order" : 1,
+    "order" : 13,
+    "pokemon_id" : 13,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 14,
+    "form_order" : 1,
+    "order" : 14,
+    "pokemon_id" : 14,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 15,
+    "form_order" : 1,
+    "order" : 15,
+    "pokemon_id" : 15,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 16,
+    "form_order" : 1,
+    "order" : 16,
+    "pokemon_id" : 16,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 17,
+    "form_order" : 1,
+    "order" : 17,
+    "pokemon_id" : 17,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 18,
+    "form_order" : 1,
+    "order" : 18,
+    "pokemon_id" : 18,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 19,
+    "form_order" : 1,
+    "order" : 19,
+    "pokemon_id" : 19,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 20,
+    "form_order" : 1,
+    "order" : 20,
+    "pokemon_id" : 20,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 21,
+    "form_order" : 1,
+    "order" : 21,
+    "pokemon_id" : 21,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 22,
+    "form_order" : 1,
+    "order" : 22,
+    "pokemon_id" : 22,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 23,
+    "form_order" : 1,
+    "order" : 23,
+    "pokemon_id" : 23,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 24,
+    "form_order" : 1,
+    "order" : 24,
+    "pokemon_id" : 24,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 25,
+    "form_order" : 1,
+    "order" : 27,
+    "pokemon_id" : 25,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 26,
+    "form_order" : 1,
+    "order" : 28,
+    "pokemon_id" : 26,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 27,
+    "form_order" : 1,
+    "order" : 29,
+    "pokemon_id" : 27,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 28,
+    "form_order" : 1,
+    "order" : 30,
+    "pokemon_id" : 28,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 29,
+    "form_order" : 1,
+    "order" : 31,
+    "pokemon_id" : 29,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 30,
+    "form_order" : 1,
+    "order" : 32,
+    "pokemon_id" : 30,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 31,
+    "form_order" : 1,
+    "order" : 33,
+    "pokemon_id" : 31,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 32,
+    "form_order" : 1,
+    "order" : 34,
+    "pokemon_id" : 32,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 33,
+    "form_order" : 1,
+    "order" : 35,
+    "pokemon_id" : 33,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 34,
+    "form_order" : 1,
+    "order" : 36,
+    "pokemon_id" : 34,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 35,
+    "form_order" : 1,
+    "order" : 38,
+    "pokemon_id" : 35,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 36,
+    "form_order" : 1,
+    "order" : 39,
+    "pokemon_id" : 36,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 37,
+    "form_order" : 1,
+    "order" : 40,
+    "pokemon_id" : 37,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 38,
+    "form_order" : 1,
+    "order" : 41,
+    "pokemon_id" : 38,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 39,
+    "form_order" : 1,
+    "order" : 43,
+    "pokemon_id" : 39,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 40,
+    "form_order" : 1,
+    "order" : 44,
+    "pokemon_id" : 40,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 41,
+    "form_order" : 1,
+    "order" : 45,
+    "pokemon_id" : 41,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 42,
+    "form_order" : 1,
+    "order" : 46,
+    "pokemon_id" : 42,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 43,
+    "form_order" : 1,
+    "order" : 48,
+    "pokemon_id" : 43,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 44,
+    "form_order" : 1,
+    "order" : 49,
+    "pokemon_id" : 44,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 45,
+    "form_order" : 1,
+    "order" : 50,
+    "pokemon_id" : 45,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 46,
+    "form_order" : 1,
+    "order" : 52,
+    "pokemon_id" : 46,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 47,
+    "form_order" : 1,
+    "order" : 53,
+    "pokemon_id" : 47,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 48,
+    "form_order" : 1,
+    "order" : 54,
+    "pokemon_id" : 48,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 49,
+    "form_order" : 1,
+    "order" : 55,
+    "pokemon_id" : 49,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 50,
+    "form_order" : 1,
+    "order" : 56,
+    "pokemon_id" : 50,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 51,
+    "form_order" : 1,
+    "order" : 57,
+    "pokemon_id" : 51,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 52,
+    "form_order" : 1,
+    "order" : 58,
+    "pokemon_id" : 52,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 53,
+    "form_order" : 1,
+    "order" : 59,
+    "pokemon_id" : 53,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 54,
+    "form_order" : 1,
+    "order" : 60,
+    "pokemon_id" : 54,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 55,
+    "form_order" : 1,
+    "order" : 61,
+    "pokemon_id" : 55,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 56,
+    "form_order" : 1,
+    "order" : 62,
+    "pokemon_id" : 56,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 57,
+    "form_order" : 1,
+    "order" : 63,
+    "pokemon_id" : 57,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 58,
+    "form_order" : 1,
+    "order" : 64,
+    "pokemon_id" : 58,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 59,
+    "form_order" : 1,
+    "order" : 65,
+    "pokemon_id" : 59,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 60,
+    "form_order" : 1,
+    "order" : 66,
+    "pokemon_id" : 60,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 61,
+    "form_order" : 1,
+    "order" : 67,
+    "pokemon_id" : 61,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 62,
+    "form_order" : 1,
+    "order" : 68,
+    "pokemon_id" : 62,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 63,
+    "form_order" : 1,
+    "order" : 70,
+    "pokemon_id" : 63,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 64,
+    "form_order" : 1,
+    "order" : 71,
+    "pokemon_id" : 64,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 65,
+    "form_order" : 1,
+    "order" : 72,
+    "pokemon_id" : 65,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 66,
+    "form_order" : 1,
+    "order" : 73,
+    "pokemon_id" : 66,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 67,
+    "form_order" : 1,
+    "order" : 74,
+    "pokemon_id" : 67,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 68,
+    "form_order" : 1,
+    "order" : 75,
+    "pokemon_id" : 68,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 69,
+    "form_order" : 1,
+    "order" : 76,
+    "pokemon_id" : 69,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 70,
+    "form_order" : 1,
+    "order" : 77,
+    "pokemon_id" : 70,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 71,
+    "form_order" : 1,
+    "order" : 78,
+    "pokemon_id" : 71,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 72,
+    "form_order" : 1,
+    "order" : 79,
+    "pokemon_id" : 72,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 73,
+    "form_order" : 1,
+    "order" : 80,
+    "pokemon_id" : 73,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 74,
+    "form_order" : 1,
+    "order" : 81,
+    "pokemon_id" : 74,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 75,
+    "form_order" : 1,
+    "order" : 82,
+    "pokemon_id" : 75,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 76,
+    "form_order" : 1,
+    "order" : 83,
+    "pokemon_id" : 76,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 77,
+    "form_order" : 1,
+    "order" : 84,
+    "pokemon_id" : 77,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 78,
+    "form_order" : 1,
+    "order" : 85,
+    "pokemon_id" : 78,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 79,
+    "form_order" : 1,
+    "order" : 86,
+    "pokemon_id" : 79,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 80,
+    "form_order" : 1,
+    "order" : 87,
+    "pokemon_id" : 80,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 81,
+    "form_order" : 1,
+    "order" : 89,
+    "pokemon_id" : 81,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 82,
+    "form_order" : 1,
+    "order" : 90,
+    "pokemon_id" : 82,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 83,
+    "form_order" : 1,
+    "order" : 92,
+    "pokemon_id" : 83,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 84,
+    "form_order" : 1,
+    "order" : 93,
+    "pokemon_id" : 84,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 85,
+    "form_order" : 1,
+    "order" : 94,
+    "pokemon_id" : 85,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 86,
+    "form_order" : 1,
+    "order" : 95,
+    "pokemon_id" : 86,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 87,
+    "form_order" : 1,
+    "order" : 96,
+    "pokemon_id" : 87,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 88,
+    "form_order" : 1,
+    "order" : 97,
+    "pokemon_id" : 88,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 89,
+    "form_order" : 1,
+    "order" : 98,
+    "pokemon_id" : 89,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 90,
+    "form_order" : 1,
+    "order" : 99,
+    "pokemon_id" : 90,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 91,
+    "form_order" : 1,
+    "order" : 100,
+    "pokemon_id" : 91,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 92,
+    "form_order" : 1,
+    "order" : 101,
+    "pokemon_id" : 92,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 93,
+    "form_order" : 1,
+    "order" : 102,
+    "pokemon_id" : 93,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 94,
+    "form_order" : 1,
+    "order" : 103,
+    "pokemon_id" : 94,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 95,
+    "form_order" : 1,
+    "order" : 104,
+    "pokemon_id" : 95,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 96,
+    "form_order" : 1,
+    "order" : 106,
+    "pokemon_id" : 96,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 97,
+    "form_order" : 1,
+    "order" : 107,
+    "pokemon_id" : 97,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 98,
+    "form_order" : 1,
+    "order" : 108,
+    "pokemon_id" : 98,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 99,
+    "form_order" : 1,
+    "order" : 109,
+    "pokemon_id" : 99,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 100,
+    "form_order" : 1,
+    "order" : 110,
+    "pokemon_id" : 100,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 101,
+    "form_order" : 1,
+    "order" : 111,
+    "pokemon_id" : 101,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 102,
+    "form_order" : 1,
+    "order" : 112,
+    "pokemon_id" : 102,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 103,
+    "form_order" : 1,
+    "order" : 113,
+    "pokemon_id" : 103,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 104,
+    "form_order" : 1,
+    "order" : 114,
+    "pokemon_id" : 104,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 105,
+    "form_order" : 1,
+    "order" : 115,
+    "pokemon_id" : 105,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 106,
+    "form_order" : 1,
+    "order" : 117,
+    "pokemon_id" : 106,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 107,
+    "form_order" : 1,
+    "order" : 118,
+    "pokemon_id" : 107,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 108,
+    "form_order" : 1,
+    "order" : 120,
+    "pokemon_id" : 108,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 109,
+    "form_order" : 1,
+    "order" : 122,
+    "pokemon_id" : 109,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 110,
+    "form_order" : 1,
+    "order" : 123,
+    "pokemon_id" : 110,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 111,
+    "form_order" : 1,
+    "order" : 124,
+    "pokemon_id" : 111,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 112,
+    "form_order" : 1,
+    "order" : 125,
+    "pokemon_id" : 112,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 113,
+    "form_order" : 1,
+    "order" : 128,
+    "pokemon_id" : 113,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 114,
+    "form_order" : 1,
+    "order" : 130,
+    "pokemon_id" : 114,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 115,
+    "form_order" : 1,
+    "order" : 132,
+    "pokemon_id" : 115,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 116,
+    "form_order" : 1,
+    "order" : 133,
+    "pokemon_id" : 116,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 117,
+    "form_order" : 1,
+    "order" : 134,
+    "pokemon_id" : 117,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 118,
+    "form_order" : 1,
+    "order" : 136,
+    "pokemon_id" : 118,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 119,
+    "form_order" : 1,
+    "order" : 137,
+    "pokemon_id" : 119,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 120,
+    "form_order" : 1,
+    "order" : 138,
+    "pokemon_id" : 120,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 121,
+    "form_order" : 1,
+    "order" : 139,
+    "pokemon_id" : 121,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 122,
+    "form_order" : 1,
+    "order" : 141,
+    "pokemon_id" : 122,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 123,
+    "form_order" : 1,
+    "order" : 142,
+    "pokemon_id" : 123,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 124,
+    "form_order" : 1,
+    "order" : 145,
+    "pokemon_id" : 124,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 125,
+    "form_order" : 1,
+    "order" : 147,
+    "pokemon_id" : 125,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 126,
+    "form_order" : 1,
+    "order" : 150,
+    "pokemon_id" : 126,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 127,
+    "form_order" : 1,
+    "order" : 152,
+    "pokemon_id" : 127,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 128,
+    "form_order" : 1,
+    "order" : 153,
+    "pokemon_id" : 128,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 129,
+    "form_order" : 1,
+    "order" : 154,
+    "pokemon_id" : 129,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 130,
+    "form_order" : 1,
+    "order" : 155,
+    "pokemon_id" : 130,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 131,
+    "form_order" : 1,
+    "order" : 156,
+    "pokemon_id" : 131,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 132,
+    "form_order" : 1,
+    "order" : 157,
+    "pokemon_id" : 132,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 133,
+    "form_order" : 1,
+    "order" : 158,
+    "pokemon_id" : 133,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 134,
+    "form_order" : 1,
+    "order" : 159,
+    "pokemon_id" : 134,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 135,
+    "form_order" : 1,
+    "order" : 160,
+    "pokemon_id" : 135,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 136,
+    "form_order" : 1,
+    "order" : 161,
+    "pokemon_id" : 136,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 137,
+    "form_order" : 1,
+    "order" : 166,
+    "pokemon_id" : 137,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 138,
+    "form_order" : 1,
+    "order" : 169,
+    "pokemon_id" : 138,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 139,
+    "form_order" : 1,
+    "order" : 170,
+    "pokemon_id" : 139,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 140,
+    "form_order" : 1,
+    "order" : 171,
+    "pokemon_id" : 140,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 141,
+    "form_order" : 1,
+    "order" : 172,
+    "pokemon_id" : 141,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 142,
+    "form_order" : 1,
+    "order" : 173,
+    "pokemon_id" : 142,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 143,
+    "form_order" : 1,
+    "order" : 175,
+    "pokemon_id" : 143,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 144,
+    "form_order" : 1,
+    "order" : 176,
+    "pokemon_id" : 144,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 145,
+    "form_order" : 1,
+    "order" : 177,
+    "pokemon_id" : 145,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 146,
+    "form_order" : 1,
+    "order" : 178,
+    "pokemon_id" : 146,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 147,
+    "form_order" : 1,
+    "order" : 179,
+    "pokemon_id" : 147,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 148,
+    "form_order" : 1,
+    "order" : 180,
+    "pokemon_id" : 148,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 149,
+    "form_order" : 1,
+    "order" : 181,
+    "pokemon_id" : 149,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 150,
+    "form_order" : 1,
+    "order" : 182,
+    "pokemon_id" : 150,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 151,
+    "form_order" : 1,
+    "order" : 183,
+    "pokemon_id" : 151,
+    "introduced_in_version_group_id" : 1,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 152,
+    "form_order" : 1,
+    "order" : 184,
+    "pokemon_id" : 152,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 153,
+    "form_order" : 1,
+    "order" : 185,
+    "pokemon_id" : 153,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 154,
+    "form_order" : 1,
+    "order" : 186,
+    "pokemon_id" : 154,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 155,
+    "form_order" : 1,
+    "order" : 187,
+    "pokemon_id" : 155,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 156,
+    "form_order" : 1,
+    "order" : 188,
+    "pokemon_id" : 156,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 157,
+    "form_order" : 1,
+    "order" : 189,
+    "pokemon_id" : 157,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 158,
+    "form_order" : 1,
+    "order" : 190,
+    "pokemon_id" : 158,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 159,
+    "form_order" : 1,
+    "order" : 191,
+    "pokemon_id" : 159,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 160,
+    "form_order" : 1,
+    "order" : 192,
+    "pokemon_id" : 160,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 161,
+    "form_order" : 1,
+    "order" : 193,
+    "pokemon_id" : 161,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 162,
+    "form_order" : 1,
+    "order" : 194,
+    "pokemon_id" : 162,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 163,
+    "form_order" : 1,
+    "order" : 195,
+    "pokemon_id" : 163,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 164,
+    "form_order" : 1,
+    "order" : 196,
+    "pokemon_id" : 164,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 165,
+    "form_order" : 1,
+    "order" : 197,
+    "pokemon_id" : 165,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 166,
+    "form_order" : 1,
+    "order" : 198,
+    "pokemon_id" : 166,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 167,
+    "form_order" : 1,
+    "order" : 199,
+    "pokemon_id" : 167,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 168,
+    "form_order" : 1,
+    "order" : 200,
+    "pokemon_id" : 168,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 169,
+    "form_order" : 1,
+    "order" : 47,
+    "pokemon_id" : 169,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 170,
+    "form_order" : 1,
+    "order" : 201,
+    "pokemon_id" : 170,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 171,
+    "form_order" : 1,
+    "order" : 202,
+    "pokemon_id" : 171,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 172,
+    "form_order" : 1,
+    "order" : 25,
+    "pokemon_id" : 172,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 173,
+    "form_order" : 1,
+    "order" : 37,
+    "pokemon_id" : 173,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 174,
+    "form_order" : 1,
+    "order" : 42,
+    "pokemon_id" : 174,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 175,
+    "form_order" : 1,
+    "order" : 203,
+    "pokemon_id" : 175,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 176,
+    "form_order" : 1,
+    "order" : 204,
+    "pokemon_id" : 176,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 177,
+    "form_order" : 1,
+    "order" : 206,
+    "pokemon_id" : 177,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 178,
+    "form_order" : 1,
+    "order" : 207,
+    "pokemon_id" : 178,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 179,
+    "form_order" : 1,
+    "order" : 208,
+    "pokemon_id" : 179,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 180,
+    "form_order" : 1,
+    "order" : 209,
+    "pokemon_id" : 180,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 181,
+    "form_order" : 1,
+    "order" : 210,
+    "pokemon_id" : 181,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 182,
+    "form_order" : 1,
+    "order" : 51,
+    "pokemon_id" : 182,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 183,
+    "form_order" : 1,
+    "order" : 212,
+    "pokemon_id" : 183,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 184,
+    "form_order" : 1,
+    "order" : 213,
+    "pokemon_id" : 184,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 185,
+    "form_order" : 1,
+    "order" : 215,
+    "pokemon_id" : 185,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 186,
+    "form_order" : 1,
+    "order" : 69,
+    "pokemon_id" : 186,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 187,
+    "form_order" : 1,
+    "order" : 216,
+    "pokemon_id" : 187,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 188,
+    "form_order" : 1,
+    "order" : 217,
+    "pokemon_id" : 188,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 189,
+    "form_order" : 1,
+    "order" : 218,
+    "pokemon_id" : 189,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 190,
+    "form_order" : 1,
+    "order" : 219,
+    "pokemon_id" : 190,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 191,
+    "form_order" : 1,
+    "order" : 221,
+    "pokemon_id" : 191,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 192,
+    "form_order" : 1,
+    "order" : 222,
+    "pokemon_id" : 192,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 193,
+    "form_order" : 1,
+    "order" : 223,
+    "pokemon_id" : 193,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 194,
+    "form_order" : 1,
+    "order" : 225,
+    "pokemon_id" : 194,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 195,
+    "form_order" : 1,
+    "order" : 226,
+    "pokemon_id" : 195,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 196,
+    "form_order" : 1,
+    "order" : 162,
+    "pokemon_id" : 196,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 197,
+    "form_order" : 1,
+    "order" : 163,
+    "pokemon_id" : 197,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 198,
+    "form_order" : 1,
+    "order" : 227,
+    "pokemon_id" : 198,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 199,
+    "form_order" : 1,
+    "order" : 88,
+    "pokemon_id" : 199,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 200,
+    "form_order" : 1,
+    "order" : 229,
+    "pokemon_id" : 200,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 201,
+    "form_order" : 1,
+    "order" : 231,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "a"
+  },
+  {
+    "is_default" : 1,
+    "id" : 202,
+    "form_order" : 1,
+    "order" : 259,
+    "pokemon_id" : 202,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 203,
+    "form_order" : 1,
+    "order" : 260,
+    "pokemon_id" : 203,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 204,
+    "form_order" : 1,
+    "order" : 261,
+    "pokemon_id" : 204,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 205,
+    "form_order" : 1,
+    "order" : 262,
+    "pokemon_id" : 205,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 206,
+    "form_order" : 1,
+    "order" : 263,
+    "pokemon_id" : 206,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 207,
+    "form_order" : 1,
+    "order" : 264,
+    "pokemon_id" : 207,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 208,
+    "form_order" : 1,
+    "order" : 105,
+    "pokemon_id" : 208,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 209,
+    "form_order" : 1,
+    "order" : 266,
+    "pokemon_id" : 209,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 210,
+    "form_order" : 1,
+    "order" : 267,
+    "pokemon_id" : 210,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 211,
+    "form_order" : 1,
+    "order" : 268,
+    "pokemon_id" : 211,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 212,
+    "form_order" : 1,
+    "order" : 143,
+    "pokemon_id" : 212,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 213,
+    "form_order" : 1,
+    "order" : 269,
+    "pokemon_id" : 213,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 214,
+    "form_order" : 1,
+    "order" : 270,
+    "pokemon_id" : 214,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 215,
+    "form_order" : 1,
+    "order" : 271,
+    "pokemon_id" : 215,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 216,
+    "form_order" : 1,
+    "order" : 273,
+    "pokemon_id" : 216,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 217,
+    "form_order" : 1,
+    "order" : 274,
+    "pokemon_id" : 217,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 218,
+    "form_order" : 1,
+    "order" : 275,
+    "pokemon_id" : 218,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 219,
+    "form_order" : 1,
+    "order" : 276,
+    "pokemon_id" : 219,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 220,
+    "form_order" : 1,
+    "order" : 277,
+    "pokemon_id" : 220,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 221,
+    "form_order" : 1,
+    "order" : 278,
+    "pokemon_id" : 221,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 222,
+    "form_order" : 1,
+    "order" : 280,
+    "pokemon_id" : 222,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 223,
+    "form_order" : 1,
+    "order" : 281,
+    "pokemon_id" : 223,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 224,
+    "form_order" : 1,
+    "order" : 282,
+    "pokemon_id" : 224,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 225,
+    "form_order" : 1,
+    "order" : 283,
+    "pokemon_id" : 225,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 226,
+    "form_order" : 1,
+    "order" : 285,
+    "pokemon_id" : 226,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 227,
+    "form_order" : 1,
+    "order" : 286,
+    "pokemon_id" : 227,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 228,
+    "form_order" : 1,
+    "order" : 287,
+    "pokemon_id" : 228,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 229,
+    "form_order" : 1,
+    "order" : 288,
+    "pokemon_id" : 229,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 230,
+    "form_order" : 1,
+    "order" : 135,
+    "pokemon_id" : 230,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 231,
+    "form_order" : 1,
+    "order" : 289,
+    "pokemon_id" : 231,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 232,
+    "form_order" : 1,
+    "order" : 290,
+    "pokemon_id" : 232,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 233,
+    "form_order" : 1,
+    "order" : 167,
+    "pokemon_id" : 233,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 234,
+    "form_order" : 1,
+    "order" : 291,
+    "pokemon_id" : 234,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 235,
+    "form_order" : 1,
+    "order" : 292,
+    "pokemon_id" : 235,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 236,
+    "form_order" : 1,
+    "order" : 116,
+    "pokemon_id" : 236,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 237,
+    "form_order" : 1,
+    "order" : 119,
+    "pokemon_id" : 237,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 238,
+    "form_order" : 1,
+    "order" : 144,
+    "pokemon_id" : 238,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 239,
+    "form_order" : 1,
+    "order" : 146,
+    "pokemon_id" : 239,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 240,
+    "form_order" : 1,
+    "order" : 149,
+    "pokemon_id" : 240,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 241,
+    "form_order" : 1,
+    "order" : 293,
+    "pokemon_id" : 241,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 242,
+    "form_order" : 1,
+    "order" : 129,
+    "pokemon_id" : 242,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 243,
+    "form_order" : 1,
+    "order" : 294,
+    "pokemon_id" : 243,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 244,
+    "form_order" : 1,
+    "order" : 295,
+    "pokemon_id" : 244,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 245,
+    "form_order" : 1,
+    "order" : 296,
+    "pokemon_id" : 245,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 246,
+    "form_order" : 1,
+    "order" : 297,
+    "pokemon_id" : 246,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 247,
+    "form_order" : 1,
+    "order" : 298,
+    "pokemon_id" : 247,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 248,
+    "form_order" : 1,
+    "order" : 299,
+    "pokemon_id" : 248,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 249,
+    "form_order" : 1,
+    "order" : 300,
+    "pokemon_id" : 249,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 250,
+    "form_order" : 1,
+    "order" : 301,
+    "pokemon_id" : 250,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 251,
+    "form_order" : 1,
+    "order" : 302,
+    "pokemon_id" : 251,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 252,
+    "form_order" : 1,
+    "order" : 303,
+    "pokemon_id" : 252,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 253,
+    "form_order" : 1,
+    "order" : 304,
+    "pokemon_id" : 253,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 254,
+    "form_order" : 1,
+    "order" : 305,
+    "pokemon_id" : 254,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 255,
+    "form_order" : 1,
+    "order" : 306,
+    "pokemon_id" : 255,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 256,
+    "form_order" : 1,
+    "order" : 307,
+    "pokemon_id" : 256,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 257,
+    "form_order" : 1,
+    "order" : 308,
+    "pokemon_id" : 257,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 258,
+    "form_order" : 1,
+    "order" : 309,
+    "pokemon_id" : 258,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 259,
+    "form_order" : 1,
+    "order" : 310,
+    "pokemon_id" : 259,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 260,
+    "form_order" : 1,
+    "order" : 311,
+    "pokemon_id" : 260,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 261,
+    "form_order" : 1,
+    "order" : 312,
+    "pokemon_id" : 261,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 262,
+    "form_order" : 1,
+    "order" : 313,
+    "pokemon_id" : 262,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 263,
+    "form_order" : 1,
+    "order" : 314,
+    "pokemon_id" : 263,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 264,
+    "form_order" : 1,
+    "order" : 315,
+    "pokemon_id" : 264,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 265,
+    "form_order" : 1,
+    "order" : 316,
+    "pokemon_id" : 265,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 266,
+    "form_order" : 1,
+    "order" : 317,
+    "pokemon_id" : 266,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 267,
+    "form_order" : 1,
+    "order" : 318,
+    "pokemon_id" : 267,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 268,
+    "form_order" : 1,
+    "order" : 319,
+    "pokemon_id" : 268,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 269,
+    "form_order" : 1,
+    "order" : 320,
+    "pokemon_id" : 269,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 270,
+    "form_order" : 1,
+    "order" : 321,
+    "pokemon_id" : 270,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 271,
+    "form_order" : 1,
+    "order" : 322,
+    "pokemon_id" : 271,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 272,
+    "form_order" : 1,
+    "order" : 323,
+    "pokemon_id" : 272,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 273,
+    "form_order" : 1,
+    "order" : 324,
+    "pokemon_id" : 273,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 274,
+    "form_order" : 1,
+    "order" : 325,
+    "pokemon_id" : 274,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 275,
+    "form_order" : 1,
+    "order" : 326,
+    "pokemon_id" : 275,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 276,
+    "form_order" : 1,
+    "order" : 327,
+    "pokemon_id" : 276,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 277,
+    "form_order" : 1,
+    "order" : 328,
+    "pokemon_id" : 277,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 278,
+    "form_order" : 1,
+    "order" : 329,
+    "pokemon_id" : 278,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 279,
+    "form_order" : 1,
+    "order" : 330,
+    "pokemon_id" : 279,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 280,
+    "form_order" : 1,
+    "order" : 331,
+    "pokemon_id" : 280,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 281,
+    "form_order" : 1,
+    "order" : 332,
+    "pokemon_id" : 281,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 282,
+    "form_order" : 1,
+    "order" : 333,
+    "pokemon_id" : 282,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 283,
+    "form_order" : 1,
+    "order" : 335,
+    "pokemon_id" : 283,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 284,
+    "form_order" : 1,
+    "order" : 336,
+    "pokemon_id" : 284,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 285,
+    "form_order" : 1,
+    "order" : 337,
+    "pokemon_id" : 285,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 286,
+    "form_order" : 1,
+    "order" : 338,
+    "pokemon_id" : 286,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 287,
+    "form_order" : 1,
+    "order" : 339,
+    "pokemon_id" : 287,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 288,
+    "form_order" : 1,
+    "order" : 340,
+    "pokemon_id" : 288,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 289,
+    "form_order" : 1,
+    "order" : 341,
+    "pokemon_id" : 289,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 290,
+    "form_order" : 1,
+    "order" : 342,
+    "pokemon_id" : 290,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 291,
+    "form_order" : 1,
+    "order" : 343,
+    "pokemon_id" : 291,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 292,
+    "form_order" : 1,
+    "order" : 344,
+    "pokemon_id" : 292,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 293,
+    "form_order" : 1,
+    "order" : 345,
+    "pokemon_id" : 293,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 294,
+    "form_order" : 1,
+    "order" : 346,
+    "pokemon_id" : 294,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 295,
+    "form_order" : 1,
+    "order" : 347,
+    "pokemon_id" : 295,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 296,
+    "form_order" : 1,
+    "order" : 348,
+    "pokemon_id" : 296,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 297,
+    "form_order" : 1,
+    "order" : 349,
+    "pokemon_id" : 297,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 298,
+    "form_order" : 1,
+    "order" : 211,
+    "pokemon_id" : 298,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 299,
+    "form_order" : 1,
+    "order" : 350,
+    "pokemon_id" : 299,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 300,
+    "form_order" : 1,
+    "order" : 352,
+    "pokemon_id" : 300,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 301,
+    "form_order" : 1,
+    "order" : 353,
+    "pokemon_id" : 301,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 302,
+    "form_order" : 1,
+    "order" : 354,
+    "pokemon_id" : 302,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 303,
+    "form_order" : 1,
+    "order" : 355,
+    "pokemon_id" : 303,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 304,
+    "form_order" : 1,
+    "order" : 356,
+    "pokemon_id" : 304,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 305,
+    "form_order" : 1,
+    "order" : 357,
+    "pokemon_id" : 305,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 306,
+    "form_order" : 1,
+    "order" : 358,
+    "pokemon_id" : 306,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 307,
+    "form_order" : 1,
+    "order" : 359,
+    "pokemon_id" : 307,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 308,
+    "form_order" : 1,
+    "order" : 360,
+    "pokemon_id" : 308,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 309,
+    "form_order" : 1,
+    "order" : 361,
+    "pokemon_id" : 309,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 310,
+    "form_order" : 1,
+    "order" : 362,
+    "pokemon_id" : 310,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 311,
+    "form_order" : 1,
+    "order" : 363,
+    "pokemon_id" : 311,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 312,
+    "form_order" : 1,
+    "order" : 364,
+    "pokemon_id" : 312,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 313,
+    "form_order" : 1,
+    "order" : 365,
+    "pokemon_id" : 313,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 314,
+    "form_order" : 1,
+    "order" : 366,
+    "pokemon_id" : 314,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 315,
+    "form_order" : 1,
+    "order" : 368,
+    "pokemon_id" : 315,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 316,
+    "form_order" : 1,
+    "order" : 370,
+    "pokemon_id" : 316,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 317,
+    "form_order" : 1,
+    "order" : 371,
+    "pokemon_id" : 317,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 318,
+    "form_order" : 1,
+    "order" : 372,
+    "pokemon_id" : 318,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 319,
+    "form_order" : 1,
+    "order" : 373,
+    "pokemon_id" : 319,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 320,
+    "form_order" : 1,
+    "order" : 374,
+    "pokemon_id" : 320,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 321,
+    "form_order" : 1,
+    "order" : 375,
+    "pokemon_id" : 321,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 322,
+    "form_order" : 1,
+    "order" : 376,
+    "pokemon_id" : 322,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 323,
+    "form_order" : 1,
+    "order" : 377,
+    "pokemon_id" : 323,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 324,
+    "form_order" : 1,
+    "order" : 378,
+    "pokemon_id" : 324,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 325,
+    "form_order" : 1,
+    "order" : 379,
+    "pokemon_id" : 325,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 326,
+    "form_order" : 1,
+    "order" : 380,
+    "pokemon_id" : 326,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 327,
+    "form_order" : 1,
+    "order" : 381,
+    "pokemon_id" : 327,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 328,
+    "form_order" : 1,
+    "order" : 382,
+    "pokemon_id" : 328,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 329,
+    "form_order" : 1,
+    "order" : 383,
+    "pokemon_id" : 329,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 330,
+    "form_order" : 1,
+    "order" : 384,
+    "pokemon_id" : 330,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 331,
+    "form_order" : 1,
+    "order" : 385,
+    "pokemon_id" : 331,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 332,
+    "form_order" : 1,
+    "order" : 386,
+    "pokemon_id" : 332,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 333,
+    "form_order" : 1,
+    "order" : 387,
+    "pokemon_id" : 333,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 334,
+    "form_order" : 1,
+    "order" : 388,
+    "pokemon_id" : 334,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 335,
+    "form_order" : 1,
+    "order" : 389,
+    "pokemon_id" : 335,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 336,
+    "form_order" : 1,
+    "order" : 390,
+    "pokemon_id" : 336,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 337,
+    "form_order" : 1,
+    "order" : 391,
+    "pokemon_id" : 337,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 338,
+    "form_order" : 1,
+    "order" : 392,
+    "pokemon_id" : 338,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 339,
+    "form_order" : 1,
+    "order" : 393,
+    "pokemon_id" : 339,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 340,
+    "form_order" : 1,
+    "order" : 394,
+    "pokemon_id" : 340,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 341,
+    "form_order" : 1,
+    "order" : 395,
+    "pokemon_id" : 341,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 342,
+    "form_order" : 1,
+    "order" : 396,
+    "pokemon_id" : 342,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 343,
+    "form_order" : 1,
+    "order" : 397,
+    "pokemon_id" : 343,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 344,
+    "form_order" : 1,
+    "order" : 398,
+    "pokemon_id" : 344,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 345,
+    "form_order" : 1,
+    "order" : 399,
+    "pokemon_id" : 345,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 346,
+    "form_order" : 1,
+    "order" : 400,
+    "pokemon_id" : 346,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 347,
+    "form_order" : 1,
+    "order" : 401,
+    "pokemon_id" : 347,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 348,
+    "form_order" : 1,
+    "order" : 402,
+    "pokemon_id" : 348,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 349,
+    "form_order" : 1,
+    "order" : 403,
+    "pokemon_id" : 349,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 350,
+    "form_order" : 1,
+    "order" : 404,
+    "pokemon_id" : 350,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 351,
+    "form_order" : 1,
+    "order" : 405,
+    "pokemon_id" : 351,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 352,
+    "form_order" : 1,
+    "order" : 409,
+    "pokemon_id" : 352,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 353,
+    "form_order" : 1,
+    "order" : 410,
+    "pokemon_id" : 353,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 354,
+    "form_order" : 1,
+    "order" : 411,
+    "pokemon_id" : 354,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 355,
+    "form_order" : 1,
+    "order" : 412,
+    "pokemon_id" : 355,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 356,
+    "form_order" : 1,
+    "order" : 413,
+    "pokemon_id" : 356,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 357,
+    "form_order" : 1,
+    "order" : 415,
+    "pokemon_id" : 357,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 358,
+    "form_order" : 1,
+    "order" : 417,
+    "pokemon_id" : 358,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 359,
+    "form_order" : 1,
+    "order" : 418,
+    "pokemon_id" : 359,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 360,
+    "form_order" : 1,
+    "order" : 258,
+    "pokemon_id" : 360,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 361,
+    "form_order" : 1,
+    "order" : 419,
+    "pokemon_id" : 361,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 362,
+    "form_order" : 1,
+    "order" : 420,
+    "pokemon_id" : 362,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 363,
+    "form_order" : 1,
+    "order" : 422,
+    "pokemon_id" : 363,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 364,
+    "form_order" : 1,
+    "order" : 423,
+    "pokemon_id" : 364,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 365,
+    "form_order" : 1,
+    "order" : 424,
+    "pokemon_id" : 365,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 366,
+    "form_order" : 1,
+    "order" : 425,
+    "pokemon_id" : 366,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 367,
+    "form_order" : 1,
+    "order" : 426,
+    "pokemon_id" : 367,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 368,
+    "form_order" : 1,
+    "order" : 427,
+    "pokemon_id" : 368,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 369,
+    "form_order" : 1,
+    "order" : 428,
+    "pokemon_id" : 369,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 370,
+    "form_order" : 1,
+    "order" : 429,
+    "pokemon_id" : 370,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 371,
+    "form_order" : 1,
+    "order" : 430,
+    "pokemon_id" : 371,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 372,
+    "form_order" : 1,
+    "order" : 431,
+    "pokemon_id" : 372,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 373,
+    "form_order" : 1,
+    "order" : 432,
+    "pokemon_id" : 373,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 374,
+    "form_order" : 1,
+    "order" : 433,
+    "pokemon_id" : 374,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 375,
+    "form_order" : 1,
+    "order" : 434,
+    "pokemon_id" : 375,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 376,
+    "form_order" : 1,
+    "order" : 435,
+    "pokemon_id" : 376,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 377,
+    "form_order" : 1,
+    "order" : 436,
+    "pokemon_id" : 377,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 378,
+    "form_order" : 1,
+    "order" : 437,
+    "pokemon_id" : 378,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 379,
+    "form_order" : 1,
+    "order" : 438,
+    "pokemon_id" : 379,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 380,
+    "form_order" : 1,
+    "order" : 439,
+    "pokemon_id" : 380,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 381,
+    "form_order" : 1,
+    "order" : 440,
+    "pokemon_id" : 381,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 382,
+    "form_order" : 1,
+    "order" : 441,
+    "pokemon_id" : 382,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 383,
+    "form_order" : 1,
+    "order" : 442,
+    "pokemon_id" : 383,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 384,
+    "form_order" : 1,
+    "order" : 443,
+    "pokemon_id" : 384,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 385,
+    "form_order" : 1,
+    "order" : 444,
+    "pokemon_id" : 385,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 386,
+    "form_order" : 1,
+    "order" : 445,
+    "pokemon_id" : 386,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : "normal"
+  },
+  {
+    "is_default" : 1,
+    "id" : 387,
+    "form_order" : 1,
+    "order" : 449,
+    "pokemon_id" : 387,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 388,
+    "form_order" : 1,
+    "order" : 450,
+    "pokemon_id" : 388,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 389,
+    "form_order" : 1,
+    "order" : 451,
+    "pokemon_id" : 389,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 390,
+    "form_order" : 1,
+    "order" : 452,
+    "pokemon_id" : 390,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 391,
+    "form_order" : 1,
+    "order" : 453,
+    "pokemon_id" : 391,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 392,
+    "form_order" : 1,
+    "order" : 454,
+    "pokemon_id" : 392,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 393,
+    "form_order" : 1,
+    "order" : 455,
+    "pokemon_id" : 393,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 394,
+    "form_order" : 1,
+    "order" : 456,
+    "pokemon_id" : 394,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 395,
+    "form_order" : 1,
+    "order" : 457,
+    "pokemon_id" : 395,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 396,
+    "form_order" : 1,
+    "order" : 458,
+    "pokemon_id" : 396,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 397,
+    "form_order" : 1,
+    "order" : 459,
+    "pokemon_id" : 397,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 398,
+    "form_order" : 1,
+    "order" : 460,
+    "pokemon_id" : 398,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 399,
+    "form_order" : 1,
+    "order" : 461,
+    "pokemon_id" : 399,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 400,
+    "form_order" : 1,
+    "order" : 462,
+    "pokemon_id" : 400,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 401,
+    "form_order" : 1,
+    "order" : 463,
+    "pokemon_id" : 401,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 402,
+    "form_order" : 1,
+    "order" : 464,
+    "pokemon_id" : 402,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 403,
+    "form_order" : 1,
+    "order" : 465,
+    "pokemon_id" : 403,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 404,
+    "form_order" : 1,
+    "order" : 466,
+    "pokemon_id" : 404,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 405,
+    "form_order" : 1,
+    "order" : 467,
+    "pokemon_id" : 405,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 406,
+    "form_order" : 1,
+    "order" : 367,
+    "pokemon_id" : 406,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 407,
+    "form_order" : 1,
+    "order" : 369,
+    "pokemon_id" : 407,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 408,
+    "form_order" : 1,
+    "order" : 468,
+    "pokemon_id" : 408,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 409,
+    "form_order" : 1,
+    "order" : 469,
+    "pokemon_id" : 409,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 410,
+    "form_order" : 1,
+    "order" : 470,
+    "pokemon_id" : 410,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 411,
+    "form_order" : 1,
+    "order" : 471,
+    "pokemon_id" : 411,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 412,
+    "form_order" : 1,
+    "order" : 472,
+    "pokemon_id" : 412,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "plant"
+  },
+  {
+    "is_default" : 1,
+    "id" : 413,
+    "form_order" : 1,
+    "order" : 475,
+    "pokemon_id" : 413,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "plant"
+  },
+  {
+    "is_default" : 1,
+    "id" : 414,
+    "form_order" : 1,
+    "order" : 478,
+    "pokemon_id" : 414,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 415,
+    "form_order" : 1,
+    "order" : 479,
+    "pokemon_id" : 415,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 416,
+    "form_order" : 1,
+    "order" : 480,
+    "pokemon_id" : 416,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 417,
+    "form_order" : 1,
+    "order" : 481,
+    "pokemon_id" : 417,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 418,
+    "form_order" : 1,
+    "order" : 482,
+    "pokemon_id" : 418,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 419,
+    "form_order" : 1,
+    "order" : 483,
+    "pokemon_id" : 419,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 420,
+    "form_order" : 1,
+    "order" : 484,
+    "pokemon_id" : 420,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 421,
+    "form_order" : 1,
+    "order" : 485,
+    "pokemon_id" : 421,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "overcast"
+  },
+  {
+    "is_default" : 1,
+    "id" : 422,
+    "form_order" : 1,
+    "order" : 487,
+    "pokemon_id" : 422,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "west"
+  },
+  {
+    "is_default" : 1,
+    "id" : 423,
+    "form_order" : 1,
+    "order" : 489,
+    "pokemon_id" : 423,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "west"
+  },
+  {
+    "is_default" : 1,
+    "id" : 424,
+    "form_order" : 1,
+    "order" : 220,
+    "pokemon_id" : 424,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 425,
+    "form_order" : 1,
+    "order" : 491,
+    "pokemon_id" : 425,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 426,
+    "form_order" : 1,
+    "order" : 492,
+    "pokemon_id" : 426,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 427,
+    "form_order" : 1,
+    "order" : 493,
+    "pokemon_id" : 427,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 428,
+    "form_order" : 1,
+    "order" : 494,
+    "pokemon_id" : 428,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 429,
+    "form_order" : 1,
+    "order" : 230,
+    "pokemon_id" : 429,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 430,
+    "form_order" : 1,
+    "order" : 228,
+    "pokemon_id" : 430,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 431,
+    "form_order" : 1,
+    "order" : 495,
+    "pokemon_id" : 431,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 432,
+    "form_order" : 1,
+    "order" : 496,
+    "pokemon_id" : 432,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 433,
+    "form_order" : 1,
+    "order" : 416,
+    "pokemon_id" : 433,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 434,
+    "form_order" : 1,
+    "order" : 497,
+    "pokemon_id" : 434,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 435,
+    "form_order" : 1,
+    "order" : 498,
+    "pokemon_id" : 435,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 436,
+    "form_order" : 1,
+    "order" : 499,
+    "pokemon_id" : 436,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 437,
+    "form_order" : 1,
+    "order" : 500,
+    "pokemon_id" : 437,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 438,
+    "form_order" : 1,
+    "order" : 214,
+    "pokemon_id" : 438,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 439,
+    "form_order" : 1,
+    "order" : 140,
+    "pokemon_id" : 439,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 440,
+    "form_order" : 1,
+    "order" : 127,
+    "pokemon_id" : 440,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 441,
+    "form_order" : 1,
+    "order" : 501,
+    "pokemon_id" : 441,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 442,
+    "form_order" : 1,
+    "order" : 502,
+    "pokemon_id" : 442,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 443,
+    "form_order" : 1,
+    "order" : 503,
+    "pokemon_id" : 443,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 444,
+    "form_order" : 1,
+    "order" : 504,
+    "pokemon_id" : 444,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 445,
+    "form_order" : 1,
+    "order" : 505,
+    "pokemon_id" : 445,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 446,
+    "form_order" : 1,
+    "order" : 174,
+    "pokemon_id" : 446,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 447,
+    "form_order" : 1,
+    "order" : 506,
+    "pokemon_id" : 447,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 448,
+    "form_order" : 1,
+    "order" : 507,
+    "pokemon_id" : 448,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 449,
+    "form_order" : 1,
+    "order" : 508,
+    "pokemon_id" : 449,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 450,
+    "form_order" : 1,
+    "order" : 509,
+    "pokemon_id" : 450,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 451,
+    "form_order" : 1,
+    "order" : 510,
+    "pokemon_id" : 451,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 452,
+    "form_order" : 1,
+    "order" : 511,
+    "pokemon_id" : 452,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 453,
+    "form_order" : 1,
+    "order" : 512,
+    "pokemon_id" : 453,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 454,
+    "form_order" : 1,
+    "order" : 513,
+    "pokemon_id" : 454,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 455,
+    "form_order" : 1,
+    "order" : 514,
+    "pokemon_id" : 455,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 456,
+    "form_order" : 1,
+    "order" : 515,
+    "pokemon_id" : 456,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 457,
+    "form_order" : 1,
+    "order" : 516,
+    "pokemon_id" : 457,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 458,
+    "form_order" : 1,
+    "order" : 284,
+    "pokemon_id" : 458,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 459,
+    "form_order" : 1,
+    "order" : 517,
+    "pokemon_id" : 459,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 460,
+    "form_order" : 1,
+    "order" : 518,
+    "pokemon_id" : 460,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 461,
+    "form_order" : 1,
+    "order" : 272,
+    "pokemon_id" : 461,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 462,
+    "form_order" : 1,
+    "order" : 91,
+    "pokemon_id" : 462,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 463,
+    "form_order" : 1,
+    "order" : 121,
+    "pokemon_id" : 463,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 464,
+    "form_order" : 1,
+    "order" : 126,
+    "pokemon_id" : 464,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 465,
+    "form_order" : 1,
+    "order" : 131,
+    "pokemon_id" : 465,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 466,
+    "form_order" : 1,
+    "order" : 148,
+    "pokemon_id" : 466,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 467,
+    "form_order" : 1,
+    "order" : 151,
+    "pokemon_id" : 467,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 468,
+    "form_order" : 1,
+    "order" : 205,
+    "pokemon_id" : 468,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 469,
+    "form_order" : 1,
+    "order" : 224,
+    "pokemon_id" : 469,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 470,
+    "form_order" : 1,
+    "order" : 164,
+    "pokemon_id" : 470,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 471,
+    "form_order" : 1,
+    "order" : 165,
+    "pokemon_id" : 471,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 472,
+    "form_order" : 1,
+    "order" : 265,
+    "pokemon_id" : 472,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 473,
+    "form_order" : 1,
+    "order" : 279,
+    "pokemon_id" : 473,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 474,
+    "form_order" : 1,
+    "order" : 168,
+    "pokemon_id" : 474,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 475,
+    "form_order" : 1,
+    "order" : 334,
+    "pokemon_id" : 475,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 476,
+    "form_order" : 1,
+    "order" : 351,
+    "pokemon_id" : 476,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 477,
+    "form_order" : 1,
+    "order" : 414,
+    "pokemon_id" : 477,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 478,
+    "form_order" : 1,
+    "order" : 421,
+    "pokemon_id" : 478,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 479,
+    "form_order" : 1,
+    "order" : 519,
+    "pokemon_id" : 479,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 480,
+    "form_order" : 1,
+    "order" : 525,
+    "pokemon_id" : 480,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 481,
+    "form_order" : 1,
+    "order" : 526,
+    "pokemon_id" : 481,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 482,
+    "form_order" : 1,
+    "order" : 527,
+    "pokemon_id" : 482,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 483,
+    "form_order" : 1,
+    "order" : 528,
+    "pokemon_id" : 483,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 484,
+    "form_order" : 1,
+    "order" : 529,
+    "pokemon_id" : 484,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 485,
+    "form_order" : 1,
+    "order" : 530,
+    "pokemon_id" : 485,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 486,
+    "form_order" : 1,
+    "order" : 531,
+    "pokemon_id" : 486,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 487,
+    "form_order" : 1,
+    "order" : 532,
+    "pokemon_id" : 487,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "altered"
+  },
+  {
+    "is_default" : 1,
+    "id" : 488,
+    "form_order" : 1,
+    "order" : 534,
+    "pokemon_id" : 488,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 489,
+    "form_order" : 1,
+    "order" : 535,
+    "pokemon_id" : 489,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 490,
+    "form_order" : 1,
+    "order" : 536,
+    "pokemon_id" : 490,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 491,
+    "form_order" : 1,
+    "order" : 537,
+    "pokemon_id" : 491,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 492,
+    "form_order" : 1,
+    "order" : 538,
+    "pokemon_id" : 492,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "land"
+  },
+  {
+    "is_default" : 1,
+    "id" : 493,
+    "form_order" : 1,
+    "order" : 540,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "normal"
+  },
+  {
+    "is_default" : 1,
+    "id" : 494,
+    "form_order" : 1,
+    "order" : 543,
+    "pokemon_id" : 494,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 495,
+    "form_order" : 1,
+    "order" : 544,
+    "pokemon_id" : 495,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 496,
+    "form_order" : 1,
+    "order" : 545,
+    "pokemon_id" : 496,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 497,
+    "form_order" : 1,
+    "order" : 546,
+    "pokemon_id" : 497,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 498,
+    "form_order" : 1,
+    "order" : 547,
+    "pokemon_id" : 498,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 499,
+    "form_order" : 1,
+    "order" : 548,
+    "pokemon_id" : 499,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 500,
+    "form_order" : 1,
+    "order" : 549,
+    "pokemon_id" : 500,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 501,
+    "form_order" : 1,
+    "order" : 550,
+    "pokemon_id" : 501,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 502,
+    "form_order" : 1,
+    "order" : 551,
+    "pokemon_id" : 502,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 503,
+    "form_order" : 1,
+    "order" : 552,
+    "pokemon_id" : 503,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 504,
+    "form_order" : 1,
+    "order" : 553,
+    "pokemon_id" : 504,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 505,
+    "form_order" : 1,
+    "order" : 554,
+    "pokemon_id" : 505,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 506,
+    "form_order" : 1,
+    "order" : 555,
+    "pokemon_id" : 506,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 507,
+    "form_order" : 1,
+    "order" : 556,
+    "pokemon_id" : 507,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 508,
+    "form_order" : 1,
+    "order" : 557,
+    "pokemon_id" : 508,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 509,
+    "form_order" : 1,
+    "order" : 558,
+    "pokemon_id" : 509,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 510,
+    "form_order" : 1,
+    "order" : 559,
+    "pokemon_id" : 510,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 511,
+    "form_order" : 1,
+    "order" : 560,
+    "pokemon_id" : 511,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 512,
+    "form_order" : 1,
+    "order" : 561,
+    "pokemon_id" : 512,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 513,
+    "form_order" : 1,
+    "order" : 562,
+    "pokemon_id" : 513,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 514,
+    "form_order" : 1,
+    "order" : 563,
+    "pokemon_id" : 514,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 515,
+    "form_order" : 1,
+    "order" : 564,
+    "pokemon_id" : 515,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 516,
+    "form_order" : 1,
+    "order" : 565,
+    "pokemon_id" : 516,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 517,
+    "form_order" : 1,
+    "order" : 566,
+    "pokemon_id" : 517,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 518,
+    "form_order" : 1,
+    "order" : 567,
+    "pokemon_id" : 518,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 519,
+    "form_order" : 1,
+    "order" : 568,
+    "pokemon_id" : 519,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 520,
+    "form_order" : 1,
+    "order" : 569,
+    "pokemon_id" : 520,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 521,
+    "form_order" : 1,
+    "order" : 570,
+    "pokemon_id" : 521,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 522,
+    "form_order" : 1,
+    "order" : 571,
+    "pokemon_id" : 522,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 523,
+    "form_order" : 1,
+    "order" : 572,
+    "pokemon_id" : 523,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 524,
+    "form_order" : 1,
+    "order" : 573,
+    "pokemon_id" : 524,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 525,
+    "form_order" : 1,
+    "order" : 574,
+    "pokemon_id" : 525,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 526,
+    "form_order" : 1,
+    "order" : 575,
+    "pokemon_id" : 526,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 527,
+    "form_order" : 1,
+    "order" : 576,
+    "pokemon_id" : 527,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 528,
+    "form_order" : 1,
+    "order" : 577,
+    "pokemon_id" : 528,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 529,
+    "form_order" : 1,
+    "order" : 578,
+    "pokemon_id" : 529,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 530,
+    "form_order" : 1,
+    "order" : 579,
+    "pokemon_id" : 530,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 531,
+    "form_order" : 1,
+    "order" : 580,
+    "pokemon_id" : 531,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 532,
+    "form_order" : 1,
+    "order" : 581,
+    "pokemon_id" : 532,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 533,
+    "form_order" : 1,
+    "order" : 582,
+    "pokemon_id" : 533,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 534,
+    "form_order" : 1,
+    "order" : 583,
+    "pokemon_id" : 534,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 535,
+    "form_order" : 1,
+    "order" : 584,
+    "pokemon_id" : 535,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 536,
+    "form_order" : 1,
+    "order" : 585,
+    "pokemon_id" : 536,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 537,
+    "form_order" : 1,
+    "order" : 586,
+    "pokemon_id" : 537,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 538,
+    "form_order" : 1,
+    "order" : 587,
+    "pokemon_id" : 538,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 539,
+    "form_order" : 1,
+    "order" : 588,
+    "pokemon_id" : 539,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 540,
+    "form_order" : 1,
+    "order" : 589,
+    "pokemon_id" : 540,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 541,
+    "form_order" : 1,
+    "order" : 590,
+    "pokemon_id" : 541,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 542,
+    "form_order" : 1,
+    "order" : 591,
+    "pokemon_id" : 542,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 543,
+    "form_order" : 1,
+    "order" : 592,
+    "pokemon_id" : 543,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 544,
+    "form_order" : 1,
+    "order" : 593,
+    "pokemon_id" : 544,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 545,
+    "form_order" : 1,
+    "order" : 594,
+    "pokemon_id" : 545,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 546,
+    "form_order" : 1,
+    "order" : 595,
+    "pokemon_id" : 546,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 547,
+    "form_order" : 1,
+    "order" : 596,
+    "pokemon_id" : 547,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 548,
+    "form_order" : 1,
+    "order" : 597,
+    "pokemon_id" : 548,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 549,
+    "form_order" : 1,
+    "order" : 598,
+    "pokemon_id" : 549,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 550,
+    "form_order" : 1,
+    "order" : 599,
+    "pokemon_id" : 550,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "red-striped"
+  },
+  {
+    "is_default" : 1,
+    "id" : 551,
+    "form_order" : 1,
+    "order" : 601,
+    "pokemon_id" : 551,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 552,
+    "form_order" : 1,
+    "order" : 602,
+    "pokemon_id" : 552,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 553,
+    "form_order" : 1,
+    "order" : 603,
+    "pokemon_id" : 553,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 554,
+    "form_order" : 1,
+    "order" : 604,
+    "pokemon_id" : 554,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 555,
+    "form_order" : 1,
+    "order" : 605,
+    "pokemon_id" : 555,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "standard"
+  },
+  {
+    "is_default" : 1,
+    "id" : 556,
+    "form_order" : 1,
+    "order" : 607,
+    "pokemon_id" : 556,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 557,
+    "form_order" : 1,
+    "order" : 608,
+    "pokemon_id" : 557,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 558,
+    "form_order" : 1,
+    "order" : 609,
+    "pokemon_id" : 558,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 559,
+    "form_order" : 1,
+    "order" : 610,
+    "pokemon_id" : 559,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 560,
+    "form_order" : 1,
+    "order" : 611,
+    "pokemon_id" : 560,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 561,
+    "form_order" : 1,
+    "order" : 612,
+    "pokemon_id" : 561,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 562,
+    "form_order" : 1,
+    "order" : 613,
+    "pokemon_id" : 562,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 563,
+    "form_order" : 1,
+    "order" : 614,
+    "pokemon_id" : 563,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 564,
+    "form_order" : 1,
+    "order" : 615,
+    "pokemon_id" : 564,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 565,
+    "form_order" : 1,
+    "order" : 616,
+    "pokemon_id" : 565,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 566,
+    "form_order" : 1,
+    "order" : 617,
+    "pokemon_id" : 566,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 567,
+    "form_order" : 1,
+    "order" : 618,
+    "pokemon_id" : 567,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 568,
+    "form_order" : 1,
+    "order" : 619,
+    "pokemon_id" : 568,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 569,
+    "form_order" : 1,
+    "order" : 620,
+    "pokemon_id" : 569,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 570,
+    "form_order" : 1,
+    "order" : 621,
+    "pokemon_id" : 570,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 571,
+    "form_order" : 1,
+    "order" : 622,
+    "pokemon_id" : 571,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 572,
+    "form_order" : 1,
+    "order" : 623,
+    "pokemon_id" : 572,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 573,
+    "form_order" : 1,
+    "order" : 624,
+    "pokemon_id" : 573,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 574,
+    "form_order" : 1,
+    "order" : 625,
+    "pokemon_id" : 574,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 575,
+    "form_order" : 1,
+    "order" : 626,
+    "pokemon_id" : 575,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 576,
+    "form_order" : 1,
+    "order" : 627,
+    "pokemon_id" : 576,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 577,
+    "form_order" : 1,
+    "order" : 628,
+    "pokemon_id" : 577,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 578,
+    "form_order" : 1,
+    "order" : 629,
+    "pokemon_id" : 578,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 579,
+    "form_order" : 1,
+    "order" : 630,
+    "pokemon_id" : 579,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 580,
+    "form_order" : 1,
+    "order" : 631,
+    "pokemon_id" : 580,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 581,
+    "form_order" : 1,
+    "order" : 632,
+    "pokemon_id" : 581,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 582,
+    "form_order" : 1,
+    "order" : 633,
+    "pokemon_id" : 582,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 583,
+    "form_order" : 1,
+    "order" : 634,
+    "pokemon_id" : 583,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 584,
+    "form_order" : 1,
+    "order" : 635,
+    "pokemon_id" : 584,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 585,
+    "form_order" : 1,
+    "order" : 636,
+    "pokemon_id" : 585,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "spring"
+  },
+  {
+    "is_default" : 1,
+    "id" : 586,
+    "form_order" : 1,
+    "order" : 640,
+    "pokemon_id" : 586,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "spring"
+  },
+  {
+    "is_default" : 1,
+    "id" : 587,
+    "form_order" : 1,
+    "order" : 644,
+    "pokemon_id" : 587,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 588,
+    "form_order" : 1,
+    "order" : 645,
+    "pokemon_id" : 588,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 589,
+    "form_order" : 1,
+    "order" : 646,
+    "pokemon_id" : 589,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 590,
+    "form_order" : 1,
+    "order" : 647,
+    "pokemon_id" : 590,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 591,
+    "form_order" : 1,
+    "order" : 648,
+    "pokemon_id" : 591,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 592,
+    "form_order" : 1,
+    "order" : 649,
+    "pokemon_id" : 592,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 593,
+    "form_order" : 1,
+    "order" : 650,
+    "pokemon_id" : 593,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 594,
+    "form_order" : 1,
+    "order" : 651,
+    "pokemon_id" : 594,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 595,
+    "form_order" : 1,
+    "order" : 652,
+    "pokemon_id" : 595,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 596,
+    "form_order" : 1,
+    "order" : 653,
+    "pokemon_id" : 596,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 597,
+    "form_order" : 1,
+    "order" : 654,
+    "pokemon_id" : 597,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 598,
+    "form_order" : 1,
+    "order" : 655,
+    "pokemon_id" : 598,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 599,
+    "form_order" : 1,
+    "order" : 656,
+    "pokemon_id" : 599,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 600,
+    "form_order" : 1,
+    "order" : 657,
+    "pokemon_id" : 600,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 601,
+    "form_order" : 1,
+    "order" : 658,
+    "pokemon_id" : 601,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 602,
+    "form_order" : 1,
+    "order" : 659,
+    "pokemon_id" : 602,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 603,
+    "form_order" : 1,
+    "order" : 660,
+    "pokemon_id" : 603,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 604,
+    "form_order" : 1,
+    "order" : 661,
+    "pokemon_id" : 604,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 605,
+    "form_order" : 1,
+    "order" : 662,
+    "pokemon_id" : 605,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 606,
+    "form_order" : 1,
+    "order" : 663,
+    "pokemon_id" : 606,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 607,
+    "form_order" : 1,
+    "order" : 664,
+    "pokemon_id" : 607,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 608,
+    "form_order" : 1,
+    "order" : 665,
+    "pokemon_id" : 608,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 609,
+    "form_order" : 1,
+    "order" : 666,
+    "pokemon_id" : 609,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 610,
+    "form_order" : 1,
+    "order" : 667,
+    "pokemon_id" : 610,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 611,
+    "form_order" : 1,
+    "order" : 668,
+    "pokemon_id" : 611,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 612,
+    "form_order" : 1,
+    "order" : 669,
+    "pokemon_id" : 612,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 613,
+    "form_order" : 1,
+    "order" : 670,
+    "pokemon_id" : 613,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 614,
+    "form_order" : 1,
+    "order" : 671,
+    "pokemon_id" : 614,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 615,
+    "form_order" : 1,
+    "order" : 672,
+    "pokemon_id" : 615,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 616,
+    "form_order" : 1,
+    "order" : 673,
+    "pokemon_id" : 616,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 617,
+    "form_order" : 1,
+    "order" : 674,
+    "pokemon_id" : 617,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 618,
+    "form_order" : 1,
+    "order" : 675,
+    "pokemon_id" : 618,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 619,
+    "form_order" : 1,
+    "order" : 676,
+    "pokemon_id" : 619,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 620,
+    "form_order" : 1,
+    "order" : 677,
+    "pokemon_id" : 620,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 621,
+    "form_order" : 1,
+    "order" : 678,
+    "pokemon_id" : 621,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 622,
+    "form_order" : 1,
+    "order" : 679,
+    "pokemon_id" : 622,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 623,
+    "form_order" : 1,
+    "order" : 680,
+    "pokemon_id" : 623,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 624,
+    "form_order" : 1,
+    "order" : 681,
+    "pokemon_id" : 624,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 625,
+    "form_order" : 1,
+    "order" : 682,
+    "pokemon_id" : 625,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 626,
+    "form_order" : 1,
+    "order" : 683,
+    "pokemon_id" : 626,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 627,
+    "form_order" : 1,
+    "order" : 684,
+    "pokemon_id" : 627,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 628,
+    "form_order" : 1,
+    "order" : 685,
+    "pokemon_id" : 628,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 629,
+    "form_order" : 1,
+    "order" : 686,
+    "pokemon_id" : 629,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 630,
+    "form_order" : 1,
+    "order" : 687,
+    "pokemon_id" : 630,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 631,
+    "form_order" : 1,
+    "order" : 688,
+    "pokemon_id" : 631,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 632,
+    "form_order" : 1,
+    "order" : 689,
+    "pokemon_id" : 632,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 633,
+    "form_order" : 1,
+    "order" : 690,
+    "pokemon_id" : 633,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 634,
+    "form_order" : 1,
+    "order" : 691,
+    "pokemon_id" : 634,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 635,
+    "form_order" : 1,
+    "order" : 692,
+    "pokemon_id" : 635,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 636,
+    "form_order" : 1,
+    "order" : 693,
+    "pokemon_id" : 636,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 637,
+    "form_order" : 1,
+    "order" : 694,
+    "pokemon_id" : 637,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 638,
+    "form_order" : 1,
+    "order" : 695,
+    "pokemon_id" : 638,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 639,
+    "form_order" : 1,
+    "order" : 696,
+    "pokemon_id" : 639,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 640,
+    "form_order" : 1,
+    "order" : 697,
+    "pokemon_id" : 640,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 641,
+    "form_order" : 1,
+    "order" : 698,
+    "pokemon_id" : 641,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "incarnate"
+  },
+  {
+    "is_default" : 1,
+    "id" : 642,
+    "form_order" : 1,
+    "order" : 700,
+    "pokemon_id" : 642,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "incarnate"
+  },
+  {
+    "is_default" : 1,
+    "id" : 643,
+    "form_order" : 1,
+    "order" : 702,
+    "pokemon_id" : 643,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 644,
+    "form_order" : 1,
+    "order" : 703,
+    "pokemon_id" : 644,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 645,
+    "form_order" : 1,
+    "order" : 704,
+    "pokemon_id" : 645,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "incarnate"
+  },
+  {
+    "is_default" : 1,
+    "id" : 646,
+    "form_order" : 1,
+    "order" : 706,
+    "pokemon_id" : 646,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 1,
+    "id" : 647,
+    "form_order" : 1,
+    "order" : 709,
+    "pokemon_id" : 647,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "ordinary"
+  },
+  {
+    "is_default" : 1,
+    "id" : 648,
+    "form_order" : 1,
+    "order" : 711,
+    "pokemon_id" : 648,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "aria"
+  },
+  {
+    "is_default" : 1,
+    "id" : 649,
+    "form_order" : 1,
+    "order" : 713,
+    "pokemon_id" : 649,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : null
+  },
+  {
+    "is_default" : 0,
+    "id" : 650,
+    "form_order" : 2,
+    "order" : 232,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "b"
+  },
+  {
+    "is_default" : 0,
+    "id" : 651,
+    "form_order" : 3,
+    "order" : 233,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "c"
+  },
+  {
+    "is_default" : 0,
+    "id" : 652,
+    "form_order" : 4,
+    "order" : 234,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "d"
+  },
+  {
+    "is_default" : 0,
+    "id" : 653,
+    "form_order" : 5,
+    "order" : 235,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "e"
+  },
+  {
+    "is_default" : 0,
+    "id" : 654,
+    "form_order" : 6,
+    "order" : 236,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "f"
+  },
+  {
+    "is_default" : 0,
+    "id" : 655,
+    "form_order" : 7,
+    "order" : 237,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "g"
+  },
+  {
+    "is_default" : 0,
+    "id" : 656,
+    "form_order" : 8,
+    "order" : 238,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "h"
+  },
+  {
+    "is_default" : 0,
+    "id" : 657,
+    "form_order" : 9,
+    "order" : 239,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "i"
+  },
+  {
+    "is_default" : 0,
+    "id" : 658,
+    "form_order" : 10,
+    "order" : 240,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "j"
+  },
+  {
+    "is_default" : 0,
+    "id" : 659,
+    "form_order" : 11,
+    "order" : 241,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "k"
+  },
+  {
+    "is_default" : 0,
+    "id" : 660,
+    "form_order" : 12,
+    "order" : 242,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "l"
+  },
+  {
+    "is_default" : 0,
+    "id" : 661,
+    "form_order" : 13,
+    "order" : 243,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "m"
+  },
+  {
+    "is_default" : 0,
+    "id" : 662,
+    "form_order" : 14,
+    "order" : 244,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "n"
+  },
+  {
+    "is_default" : 0,
+    "id" : 663,
+    "form_order" : 15,
+    "order" : 245,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "o"
+  },
+  {
+    "is_default" : 0,
+    "id" : 664,
+    "form_order" : 16,
+    "order" : 246,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "p"
+  },
+  {
+    "is_default" : 0,
+    "id" : 665,
+    "form_order" : 17,
+    "order" : 247,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "q"
+  },
+  {
+    "is_default" : 0,
+    "id" : 666,
+    "form_order" : 18,
+    "order" : 248,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "r"
+  },
+  {
+    "is_default" : 0,
+    "id" : 667,
+    "form_order" : 19,
+    "order" : 249,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "s"
+  },
+  {
+    "is_default" : 0,
+    "id" : 668,
+    "form_order" : 20,
+    "order" : 250,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "t"
+  },
+  {
+    "is_default" : 0,
+    "id" : 669,
+    "form_order" : 21,
+    "order" : 251,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "u"
+  },
+  {
+    "is_default" : 0,
+    "id" : 670,
+    "form_order" : 22,
+    "order" : 252,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "v"
+  },
+  {
+    "is_default" : 0,
+    "id" : 671,
+    "form_order" : 23,
+    "order" : 253,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "w"
+  },
+  {
+    "is_default" : 0,
+    "id" : 672,
+    "form_order" : 24,
+    "order" : 254,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "x"
+  },
+  {
+    "is_default" : 0,
+    "id" : 673,
+    "form_order" : 25,
+    "order" : 255,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "y"
+  },
+  {
+    "is_default" : 0,
+    "id" : 674,
+    "form_order" : 26,
+    "order" : 256,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 3,
+    "is_battle_only" : 0,
+    "form_identifier" : "z"
+  },
+  {
+    "is_default" : 0,
+    "id" : 675,
+    "form_order" : 27,
+    "order" : 257,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : "exclamation"
+  },
+  {
+    "is_default" : 0,
+    "id" : 676,
+    "form_order" : 27,
+    "order" : 257,
+    "pokemon_id" : 201,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 0,
+    "form_identifier" : "question"
+  },
+  {
+    "is_default" : 1,
+    "id" : 677,
+    "form_order" : 2,
+    "order" : 406,
+    "pokemon_id" : 662,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 1,
+    "form_identifier" : "sunny"
+  },
+  {
+    "is_default" : 1,
+    "id" : 678,
+    "form_order" : 3,
+    "order" : 407,
+    "pokemon_id" : 663,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 1,
+    "form_identifier" : "rainy"
+  },
+  {
+    "is_default" : 1,
+    "id" : 679,
+    "form_order" : 4,
+    "order" : 408,
+    "pokemon_id" : 664,
+    "introduced_in_version_group_id" : 5,
+    "is_battle_only" : 1,
+    "form_identifier" : "snowy"
+  },
+  {
+    "is_default" : 1,
+    "id" : 680,
+    "form_order" : 2,
+    "order" : 446,
+    "pokemon_id" : 650,
+    "introduced_in_version_group_id" : 7,
+    "is_battle_only" : 0,
+    "form_identifier" : "attack"
+  },
+  {
+    "is_default" : 1,
+    "id" : 681,
+    "form_order" : 3,
+    "order" : 447,
+    "pokemon_id" : 651,
+    "introduced_in_version_group_id" : 7,
+    "is_battle_only" : 0,
+    "form_identifier" : "defense"
+  },
+  {
+    "is_default" : 1,
+    "id" : 682,
+    "form_order" : 4,
+    "order" : 448,
+    "pokemon_id" : 652,
+    "introduced_in_version_group_id" : 6,
+    "is_battle_only" : 0,
+    "form_identifier" : "speed"
+  },
+  {
+    "is_default" : 0,
+    "id" : 683,
+    "form_order" : 2,
+    "order" : 473,
+    "pokemon_id" : 412,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "sandy"
+  },
+  {
+    "is_default" : 0,
+    "id" : 684,
+    "form_order" : 3,
+    "order" : 474,
+    "pokemon_id" : 412,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "trash"
+  },
+  {
+    "is_default" : 1,
+    "id" : 685,
+    "form_order" : 2,
+    "order" : 476,
+    "pokemon_id" : 653,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "sandy"
+  },
+  {
+    "is_default" : 1,
+    "id" : 686,
+    "form_order" : 3,
+    "order" : 477,
+    "pokemon_id" : 654,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "trash"
+  },
+  {
+    "is_default" : 0,
+    "id" : 687,
+    "form_order" : 2,
+    "order" : 486,
+    "pokemon_id" : 421,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 1,
+    "form_identifier" : "sunshine"
+  },
+  {
+    "is_default" : 0,
+    "id" : 688,
+    "form_order" : 2,
+    "order" : 488,
+    "pokemon_id" : 422,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "east"
+  },
+  {
+    "is_default" : 0,
+    "id" : 689,
+    "form_order" : 2,
+    "order" : 490,
+    "pokemon_id" : 423,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "east"
+  },
+  {
+    "is_default" : 0,
+    "id" : 690,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "bug"
+  },
+  {
+    "is_default" : 0,
+    "id" : 691,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "dark"
+  },
+  {
+    "is_default" : 0,
+    "id" : 692,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "dragon"
+  },
+  {
+    "is_default" : 0,
+    "id" : 693,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "electric"
+  },
+  {
+    "is_default" : 0,
+    "id" : 694,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "fighting"
+  },
+  {
+    "is_default" : 0,
+    "id" : 695,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "fire"
+  },
+  {
+    "is_default" : 0,
+    "id" : 696,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "flying"
+  },
+  {
+    "is_default" : 0,
+    "id" : 697,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "ghost"
+  },
+  {
+    "is_default" : 0,
+    "id" : 698,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "grass"
+  },
+  {
+    "is_default" : 0,
+    "id" : 699,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "ground"
+  },
+  {
+    "is_default" : 0,
+    "id" : 700,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "ice"
+  },
+  {
+    "is_default" : 0,
+    "id" : 701,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "poison"
+  },
+  {
+    "is_default" : 0,
+    "id" : 702,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "psychic"
+  },
+  {
+    "is_default" : 0,
+    "id" : 703,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "rock"
+  },
+  {
+    "is_default" : 0,
+    "id" : 704,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "steel"
+  },
+  {
+    "is_default" : 0,
+    "id" : 705,
+    "form_order" : 2,
+    "order" : 541,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "water"
+  },
+  {
+    "is_default" : 0,
+    "id" : 706,
+    "form_order" : 3,
+    "order" : 542,
+    "pokemon_id" : 493,
+    "introduced_in_version_group_id" : 8,
+    "is_battle_only" : 0,
+    "form_identifier" : "unknown"
+  },
+  {
+    "is_default" : 1,
+    "id" : 707,
+    "form_order" : 2,
+    "order" : 520,
+    "pokemon_id" : 657,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "heat"
+  },
+  {
+    "is_default" : 1,
+    "id" : 708,
+    "form_order" : 3,
+    "order" : 521,
+    "pokemon_id" : 658,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "wash"
+  },
+  {
+    "is_default" : 1,
+    "id" : 709,
+    "form_order" : 4,
+    "order" : 522,
+    "pokemon_id" : 659,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "frost"
+  },
+  {
+    "is_default" : 1,
+    "id" : 710,
+    "form_order" : 5,
+    "order" : 523,
+    "pokemon_id" : 660,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "fan"
+  },
+  {
+    "is_default" : 1,
+    "id" : 711,
+    "form_order" : 6,
+    "order" : 524,
+    "pokemon_id" : 661,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "mow"
+  },
+  {
+    "is_default" : 1,
+    "id" : 712,
+    "form_order" : 2,
+    "order" : 533,
+    "pokemon_id" : 656,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "origin"
+  },
+  {
+    "is_default" : 1,
+    "id" : 713,
+    "form_order" : 2,
+    "order" : 539,
+    "pokemon_id" : 655,
+    "introduced_in_version_group_id" : 9,
+    "is_battle_only" : 0,
+    "form_identifier" : "sky"
+  },
+  {
+    "is_default" : 0,
+    "id" : 714,
+    "form_order" : 2,
+    "order" : 26,
+    "pokemon_id" : 172,
+    "introduced_in_version_group_id" : 10,
+    "is_battle_only" : 0,
+    "form_identifier" : "spiky-eared"
+  },
+  {
+    "is_default" : 1,
+    "id" : 715,
+    "form_order" : 2,
+    "order" : 600,
+    "pokemon_id" : 665,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "blue-striped"
+  },
+  {
+    "is_default" : 1,
+    "id" : 716,
+    "form_order" : 2,
+    "order" : 606,
+    "pokemon_id" : 666,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 1,
+    "form_identifier" : "zen"
+  },
+  {
+    "is_default" : 0,
+    "id" : 717,
+    "form_order" : 2,
+    "order" : 637,
+    "pokemon_id" : 585,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "summer"
+  },
+  {
+    "is_default" : 0,
+    "id" : 718,
+    "form_order" : 3,
+    "order" : 638,
+    "pokemon_id" : 585,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "autumn"
+  },
+  {
+    "is_default" : 0,
+    "id" : 719,
+    "form_order" : 4,
+    "order" : 639,
+    "pokemon_id" : 585,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "winter"
+  },
+  {
+    "is_default" : 0,
+    "id" : 720,
+    "form_order" : 2,
+    "order" : 641,
+    "pokemon_id" : 586,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "summer"
+  },
+  {
+    "is_default" : 0,
+    "id" : 721,
+    "form_order" : 3,
+    "order" : 642,
+    "pokemon_id" : 586,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "autumn"
+  },
+  {
+    "is_default" : 0,
+    "id" : 722,
+    "form_order" : 4,
+    "order" : 643,
+    "pokemon_id" : 586,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "winter"
+  },
+  {
+    "is_default" : 1,
+    "id" : 723,
+    "form_order" : 2,
+    "order" : 712,
+    "pokemon_id" : 667,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 1,
+    "form_identifier" : "pirouette"
+  },
+  {
+    "is_default" : 0,
+    "id" : 724,
+    "form_order" : 2,
+    "order" : 714,
+    "pokemon_id" : 649,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "douse"
+  },
+  {
+    "is_default" : 0,
+    "id" : 725,
+    "form_order" : 2,
+    "order" : 714,
+    "pokemon_id" : 649,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "shock"
+  },
+  {
+    "is_default" : 0,
+    "id" : 726,
+    "form_order" : 2,
+    "order" : 714,
+    "pokemon_id" : 649,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "burn"
+  },
+  {
+    "is_default" : 0,
+    "id" : 727,
+    "form_order" : 2,
+    "order" : 714,
+    "pokemon_id" : 649,
+    "introduced_in_version_group_id" : 11,
+    "is_battle_only" : 0,
+    "form_identifier" : "chill"
+  },
+  {
+    "is_default" : 1,
+    "id" : 728,
+    "form_order" : 2,
+    "order" : 699,
+    "pokemon_id" : 668,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "therian"
+  },
+  {
+    "is_default" : 1,
+    "id" : 729,
+    "form_order" : 2,
+    "order" : 701,
+    "pokemon_id" : 669,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "therian"
+  },
+  {
+    "is_default" : 1,
+    "id" : 730,
+    "form_order" : 2,
+    "order" : 705,
+    "pokemon_id" : 670,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "therian"
+  },
+  {
+    "is_default" : 1,
+    "id" : 731,
+    "form_order" : 2,
+    "order" : 707,
+    "pokemon_id" : 671,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "black"
+  },
+  {
+    "is_default" : 1,
+    "id" : 732,
+    "form_order" : 3,
+    "order" : 708,
+    "pokemon_id" : 672,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "white"
+  },
+  {
+    "is_default" : 1,
+    "id" : 733,
+    "form_order" : 2,
+    "order" : 710,
+    "pokemon_id" : 673,
+    "introduced_in_version_group_id" : 14,
+    "is_battle_only" : 0,
+    "form_identifier" : "resolute"
+  }
+]

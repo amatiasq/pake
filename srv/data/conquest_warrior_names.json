@@ -1,0 +1,1007 @@
+[
+  {
+    "warrior_id" : 1,
+    "name" : "Player ♂",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 2,
+    "name" : "Player ♀",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 3,
+    "name" : "Nobunaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 4,
+    "name" : "Oichi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 5,
+    "name" : "Hideyoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 6,
+    "name" : "Motochika",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 7,
+    "name" : "Ginchiyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 8,
+    "name" : "Motonari",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 9,
+    "name" : "Mitsuhide",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 10,
+    "name" : "Yoshihiro",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 11,
+    "name" : "Nene",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 12,
+    "name" : "Shingen",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 13,
+    "name" : "Masamune",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 14,
+    "name" : "Kenshin",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 15,
+    "name" : "Yoshimoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 16,
+    "name" : "Ujiyasu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 17,
+    "name" : "Nō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 18,
+    "name" : "Kotarō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 19,
+    "name" : "Ieyasu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 20,
+    "name" : "Hanbei",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 21,
+    "name" : "Kanbei",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 22,
+    "name" : "Muneshige",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 23,
+    "name" : "Gracia",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 24,
+    "name" : "Hanzō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 25,
+    "name" : "Kunoichi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 26,
+    "name" : "Yukimura",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 27,
+    "name" : "Magoichi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 28,
+    "name" : "Kanetsugu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 29,
+    "name" : "Aya",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 30,
+    "name" : "Kai",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 31,
+    "name" : "Okuni",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 32,
+    "name" : "Ranmaru",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 33,
+    "name" : "Tadakatsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 34,
+    "name" : "Ina",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 35,
+    "name" : "Keiji",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 36,
+    "name" : "Mitsunari",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 37,
+    "name" : "Kiyomasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 38,
+    "name" : "Masanori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 39,
+    "name" : "Tsunehisa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 40,
+    "name" : "Naoie",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 41,
+    "name" : "Harutaka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 42,
+    "name" : "Takanobu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 43,
+    "name" : "Naoshige",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 44,
+    "name" : "Ujisato",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 45,
+    "name" : "Chacha",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 46,
+    "name" : "Gō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 47,
+    "name" : "Hatsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 48,
+    "name" : "Kazumasu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 49,
+    "name" : "Nagahide",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 50,
+    "name" : "Yoshitaka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 51,
+    "name" : "Urakusai",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 52,
+    "name" : "Narimasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 53,
+    "name" : "Tomonori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 54,
+    "name" : "Murashige",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 55,
+    "name" : "Masahide",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 56,
+    "name" : "Nagayoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 57,
+    "name" : "Kitsuno",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 58,
+    "name" : "Gotoku",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 59,
+    "name" : "Hidenaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 60,
+    "name" : "Koroku",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 61,
+    "name" : "Takatora",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 62,
+    "name" : "Yoshitsugu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 63,
+    "name" : "Yukinaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 64,
+    "name" : "Rikyū",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 65,
+    "name" : "Hideyori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 66,
+    "name" : "Asahi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 67,
+    "name" : "Kazutoyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 68,
+    "name" : "Nagayasu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 69,
+    "name" : "Harunaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 70,
+    "name" : "Hideaki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 71,
+    "name" : "Naka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 72,
+    "name" : "Tatsuko",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 73,
+    "name" : "Maa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 74,
+    "name" : "Chiyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 75,
+    "name" : "Hatsume",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 76,
+    "name" : "Nobuchika",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 77,
+    "name" : "Chikayasu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 78,
+    "name" : "Morichika",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 79,
+    "name" : "Chikamasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 80,
+    "name" : "Norishige",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 81,
+    "name" : "Takayori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 82,
+    "name" : "Tadasumi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 83,
+    "name" : "Dōsetsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 84,
+    "name" : "Shōun",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 85,
+    "name" : "Sōrin",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 86,
+    "name" : "Sekisō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 87,
+    "name" : "Akizane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 88,
+    "name" : "Takatane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 89,
+    "name" : "Kiyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 90,
+    "name" : "Motoharu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 91,
+    "name" : "Takakage",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 92,
+    "name" : "Terumoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 93,
+    "name" : "Takeyoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 94,
+    "name" : "Ekei",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 95,
+    "name" : "Takamoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 96,
+    "name" : "Sadatoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 97,
+    "name" : "Hidemitsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 98,
+    "name" : "Toshimitsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 99,
+    "name" : "Shigemoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 100,
+    "name" : "Mitsutada",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 101,
+    "name" : "Yukimasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 102,
+    "name" : "Tadaoki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 103,
+    "name" : "Fujitaka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 104,
+    "name" : "Hiroko",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 105,
+    "name" : "Tadamoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 106,
+    "name" : "Tadatsune",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 107,
+    "name" : "Takahisa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 108,
+    "name" : "Hisaaki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 109,
+    "name" : "Masatoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 110,
+    "name" : "Kanemori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 111,
+    "name" : "Tokitaka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 112,
+    "name" : "Sandayū",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 113,
+    "name" : "Morikiyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 114,
+    "name" : "Kashinkoji",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 115,
+    "name" : "Yasunaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 116,
+    "name" : "Seikurō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 117,
+    "name" : "Katsuyori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 118,
+    "name" : "Haruyuki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 119,
+    "name" : "Masakage",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 120,
+    "name" : "Masatoyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 121,
+    "name" : "Nobufusa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 122,
+    "name" : "Masayuki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 123,
+    "name" : "Yukitaka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 124,
+    "name" : "Ume",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 125,
+    "name" : "Chiyome",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 126,
+    "name" : "Kei",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 127,
+    "name" : "Kagetsuna",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 128,
+    "name" : "Shigezane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 129,
+    "name" : "Tsunamoto",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 130,
+    "name" : "Tsunenaga",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 131,
+    "name" : "Munetoki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 132,
+    "name" : "Munezane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 133,
+    "name" : "Yoshi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 134,
+    "name" : "Iroha",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 135,
+    "name" : "Kagekatsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 136,
+    "name" : "Yoshikiyo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 137,
+    "name" : "Tomonobu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 138,
+    "name" : "Kageie",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 139,
+    "name" : "Takahiro",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 140,
+    "name" : "Sadamitsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 141,
+    "name" : "Yatarō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 142,
+    "name" : "Saneyori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 143,
+    "name" : "Hana",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 144,
+    "name" : "Sen",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 145,
+    "name" : "Ujichika",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 146,
+    "name" : "Ujizane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 147,
+    "name" : "Sessai",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 148,
+    "name" : "Masatsuna",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 149,
+    "name" : "Yasutomo",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 150,
+    "name" : "Ujihiro",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 151,
+    "name" : "Motozane",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 152,
+    "name" : "Sena",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 153,
+    "name" : "Sōun",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 154,
+    "name" : "Tsunashige",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 155,
+    "name" : "Gen'an",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 156,
+    "name" : "Ujimasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 157,
+    "name" : "Ujiteru",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 158,
+    "name" : "Ujikuni",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 159,
+    "name" : "Ujinao",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 160,
+    "name" : "Shizuka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 161,
+    "name" : "Madoka",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 162,
+    "name" : "Dōsan",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 163,
+    "name" : "Yoshitatsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 164,
+    "name" : "Ittetsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 165,
+    "name" : "Bokuzen",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 166,
+    "name" : "Morinari",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 167,
+    "name" : "Omi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 168,
+    "name" : "Asa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 169,
+    "name" : "Shimoyama",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 170,
+    "name" : "Genba",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 171,
+    "name" : "Danzō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 172,
+    "name" : "Yazaemon",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 173,
+    "name" : "Isuke",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 174,
+    "name" : "Tadatsugu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 175,
+    "name" : "Naomasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 176,
+    "name" : "Yasumasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 177,
+    "name" : "Masanobu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 178,
+    "name" : "Hidetada",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 179,
+    "name" : "Kazumasa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 180,
+    "name" : "Chōan",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 181,
+    "name" : "Tenkai",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 182,
+    "name" : "Munenori",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 183,
+    "name" : "Kame",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 184,
+    "name" : "Toku",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 185,
+    "name" : "Saizō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 186,
+    "name" : "Sasuke",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 187,
+    "name" : "Katsu",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 188,
+    "name" : "Jūzō",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 189,
+    "name" : "Tsuru",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 190,
+    "name" : "Ise",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 191,
+    "name" : "Jinpachi",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 192,
+    "name" : "Kamanosuke",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 193,
+    "name" : "Seikai",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 194,
+    "name" : "Isa",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 195,
+    "name" : "Yoshiteru",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 196,
+    "name" : "Yoshiaki",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 197,
+    "name" : "Hisahide",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 198,
+    "name" : "Jūbei",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 199,
+    "name" : "Nobutsuna",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 200,
+    "name" : "Bokuden",
+    "local_language_id" : 9
+  },
+  {
+    "warrior_id" : 201,
+    "name" : "Otsū",
+    "local_language_id" : 9
+  }
+]

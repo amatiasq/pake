@@ -1,0 +1,122 @@
+[
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 1,
+    "name" : "Level up",
+    "description" : "Learned when a Pokémon reaches a certain level."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 2,
+    "name" : "Egg",
+    "description" : "Appears on a newly-hatched Pokémon, if the father had the same move."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 3,
+    "name" : "Tutor",
+    "description" : "Can be taught at any time by an NPC."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 4,
+    "name" : "Machine",
+    "description" : "Can be taught at any time by using a TM or HM."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 5,
+    "name" : "Stadium: Surfing Pikachu",
+    "description" : "Learned when a non-rental Pikachu helps beat Prime Cup Master Ball R-2.  It must participate in every battle, and you must win with no continues."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 6,
+    "name" : "Volt Tackle Pichu",
+    "description" : "Appears on a Pichu whose mother was holding a Light Ball.  The father cannot be Ditto."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 7,
+    "name" : "Colosseum: Purification",
+    "description" : "Appears on a Shadow Pokémon as it becomes increasingly purified."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 8,
+    "name" : "XD: Shadow",
+    "description" : "Appears on a Snatched Shadow Pokémon."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 9,
+    "name" : "XD: Purification",
+    "description" : "Appears on a Shadow Pokémon as it becomes increasingly purified."
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_move_method_id" : 10,
+    "name" : "Rotom Form",
+    "description" : "Appears when Rotom changes to this form.  Disappears if Rotom becomes another form and this move can only be learned by form change."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 4,
+    "name" : "Přístrojem",
+    "description" : "Učené použitím TM nebo HM"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 5,
+    "name" : "Stadium: Surfující Pikachu",
+    "description" : null
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 10,
+    "name" : "Forma Rotoma",
+    "description" : "Objeví se u Rotoma, když se změní do určité formy.  Zmizí, když se Rotom změní do jiné formy, pokud se tento útok dá naučit jen změnou formy."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 3,
+    "name" : "Od učitele",
+    "description" : "Učené nějakou postavou ve hře."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 6,
+    "name" : "Light Ball",
+    "description" : "Objeví se u Pichu, jehož matka držela Light Ball. Otec nesmí být Ditto."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 8,
+    "name" : "XD: Stínový útok",
+    "description" : "U ukradených „Shadow“ pokémonů"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 2,
+    "name" : "Vajíčkový",
+    "description" : "Dědí se od otce."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 9,
+    "name" : "XD: Purifikace",
+    "description" : "Objeví se u „Shadow“ pokémona, jak se mu otevírá srdce."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 7,
+    "name" : "Colosseum: Purifikace",
+    "description" : "Objeví se u „Shadow“ pokémona, jak se mu otevírá srdce."
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_move_method_id" : 1,
+    "name" : "Úrovní",
+    "description" : "Učení dosažením určité úrovně."
+  }
+]

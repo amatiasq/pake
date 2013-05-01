@@ -1,0 +1,1208 @@
+[
+  {
+    "id" : 1,
+    "gender_id" : 2,
+    "identifier" : "player-m",
+    "archetype_id" : null
+  },
+  {
+    "id" : 2,
+    "gender_id" : 1,
+    "identifier" : "player-f",
+    "archetype_id" : null
+  },
+  {
+    "id" : 3,
+    "gender_id" : 2,
+    "identifier" : "nobunaga",
+    "archetype_id" : null
+  },
+  {
+    "id" : 4,
+    "gender_id" : 1,
+    "identifier" : "oichi",
+    "archetype_id" : null
+  },
+  {
+    "id" : 5,
+    "gender_id" : 2,
+    "identifier" : "hideyoshi",
+    "archetype_id" : null
+  },
+  {
+    "id" : 6,
+    "gender_id" : 2,
+    "identifier" : "motochika",
+    "archetype_id" : null
+  },
+  {
+    "id" : 7,
+    "gender_id" : 1,
+    "identifier" : "ginchiyo",
+    "archetype_id" : null
+  },
+  {
+    "id" : 8,
+    "gender_id" : 2,
+    "identifier" : "motonari",
+    "archetype_id" : null
+  },
+  {
+    "id" : 9,
+    "gender_id" : 2,
+    "identifier" : "mitsuhide",
+    "archetype_id" : null
+  },
+  {
+    "id" : 10,
+    "gender_id" : 2,
+    "identifier" : "yoshihiro",
+    "archetype_id" : null
+  },
+  {
+    "id" : 11,
+    "gender_id" : 1,
+    "identifier" : "nene",
+    "archetype_id" : null
+  },
+  {
+    "id" : 12,
+    "gender_id" : 2,
+    "identifier" : "shingen",
+    "archetype_id" : null
+  },
+  {
+    "id" : 13,
+    "gender_id" : 2,
+    "identifier" : "masamune",
+    "archetype_id" : null
+  },
+  {
+    "id" : 14,
+    "gender_id" : 2,
+    "identifier" : "kenshin",
+    "archetype_id" : null
+  },
+  {
+    "id" : 15,
+    "gender_id" : 2,
+    "identifier" : "yoshimoto",
+    "archetype_id" : null
+  },
+  {
+    "id" : 16,
+    "gender_id" : 2,
+    "identifier" : "ujiyasu",
+    "archetype_id" : null
+  },
+  {
+    "id" : 17,
+    "gender_id" : 1,
+    "identifier" : "no",
+    "archetype_id" : null
+  },
+  {
+    "id" : 18,
+    "gender_id" : 2,
+    "identifier" : "kotaro",
+    "archetype_id" : null
+  },
+  {
+    "id" : 19,
+    "gender_id" : 2,
+    "identifier" : "ieyasu",
+    "archetype_id" : null
+  },
+  {
+    "id" : 20,
+    "gender_id" : 2,
+    "identifier" : "hanbei",
+    "archetype_id" : null
+  },
+  {
+    "id" : 21,
+    "gender_id" : 2,
+    "identifier" : "kanbei",
+    "archetype_id" : null
+  },
+  {
+    "id" : 22,
+    "gender_id" : 2,
+    "identifier" : "muneshige",
+    "archetype_id" : null
+  },
+  {
+    "id" : 23,
+    "gender_id" : 1,
+    "identifier" : "gracia",
+    "archetype_id" : null
+  },
+  {
+    "id" : 24,
+    "gender_id" : 2,
+    "identifier" : "hanzo",
+    "archetype_id" : null
+  },
+  {
+    "id" : 25,
+    "gender_id" : 1,
+    "identifier" : "kunoichi",
+    "archetype_id" : null
+  },
+  {
+    "id" : 26,
+    "gender_id" : 2,
+    "identifier" : "yukimura",
+    "archetype_id" : null
+  },
+  {
+    "id" : 27,
+    "gender_id" : 2,
+    "identifier" : "magoichi",
+    "archetype_id" : null
+  },
+  {
+    "id" : 28,
+    "gender_id" : 2,
+    "identifier" : "kanetsugu",
+    "archetype_id" : null
+  },
+  {
+    "id" : 29,
+    "gender_id" : 1,
+    "identifier" : "aya",
+    "archetype_id" : null
+  },
+  {
+    "id" : 30,
+    "gender_id" : 1,
+    "identifier" : "kai",
+    "archetype_id" : null
+  },
+  {
+    "id" : 31,
+    "gender_id" : 1,
+    "identifier" : "okuni",
+    "archetype_id" : null
+  },
+  {
+    "id" : 32,
+    "gender_id" : 2,
+    "identifier" : "ranmaru",
+    "archetype_id" : null
+  },
+  {
+    "id" : 33,
+    "gender_id" : 2,
+    "identifier" : "tadakatsu",
+    "archetype_id" : null
+  },
+  {
+    "id" : 34,
+    "gender_id" : 1,
+    "identifier" : "ina",
+    "archetype_id" : null
+  },
+  {
+    "id" : 35,
+    "gender_id" : 2,
+    "identifier" : "keiji",
+    "archetype_id" : null
+  },
+  {
+    "id" : 36,
+    "gender_id" : 2,
+    "identifier" : "mitsunari",
+    "archetype_id" : null
+  },
+  {
+    "id" : 37,
+    "gender_id" : 2,
+    "identifier" : "kiyomasa",
+    "archetype_id" : null
+  },
+  {
+    "id" : 38,
+    "gender_id" : 2,
+    "identifier" : "masanori",
+    "archetype_id" : null
+  },
+  {
+    "id" : 39,
+    "gender_id" : 2,
+    "identifier" : "tsunehisa",
+    "archetype_id" : 13
+  },
+  {
+    "id" : 40,
+    "gender_id" : 2,
+    "identifier" : "naoie",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 41,
+    "gender_id" : 2,
+    "identifier" : "harutaka",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 42,
+    "gender_id" : 2,
+    "identifier" : "takanobu",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 43,
+    "gender_id" : 2,
+    "identifier" : "naoshige",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 44,
+    "gender_id" : 2,
+    "identifier" : "ujisato",
+    "archetype_id" : 19
+  },
+  {
+    "id" : 45,
+    "gender_id" : 1,
+    "identifier" : "chacha",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 46,
+    "gender_id" : 1,
+    "identifier" : "go",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 47,
+    "gender_id" : 1,
+    "identifier" : "hatsu",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 48,
+    "gender_id" : 2,
+    "identifier" : "kazumasu",
+    "archetype_id" : 23
+  },
+  {
+    "id" : 49,
+    "gender_id" : 2,
+    "identifier" : "nagahide",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 50,
+    "gender_id" : 2,
+    "identifier" : "yoshitaka",
+    "archetype_id" : 17
+  },
+  {
+    "id" : 51,
+    "gender_id" : 2,
+    "identifier" : "urakusai",
+    "archetype_id" : 19
+  },
+  {
+    "id" : 52,
+    "gender_id" : 2,
+    "identifier" : "narimasa",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 53,
+    "gender_id" : 2,
+    "identifier" : "tomonori",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 54,
+    "gender_id" : 2,
+    "identifier" : "murashige",
+    "archetype_id" : 19
+  },
+  {
+    "id" : 55,
+    "gender_id" : 2,
+    "identifier" : "masahide",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 56,
+    "gender_id" : 2,
+    "identifier" : "nagayoshi",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 57,
+    "gender_id" : 1,
+    "identifier" : "kitsuno",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 58,
+    "gender_id" : 1,
+    "identifier" : "gotoku",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 59,
+    "gender_id" : 2,
+    "identifier" : "hidenaga",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 60,
+    "gender_id" : 2,
+    "identifier" : "koroku",
+    "archetype_id" : 18
+  },
+  {
+    "id" : 61,
+    "gender_id" : 2,
+    "identifier" : "takatora",
+    "archetype_id" : 11
+  },
+  {
+    "id" : 62,
+    "gender_id" : 2,
+    "identifier" : "yoshitsugu",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 63,
+    "gender_id" : 2,
+    "identifier" : "yukinaga",
+    "archetype_id" : 20
+  },
+  {
+    "id" : 64,
+    "gender_id" : 2,
+    "identifier" : "rikyu",
+    "archetype_id" : 19
+  },
+  {
+    "id" : 65,
+    "gender_id" : 2,
+    "identifier" : "hideyori",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 66,
+    "gender_id" : 1,
+    "identifier" : "asahi",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 67,
+    "gender_id" : 2,
+    "identifier" : "kazutoyo",
+    "archetype_id" : 11
+  },
+  {
+    "id" : 68,
+    "gender_id" : 2,
+    "identifier" : "nagayasu",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 69,
+    "gender_id" : 2,
+    "identifier" : "harunaga",
+    "archetype_id" : 10
+  },
+  {
+    "id" : 70,
+    "gender_id" : 2,
+    "identifier" : "hideaki",
+    "archetype_id" : 12
+  },
+  {
+    "id" : 71,
+    "gender_id" : 1,
+    "identifier" : "naka",
+    "archetype_id" : 29
+  },
+  {
+    "id" : 72,
+    "gender_id" : 1,
+    "identifier" : "tatsuko",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 73,
+    "gender_id" : 1,
+    "identifier" : "maa",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 74,
+    "gender_id" : 1,
+    "identifier" : "chiyo",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 75,
+    "gender_id" : 1,
+    "identifier" : "hatsume",
+    "archetype_id" : 27
+  },
+  {
+    "id" : 76,
+    "gender_id" : 2,
+    "identifier" : "nobuchika",
+    "archetype_id" : 11
+  },
+  {
+    "id" : 77,
+    "gender_id" : 2,
+    "identifier" : "chikayasu",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 78,
+    "gender_id" : 2,
+    "identifier" : "morichika",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 79,
+    "gender_id" : 2,
+    "identifier" : "chikamasa",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 80,
+    "gender_id" : 2,
+    "identifier" : "norishige",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 81,
+    "gender_id" : 2,
+    "identifier" : "takayori",
+    "archetype_id" : 11
+  },
+  {
+    "id" : 82,
+    "gender_id" : 2,
+    "identifier" : "tadasumi",
+    "archetype_id" : 12
+  },
+  {
+    "id" : 83,
+    "gender_id" : 2,
+    "identifier" : "dosetsu",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 84,
+    "gender_id" : 2,
+    "identifier" : "shoun",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 85,
+    "gender_id" : 2,
+    "identifier" : "sorin",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 86,
+    "gender_id" : 2,
+    "identifier" : "sekiso",
+    "archetype_id" : 22
+  },
+  {
+    "id" : 87,
+    "gender_id" : 2,
+    "identifier" : "akizane",
+    "archetype_id" : 19
+  },
+  {
+    "id" : 88,
+    "gender_id" : 2,
+    "identifier" : "takatane",
+    "archetype_id" : 12
+  },
+  {
+    "id" : 89,
+    "gender_id" : 1,
+    "identifier" : "kiyo",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 90,
+    "gender_id" : 2,
+    "identifier" : "motoharu",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 91,
+    "gender_id" : 2,
+    "identifier" : "takakage",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 92,
+    "gender_id" : 2,
+    "identifier" : "terumoto",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 93,
+    "gender_id" : 2,
+    "identifier" : "takeyoshi",
+    "archetype_id" : 17
+  },
+  {
+    "id" : 94,
+    "gender_id" : 2,
+    "identifier" : "ekei",
+    "archetype_id" : 22
+  },
+  {
+    "id" : 95,
+    "gender_id" : 2,
+    "identifier" : "takamoto",
+    "archetype_id" : 12
+  },
+  {
+    "id" : 96,
+    "gender_id" : 2,
+    "identifier" : "sadatoshi",
+    "archetype_id" : 10
+  },
+  {
+    "id" : 97,
+    "gender_id" : 2,
+    "identifier" : "hidemitsu",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 98,
+    "gender_id" : 2,
+    "identifier" : "toshimitsu",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 99,
+    "gender_id" : 2,
+    "identifier" : "shigemoto",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 100,
+    "gender_id" : 2,
+    "identifier" : "mitsutada",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 101,
+    "gender_id" : 2,
+    "identifier" : "yukimasa",
+    "archetype_id" : 10
+  },
+  {
+    "id" : 102,
+    "gender_id" : 2,
+    "identifier" : "tadaoki",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 103,
+    "gender_id" : 2,
+    "identifier" : "fujitaka",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 104,
+    "gender_id" : 1,
+    "identifier" : "hiroko",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 105,
+    "gender_id" : 2,
+    "identifier" : "tadamoto",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 106,
+    "gender_id" : 2,
+    "identifier" : "tadatsune",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 107,
+    "gender_id" : 2,
+    "identifier" : "takahisa",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 108,
+    "gender_id" : 2,
+    "identifier" : "hisaaki",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 109,
+    "gender_id" : 2,
+    "identifier" : "masatoshi",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 110,
+    "gender_id" : 2,
+    "identifier" : "kanemori",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 111,
+    "gender_id" : 2,
+    "identifier" : "tokitaka",
+    "archetype_id" : 13
+  },
+  {
+    "id" : 112,
+    "gender_id" : 2,
+    "identifier" : "sandayu",
+    "archetype_id" : 23
+  },
+  {
+    "id" : 113,
+    "gender_id" : 2,
+    "identifier" : "morikiyo",
+    "archetype_id" : 23
+  },
+  {
+    "id" : 114,
+    "gender_id" : 2,
+    "identifier" : "kashinkoji",
+    "archetype_id" : 13
+  },
+  {
+    "id" : 115,
+    "gender_id" : 2,
+    "identifier" : "yasunaga",
+    "archetype_id" : 24
+  },
+  {
+    "id" : 116,
+    "gender_id" : 2,
+    "identifier" : "seikuro",
+    "archetype_id" : 25
+  },
+  {
+    "id" : 117,
+    "gender_id" : 2,
+    "identifier" : "katsuyori",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 118,
+    "gender_id" : 2,
+    "identifier" : "haruyuki",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 119,
+    "gender_id" : 2,
+    "identifier" : "masakage",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 120,
+    "gender_id" : 2,
+    "identifier" : "masatoyo",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 121,
+    "gender_id" : 2,
+    "identifier" : "nobufusa",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 122,
+    "gender_id" : 2,
+    "identifier" : "masayuki",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 123,
+    "gender_id" : 2,
+    "identifier" : "yukitaka",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 124,
+    "gender_id" : 1,
+    "identifier" : "ume",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 125,
+    "gender_id" : 1,
+    "identifier" : "chiyome",
+    "archetype_id" : 26
+  },
+  {
+    "id" : 126,
+    "gender_id" : 1,
+    "identifier" : "kei",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 127,
+    "gender_id" : 2,
+    "identifier" : "kagetsuna",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 128,
+    "gender_id" : 2,
+    "identifier" : "shigezane",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 129,
+    "gender_id" : 2,
+    "identifier" : "tsunamoto",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 130,
+    "gender_id" : 2,
+    "identifier" : "tsunenaga",
+    "archetype_id" : 17
+  },
+  {
+    "id" : 131,
+    "gender_id" : 2,
+    "identifier" : "munetoki",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 132,
+    "gender_id" : 2,
+    "identifier" : "munezane",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 133,
+    "gender_id" : 1,
+    "identifier" : "yoshi",
+    "archetype_id" : 26
+  },
+  {
+    "id" : 134,
+    "gender_id" : 1,
+    "identifier" : "iroha",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 135,
+    "gender_id" : 2,
+    "identifier" : "kagekatsu",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 136,
+    "gender_id" : 2,
+    "identifier" : "yoshikiyo",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 137,
+    "gender_id" : 2,
+    "identifier" : "tomonobu",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 138,
+    "gender_id" : 2,
+    "identifier" : "kageie",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 139,
+    "gender_id" : 2,
+    "identifier" : "takahiro",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 140,
+    "gender_id" : 2,
+    "identifier" : "sadamitsu",
+    "archetype_id" : 13
+  },
+  {
+    "id" : 141,
+    "gender_id" : 2,
+    "identifier" : "yataro",
+    "archetype_id" : 7
+  },
+  {
+    "id" : 142,
+    "gender_id" : 2,
+    "identifier" : "saneyori",
+    "archetype_id" : 13
+  },
+  {
+    "id" : 143,
+    "gender_id" : 1,
+    "identifier" : "hana",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 144,
+    "gender_id" : 1,
+    "identifier" : "sen",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 145,
+    "gender_id" : 2,
+    "identifier" : "ujichika",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 146,
+    "gender_id" : 2,
+    "identifier" : "ujizane",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 147,
+    "gender_id" : 2,
+    "identifier" : "sessai",
+    "archetype_id" : 22
+  },
+  {
+    "id" : 148,
+    "gender_id" : 2,
+    "identifier" : "masatsuna",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 149,
+    "gender_id" : 2,
+    "identifier" : "yasutomo",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 150,
+    "gender_id" : 2,
+    "identifier" : "ujihiro",
+    "archetype_id" : 10
+  },
+  {
+    "id" : 151,
+    "gender_id" : 2,
+    "identifier" : "motozane",
+    "archetype_id" : 10
+  },
+  {
+    "id" : 152,
+    "gender_id" : 1,
+    "identifier" : "sena",
+    "archetype_id" : 26
+  },
+  {
+    "id" : 153,
+    "gender_id" : 2,
+    "identifier" : "soun",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 154,
+    "gender_id" : 2,
+    "identifier" : "tsunashige",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 155,
+    "gender_id" : 2,
+    "identifier" : "genan",
+    "archetype_id" : 22
+  },
+  {
+    "id" : 156,
+    "gender_id" : 2,
+    "identifier" : "ujimasa",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 157,
+    "gender_id" : 2,
+    "identifier" : "ujiteru",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 158,
+    "gender_id" : 2,
+    "identifier" : "ujikuni",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 159,
+    "gender_id" : 2,
+    "identifier" : "ujinao",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 160,
+    "gender_id" : 1,
+    "identifier" : "shizuka",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 161,
+    "gender_id" : 1,
+    "identifier" : "madoka",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 162,
+    "gender_id" : 2,
+    "identifier" : "dosan",
+    "archetype_id" : 20
+  },
+  {
+    "id" : 163,
+    "gender_id" : 2,
+    "identifier" : "yoshitatsu",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 164,
+    "gender_id" : 2,
+    "identifier" : "ittetsu",
+    "archetype_id" : 5
+  },
+  {
+    "id" : 165,
+    "gender_id" : 2,
+    "identifier" : "bokuzen",
+    "archetype_id" : 8
+  },
+  {
+    "id" : 166,
+    "gender_id" : 2,
+    "identifier" : "morinari",
+    "archetype_id" : 12
+  },
+  {
+    "id" : 167,
+    "gender_id" : 1,
+    "identifier" : "omi",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 168,
+    "gender_id" : 1,
+    "identifier" : "asa",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 169,
+    "gender_id" : 2,
+    "identifier" : "shimoyama",
+    "archetype_id" : 25
+  },
+  {
+    "id" : 170,
+    "gender_id" : 2,
+    "identifier" : "genba",
+    "archetype_id" : 24
+  },
+  {
+    "id" : 171,
+    "gender_id" : 2,
+    "identifier" : "danzo",
+    "archetype_id" : 25
+  },
+  {
+    "id" : 172,
+    "gender_id" : 2,
+    "identifier" : "yazaemon",
+    "archetype_id" : 24
+  },
+  {
+    "id" : 173,
+    "gender_id" : 2,
+    "identifier" : "isuke",
+    "archetype_id" : 24
+  },
+  {
+    "id" : 174,
+    "gender_id" : 2,
+    "identifier" : "tadatsugu",
+    "archetype_id" : 1
+  },
+  {
+    "id" : 175,
+    "gender_id" : 2,
+    "identifier" : "naomasa",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 176,
+    "gender_id" : 2,
+    "identifier" : "yasumasa",
+    "archetype_id" : 3
+  },
+  {
+    "id" : 177,
+    "gender_id" : 2,
+    "identifier" : "masanobu",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 178,
+    "gender_id" : 2,
+    "identifier" : "hidetada",
+    "archetype_id" : 6
+  },
+  {
+    "id" : 179,
+    "gender_id" : 2,
+    "identifier" : "kazumasa",
+    "archetype_id" : 9
+  },
+  {
+    "id" : 180,
+    "gender_id" : 2,
+    "identifier" : "choan",
+    "archetype_id" : 20
+  },
+  {
+    "id" : 181,
+    "gender_id" : 2,
+    "identifier" : "tenkai",
+    "archetype_id" : 22
+  },
+  {
+    "id" : 182,
+    "gender_id" : 2,
+    "identifier" : "munenori",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 183,
+    "gender_id" : 1,
+    "identifier" : "kame",
+    "archetype_id" : 27
+  },
+  {
+    "id" : 184,
+    "gender_id" : 1,
+    "identifier" : "toku",
+    "archetype_id" : 15
+  },
+  {
+    "id" : 185,
+    "gender_id" : 2,
+    "identifier" : "saizo",
+    "archetype_id" : 23
+  },
+  {
+    "id" : 186,
+    "gender_id" : 2,
+    "identifier" : "sasuke",
+    "archetype_id" : 25
+  },
+  {
+    "id" : 187,
+    "gender_id" : 1,
+    "identifier" : "katsu",
+    "archetype_id" : 27
+  },
+  {
+    "id" : 188,
+    "gender_id" : 2,
+    "identifier" : "juzo",
+    "archetype_id" : 24
+  },
+  {
+    "id" : 189,
+    "gender_id" : 1,
+    "identifier" : "tsuru",
+    "archetype_id" : 14
+  },
+  {
+    "id" : 190,
+    "gender_id" : 1,
+    "identifier" : "ise",
+    "archetype_id" : 27
+  },
+  {
+    "id" : 191,
+    "gender_id" : 2,
+    "identifier" : "jinpachi",
+    "archetype_id" : 17
+  },
+  {
+    "id" : 192,
+    "gender_id" : 2,
+    "identifier" : "kamanosuke",
+    "archetype_id" : 18
+  },
+  {
+    "id" : 193,
+    "gender_id" : 2,
+    "identifier" : "seikai",
+    "archetype_id" : 18
+  },
+  {
+    "id" : 194,
+    "gender_id" : 2,
+    "identifier" : "isa",
+    "archetype_id" : 18
+  },
+  {
+    "id" : 195,
+    "gender_id" : 2,
+    "identifier" : "yoshiteru",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 196,
+    "gender_id" : 2,
+    "identifier" : "yoshiaki",
+    "archetype_id" : 30
+  },
+  {
+    "id" : 197,
+    "gender_id" : 2,
+    "identifier" : "hisahide",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 198,
+    "gender_id" : 2,
+    "identifier" : "jubei",
+    "archetype_id" : 4
+  },
+  {
+    "id" : 199,
+    "gender_id" : 2,
+    "identifier" : "nobutsuna",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 200,
+    "gender_id" : 2,
+    "identifier" : "bokuden",
+    "archetype_id" : 2
+  },
+  {
+    "id" : 201,
+    "gender_id" : 1,
+    "identifier" : "otsu",
+    "archetype_id" : 27
+  }
+]

@@ -1,0 +1,2872 @@
+[
+  {
+    "version_group_id" : 8,
+    "id" : 1,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 2,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 3,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 4,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 5,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 6,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 7,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 8,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 9,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 10,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 11,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 12,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 13,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 14,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 15,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 16,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 17,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 18,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 19,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 20,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 21,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 22,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 23,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 24,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 25,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 26,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 27,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 28,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 29,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 30,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 31,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 8,
+    "id" : 32,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 33,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 34,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 35,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 36,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 37,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 38,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 39,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 40,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 41,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 42,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 43,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 44,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 45,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 46,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 47,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 48,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 49,
+    "slot" : 5,
+    "rarity" : 5,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 50,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 51,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 52,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 53,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 54,
+    "slot" : 5,
+    "rarity" : 5,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 55,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 56,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 57,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 58,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 59,
+    "slot" : 5,
+    "rarity" : 5,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 60,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 61,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 62,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 63,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 64,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 65,
+    "slot" : 1,
+    "rarity" : 90,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 10,
+    "id" : 66,
+    "slot" : 2,
+    "rarity" : 10,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 67,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 68,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 69,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 70,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 71,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 72,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 73,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 74,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 75,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 76,
+    "slot" : 10,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 77,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 78,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 79,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 80,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 81,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 82,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 83,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 84,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 85,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 86,
+    "slot" : 10,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 87,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 88,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 89,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 90,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 91,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 92,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 93,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 94,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 95,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 96,
+    "slot" : 10,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 97,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 98,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 99,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 100,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 101,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 102,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 103,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 104,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 105,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 106,
+    "slot" : 10,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 107,
+    "slot" : 1,
+    "rarity" : 100,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 108,
+    "slot" : 1,
+    "rarity" : 50,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 109,
+    "slot" : 2,
+    "rarity" : 50,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 110,
+    "slot" : null,
+    "rarity" : 25,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 111,
+    "slot" : null,
+    "rarity" : 8,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 112,
+    "slot" : null,
+    "rarity" : 17,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 113,
+    "slot" : null,
+    "rarity" : 17,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 114,
+    "slot" : null,
+    "rarity" : 8,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 1,
+    "id" : 115,
+    "slot" : null,
+    "rarity" : 25,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 116,
+    "slot" : 1,
+    "rarity" : 100,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 117,
+    "slot" : 1,
+    "rarity" : 50,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 118,
+    "slot" : 2,
+    "rarity" : 50,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 119,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 120,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 121,
+    "slot" : 3,
+    "rarity" : 20,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 2,
+    "id" : 122,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 123,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 124,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 125,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 126,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 127,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 128,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 129,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 130,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 131,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 132,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 133,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 134,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 135,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 136,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 137,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 138,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 139,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 140,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 141,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 142,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 143,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 144,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 145,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 146,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 147,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 148,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 149,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 150,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 151,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 152,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 153,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 9,
+    "id" : 154,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 155,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 156,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 157,
+    "slot" : 3,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 158,
+    "slot" : 1,
+    "rarity" : 70,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 159,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 160,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 161,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 162,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 163,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 164,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 165,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 166,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 167,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 168,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 169,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 170,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 171,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 172,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 173,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 174,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 175,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 176,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 177,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 178,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 179,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 180,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 181,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 182,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 183,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 184,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 185,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 5,
+    "id" : 186,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 187,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 188,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 189,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 190,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 191,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 192,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 193,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 194,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 195,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 196,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 197,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 198,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 199,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 200,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 201,
+    "slot" : 3,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 202,
+    "slot" : 1,
+    "rarity" : 70,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 203,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 204,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 205,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 206,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 207,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 208,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 209,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 210,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 211,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 212,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 213,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 214,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 215,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 216,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 217,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 6,
+    "id" : 218,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 219,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 220,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 221,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 222,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 223,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 224,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 225,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 226,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 227,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 228,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 229,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 230,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 231,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 232,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 233,
+    "slot" : 3,
+    "rarity" : 20,
+    "encounter_method_id" : 3
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 234,
+    "slot" : 1,
+    "rarity" : 70,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 235,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 2
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 236,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 237,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 238,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 239,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 240,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 241,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 242,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 243,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 244,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 245,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 246,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 247,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 248,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 249,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 7,
+    "id" : 250,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 6
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 251,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 252,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 253,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 254,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 255,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 256,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 257,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 258,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 259,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 260,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 261,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 262,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 263,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 264,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 265,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 266,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 267,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 268,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 269,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 270,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 271,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 272,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 273,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 274,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 275,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 276,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 277,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 278,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 279,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 280,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 281,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 282,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 283,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 284,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 285,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 286,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 287,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 288,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 289,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 290,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 291,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 292,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 293,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 294,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 295,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 296,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 297,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 298,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 299,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 300,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 301,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 302,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 303,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 304,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 305,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 306,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 307,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 308,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 309,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 310,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 311,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 312,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 313,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 314,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 315,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 316,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 317,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 318,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 319,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 320,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 321,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 322,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 323,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 324,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 325,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 326,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 327,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 328,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 329,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 11,
+    "id" : 330,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 331,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 332,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 333,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 334,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 335,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 4
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 336,
+    "slot" : 1,
+    "rarity" : 40,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 337,
+    "slot" : 2,
+    "rarity" : 40,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 338,
+    "slot" : 3,
+    "rarity" : 15,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 339,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 340,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 12
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 341,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 342,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 343,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 344,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 345,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 5
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 346,
+    "slot" : 1,
+    "rarity" : 60,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 347,
+    "slot" : 2,
+    "rarity" : 30,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 348,
+    "slot" : 3,
+    "rarity" : 5,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 349,
+    "slot" : 4,
+    "rarity" : 4,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 350,
+    "slot" : 5,
+    "rarity" : 1,
+    "encounter_method_id" : 13
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 351,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 352,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 353,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 354,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 355,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 356,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 357,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 358,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 359,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 360,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 361,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 362,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 8
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 363,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 364,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 365,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 366,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 367,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 368,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 369,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 370,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 371,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 372,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 373,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 374,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 9
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 375,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 376,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 377,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 378,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 379,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 380,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 381,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 382,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 383,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 384,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 385,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 386,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 1
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 387,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 388,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 389,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 390,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 391,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 392,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 393,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 394,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 395,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 396,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 397,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 398,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 10
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 399,
+    "slot" : 1,
+    "rarity" : 20,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 400,
+    "slot" : 2,
+    "rarity" : 20,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 401,
+    "slot" : 3,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 402,
+    "slot" : 4,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 403,
+    "slot" : 5,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 404,
+    "slot" : 6,
+    "rarity" : 10,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 405,
+    "slot" : 7,
+    "rarity" : 5,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 406,
+    "slot" : 8,
+    "rarity" : 5,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 407,
+    "slot" : 9,
+    "rarity" : 4,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 408,
+    "slot" : 10,
+    "rarity" : 4,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 409,
+    "slot" : 11,
+    "rarity" : 1,
+    "encounter_method_id" : 11
+  },
+  {
+    "version_group_id" : 14,
+    "id" : 410,
+    "slot" : 12,
+    "rarity" : 1,
+    "encounter_method_id" : 11
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "canonical_pokedex_id" : 2,
+    "main_region_id" : 1,
+    "identifier" : "generation-i"
+  },
+  {
+    "id" : 2,
+    "canonical_pokedex_id" : 7,
+    "main_region_id" : 2,
+    "identifier" : "generation-ii"
+  },
+  {
+    "id" : 3,
+    "canonical_pokedex_id" : 4,
+    "main_region_id" : 3,
+    "identifier" : "generation-iii"
+  },
+  {
+    "id" : 4,
+    "canonical_pokedex_id" : 6,
+    "main_region_id" : 4,
+    "identifier" : "generation-iv"
+  },
+  {
+    "id" : 5,
+    "canonical_pokedex_id" : 8,
+    "main_region_id" : 5,
+    "identifier" : "generation-v"
+  }
+]

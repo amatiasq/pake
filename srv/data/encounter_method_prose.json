@@ -1,0 +1,67 @@
+[
+  {
+    "encounter_method_id" : 1,
+    "name" : "Walking in tall grass or a cave",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 2,
+    "name" : "Fishing with an Old Rod",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 3,
+    "name" : "Fishing with a Good Rod",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 4,
+    "name" : "Fishing with a Super Rod",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 5,
+    "name" : "Surfing",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 6,
+    "name" : "Smashing rocks",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 7,
+    "name" : "Headbutting trees",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 8,
+    "name" : "Walking in dark grass",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 9,
+    "name" : "Walking in rustling grass",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 10,
+    "name" : "Walking in dust clouds",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 11,
+    "name" : "Walking in bridge shadows",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 12,
+    "name" : "Fishing in dark spots",
+    "local_language_id" : 9
+  },
+  {
+    "encounter_method_id" : 13,
+    "name" : "Surfing in dark spots",
+    "local_language_id" : 9
+  }
+]

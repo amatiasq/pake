@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 1,
+    "is_main_series" : 1,
+    "region_id" : null,
+    "identifier" : "national"
+  },
+  {
+    "id" : 2,
+    "is_main_series" : 1,
+    "region_id" : 1,
+    "identifier" : "kanto"
+  },
+  {
+    "id" : 3,
+    "is_main_series" : 1,
+    "region_id" : 2,
+    "identifier" : "original-johto"
+  },
+  {
+    "id" : 4,
+    "is_main_series" : 1,
+    "region_id" : 3,
+    "identifier" : "hoenn"
+  },
+  {
+    "id" : 5,
+    "is_main_series" : 1,
+    "region_id" : 4,
+    "identifier" : "original-sinnoh"
+  },
+  {
+    "id" : 6,
+    "is_main_series" : 1,
+    "region_id" : 4,
+    "identifier" : "extended-sinnoh"
+  },
+  {
+    "id" : 7,
+    "is_main_series" : 1,
+    "region_id" : 2,
+    "identifier" : "updated-johto"
+  },
+  {
+    "id" : 8,
+    "is_main_series" : 1,
+    "region_id" : 5,
+    "identifier" : "original-unova"
+  },
+  {
+    "id" : 9,
+    "is_main_series" : 1,
+    "region_id" : 5,
+    "identifier" : "updated-unova"
+  },
+  {
+    "id" : 11,
+    "is_main_series" : 0,
+    "region_id" : null,
+    "identifier" : "conquest-gallery"
+  }
+]

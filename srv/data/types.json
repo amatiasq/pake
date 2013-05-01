@@ -1,0 +1,116 @@
+[
+  {
+    "damage_class_id" : 2,
+    "id" : 1,
+    "generation_id" : 1,
+    "identifier" : "normal"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 2,
+    "generation_id" : 1,
+    "identifier" : "fighting"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 3,
+    "generation_id" : 1,
+    "identifier" : "flying"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 4,
+    "generation_id" : 1,
+    "identifier" : "poison"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 5,
+    "generation_id" : 1,
+    "identifier" : "ground"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 6,
+    "generation_id" : 1,
+    "identifier" : "rock"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 7,
+    "generation_id" : 1,
+    "identifier" : "bug"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 8,
+    "generation_id" : 1,
+    "identifier" : "ghost"
+  },
+  {
+    "damage_class_id" : 2,
+    "id" : 9,
+    "generation_id" : 2,
+    "identifier" : "steel"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 10,
+    "generation_id" : 1,
+    "identifier" : "fire"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 11,
+    "generation_id" : 1,
+    "identifier" : "water"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 12,
+    "generation_id" : 1,
+    "identifier" : "grass"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 13,
+    "generation_id" : 1,
+    "identifier" : "electric"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 14,
+    "generation_id" : 1,
+    "identifier" : "psychic"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 15,
+    "generation_id" : 1,
+    "identifier" : "ice"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 16,
+    "generation_id" : 1,
+    "identifier" : "dragon"
+  },
+  {
+    "damage_class_id" : 3,
+    "id" : 17,
+    "generation_id" : 2,
+    "identifier" : "dark"
+  },
+  {
+    "damage_class_id" : null,
+    "id" : 10001,
+    "generation_id" : 2,
+    "identifier" : "unknown"
+  },
+  {
+    "damage_class_id" : null,
+    "id" : 10002,
+    "generation_id" : 3,
+    "identifier" : "shadow"
+  }
+]

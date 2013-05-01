@@ -1,0 +1,102 @@
+[
+  {
+    "stat_id" : 1,
+    "name" : "HP",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 1,
+    "name" : "HP",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 2,
+    "name" : "こうげき",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 2,
+    "name" : "Attack",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 3,
+    "name" : "ぼうぎょ",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 3,
+    "name" : "Defense",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 4,
+    "name" : "とくこう",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 4,
+    "name" : "Special Attack",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 5,
+    "name" : "とくぼう",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 5,
+    "name" : "Special Defense",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 6,
+    "name" : "すばやさ",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 6,
+    "name" : "Speed",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 7,
+    "name" : "めいちゅう",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 7,
+    "name" : "accuracy",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 8,
+    "name" : "かいひ",
+    "local_language_id" : 1
+  },
+  {
+    "stat_id" : 8,
+    "name" : "evasion",
+    "local_language_id" : 9
+  },
+  {
+    "stat_id" : 1,
+    "name" : "HP",
+    "local_language_id" : 10
+  },
+  {
+    "stat_id" : 3,
+    "name" : "Obranný",
+    "local_language_id" : 10
+  },
+  {
+    "stat_id" : 6,
+    "name" : "Rychlost",
+    "local_language_id" : 10
+  },
+  {
+    "stat_id" : 2,
+    "name" : "Útočný",
+    "local_language_id" : 10
+  }
+]

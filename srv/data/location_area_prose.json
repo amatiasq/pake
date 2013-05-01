@@ -1,0 +1,3572 @@
+[
+  {
+    "location_area_id" : 1,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 2,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 3,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 4,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 5,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 6,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 7,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 8,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 9,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 10,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 11,
+    "name" : "Route 207",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 12,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 13,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 14,
+    "name" : "snowfall",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 15,
+    "name" : "blizzard",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 16,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 17,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 18,
+    "name" : "6F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 19,
+    "name" : "7F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 20,
+    "name" : "cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 21,
+    "name" : "Route 216",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 22,
+    "name" : "Route 211",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 23,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 24,
+    "name" : "Area 1",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 25,
+    "name" : "Area 2",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 26,
+    "name" : "Area 3",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 27,
+    "name" : "Area 4",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 28,
+    "name" : "Area 5",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 29,
+    "name" : "Area 6",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 30,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 31,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 32,
+    "name" : "B1F a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 33,
+    "name" : "B1F b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 34,
+    "name" : "B1F c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 35,
+    "name" : "B2F a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 36,
+    "name" : "B2F b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 37,
+    "name" : "B2F c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 38,
+    "name" : "B3F a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 39,
+    "name" : "B3F b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 40,
+    "name" : "B3F c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 41,
+    "name" : "B3F d",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 42,
+    "name" : "B3F e",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 43,
+    "name" : "B4F a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 44,
+    "name" : "B4F b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 45,
+    "name" : "B4F c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 46,
+    "name" : "B4F d",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 47,
+    "name" : "B5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 48,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 49,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 50,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 51,
+    "name" : "inside B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 52,
+    "name" : "inside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 53,
+    "name" : "inside exit",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 54,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 55,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 56,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 57,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 58,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 59,
+    "name" : "inside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 60,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 61,
+    "name" : "pillar 1",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 62,
+    "name" : "pillar 2",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 63,
+    "name" : "pillar 3",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 64,
+    "name" : "before pillar 1",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 70,
+    "name" : "between pillars 1 and 2",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 76,
+    "name" : "between pillars 2 and 3",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 82,
+    "name" : "after pillar 3",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 107,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 108,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 109,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 110,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 111,
+    "name" : "B4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 112,
+    "name" : "B5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 113,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 114,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 115,
+    "name" : "0–9 different Unown caught",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 116,
+    "name" : "10–25 different Unown caught",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 117,
+    "name" : "26+ different Unown caught",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 118,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 119,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 120,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 121,
+    "name" : "B1F left",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 122,
+    "name" : "B1F right",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 123,
+    "name" : "B2F right",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 124,
+    "name" : "B2F left",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 125,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 126,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 127,
+    "name" : "dining room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 128,
+    "name" : "2F private room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 129,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 130,
+    "name" : "2F leftmost room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 131,
+    "name" : "2F left room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 132,
+    "name" : "2F middle room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 133,
+    "name" : "2F right room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 134,
+    "name" : "2F rightmost room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 135,
+    "name" : "before Galactic intervention",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 136,
+    "name" : "after Galactic intervention",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 137,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 138,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 139,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 140,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 141,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 142,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 143,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 144,
+    "name" : "south, towards Jubilife City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 145,
+    "name" : "north, towards Floaroma Town",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 146,
+    "name" : "south, towards Floaroma Town",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 147,
+    "name" : "east, towards Eterna City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 148,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 149,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 150,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 151,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 152,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 153,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 154,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 155,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 156,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 157,
+    "name" : "south, towards Solaceon Town",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 158,
+    "name" : "west, towards Celestic Town",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 159,
+    "name" : "west, towards Eterna City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 160,
+    "name" : "east, towards Celestic Town",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 161,
+    "name" : "north, towards Hearthome City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 162,
+    "name" : "east, towards Pastoria City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 163,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 164,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 165,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 166,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 167,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 168,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 169,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 170,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 171,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 172,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 173,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 174,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 175,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 176,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 177,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 178,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 179,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 180,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 181,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 182,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 183,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 184,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 185,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 186,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 187,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 188,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 189,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 190,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 191,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 192,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 193,
+    "name" : "Outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 194,
+    "name" : "Interior A",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 195,
+    "name" : "Interior B",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 196,
+    "name" : "Interior C",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 197,
+    "name" : "Interior D",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 198,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 199,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 200,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 201,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 202,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 203,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 204,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 205,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 206,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 207,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 208,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 209,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 210,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 211,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 212,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 213,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 214,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 215,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 216,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 217,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 218,
+    "name" : "6F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 219,
+    "name" : "7F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 220,
+    "name" : "8F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 221,
+    "name" : "9F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 222,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 223,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 224,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 225,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 226,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 227,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 228,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 229,
+    "name" : "empty floor X",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 230,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 231,
+    "name" : "empty floor Y",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 232,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 235,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 236,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 237,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 238,
+    "name" : "Lower Cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 239,
+    "name" : "Upper Cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 240,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 241,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 242,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 243,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 244,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 245,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 246,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 247,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 249,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 250,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 251,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 252,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 253,
+    "name" : "Violet City entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 254,
+    "name" : "Blackthorn City entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 255,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 256,
+    "name" : "Mt. Moon Square",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 257,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 258,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 259,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 260,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 261,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 262,
+    "name" : "B4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 263,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 264,
+    "name" : "1F top",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 265,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 266,
+    "name" : "cave gate",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 267,
+    "name" : "inside cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 268,
+    "name" : "10F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 269,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 270,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 271,
+    "name" : "mountainside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 272,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 273,
+    "name" : "top",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 275,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 276,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 277,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 278,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 279,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 280,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 281,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 282,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 283,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 284,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 285,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 286,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 287,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 288,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 289,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 290,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 291,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 292,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 293,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 294,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 295,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 296,
+    "name" : "south, towards Viridian City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 297,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 298,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 299,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 300,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 301,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 302,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 303,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 304,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 305,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 306,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 307,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 308,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 309,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 310,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 311,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 312,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 313,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 314,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 315,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 316,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 317,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 318,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 319,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 320,
+    "name" : "north, towards Pewter City",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 321,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 323,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 324,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 325,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 326,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 327,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 328,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 329,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 330,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 331,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 332,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 333,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 334,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 335,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 336,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 337,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 338,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 339,
+    "name" : "6F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 340,
+    "name" : "7F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 341,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 342,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 343,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 344,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 345,
+    "name" : "middle",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 346,
+    "name" : "Area 1, east",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 347,
+    "name" : "Area 2, north",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 348,
+    "name" : "Area 3, west",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 349,
+    "name" : "S.S. Anne dock",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 350,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 351,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 352,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 353,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 354,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 355,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 356,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 357,
+    "name" : "back",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 358,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 359,
+    "name" : "back\/small room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 360,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 361,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 362,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 363,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 364,
+    "name" : "1F\/small Room",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 365,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 366,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 367,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 368,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 369,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 370,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 371,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 372,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 373,
+    "name" : "6F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 374,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 375,
+    "name" : "summit",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 376,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 377,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 378,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 379,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 380,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 381,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 382,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 383,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 384,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 385,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 386,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 387,
+    "name" : "Entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 388,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 389,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 390,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 391,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 392,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 393,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 394,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 395,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 396,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 397,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 398,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 399,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 400,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 401,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 402,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 403,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 404,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 405,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 406,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 407,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 408,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 409,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 410,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 411,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 412,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 413,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 414,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 415,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 416,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 417,
+    "name" : "underwater",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 418,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 419,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 420,
+    "name" : "underwater",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 421,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 422,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 423,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 424,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 425,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 426,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 427,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 428,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 429,
+    "name" : "NW\/mach bike area",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 430,
+    "name" : "NE\/acro bike area",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 431,
+    "name" : "SW",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 432,
+    "name" : "SE",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 433,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 434,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 435,
+    "name" : "expansion south",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 436,
+    "name" : "expansion north",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 437,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 438,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 439,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 440,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 441,
+    "name" : "a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 442,
+    "name" : "b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 443,
+    "name" : "c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 444,
+    "name" : "d",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 445,
+    "name" : "e",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 446,
+    "name" : "f",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 447,
+    "name" : "g",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 448,
+    "name" : "h",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 449,
+    "name" : "i",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 450,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 451,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 452,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 453,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 454,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 455,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 456,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 457,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 458,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 459,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 460,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 461,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 462,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 463,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 464,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 465,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 466,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 467,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 468,
+    "name" : "center",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 469,
+    "name" : "Area 1, east",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 470,
+    "name" : "Area 2, north",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 471,
+    "name" : "Area 3, west",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 472,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 473,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 474,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 475,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 476,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 477,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 478,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 479,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 480,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 481,
+    "name" : "B4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 482,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 483,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 484,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 485,
+    "name" : "6F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 486,
+    "name" : "7F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 487,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 488,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 489,
+    "name" : "cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 490,
+    "name" : "inside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 491,
+    "name" : "1F, cave behind team rocket",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 492,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 493,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 494,
+    "name" : "B3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 495,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 496,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 497,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 498,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 499,
+    "name" : "waterfall",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 500,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 501,
+    "name" : "room 1",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 502,
+    "name" : "room 2",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 503,
+    "name" : "room 3",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 504,
+    "name" : "room 4",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 505,
+    "name" : "room 5",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 506,
+    "name" : "room 6",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 507,
+    "name" : "room 7",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 508,
+    "name" : "room 8",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 509,
+    "name" : "room 9",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 510,
+    "name" : "room 10",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 511,
+    "name" : "item rooms",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 512,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 513,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 514,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 515,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 516,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 517,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 518,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 519,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 520,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 521,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 522,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 523,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 524,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 525,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 526,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 527,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 528,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 529,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 530,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 531,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 532,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 533,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 534,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 535,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 536,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 537,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 538,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 539,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 540,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 541,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 542,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 543,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 544,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 545,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 546,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 547,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 548,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 549,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 550,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 551,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 552,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 553,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 554,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 555,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 556,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 557,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 558,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 559,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 560,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 561,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 562,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 563,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 564,
+    "name" : "a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 565,
+    "name" : "b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 566,
+    "name" : "c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 567,
+    "name" : "d",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 568,
+    "name" : "e",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 569,
+    "name" : "f",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 570,
+    "name" : "g",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 571,
+    "name" : "h",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 572,
+    "name" : "i",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 573,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 574,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 575,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 576,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 577,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 578,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 579,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 580,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 581,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 582,
+    "name" : "inside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 583,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 584,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 585,
+    "name" : "a",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 586,
+    "name" : "b",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 587,
+    "name" : "c",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 588,
+    "name" : "d",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 589,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 590,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 591,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 592,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 593,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 594,
+    "name" : "entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 595,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 596,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 597,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 598,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 599,
+    "name" : "Unknown Area 53",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 600,
+    "name" : "Unknown Area 54",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 601,
+    "name" : "Unknown Area 55",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 602,
+    "name" : "Unknown Area 56",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 603,
+    "name" : "Unknown Area 57",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 604,
+    "name" : "Unknown Area 58",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 605,
+    "name" : "Unknown Area 59",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 606,
+    "name" : "Unknown Area 60",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 607,
+    "name" : "Unknown Area 61",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 608,
+    "name" : "Unknown Area 62",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 609,
+    "name" : "Unknown Area 63",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 610,
+    "name" : "Unknown Area 64",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 611,
+    "name" : "Unknown Area 65",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 612,
+    "name" : "Unknown Area 66",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 613,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 614,
+    "name" : "outside",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 615,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 616,
+    "name" : "forest",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 617,
+    "name" : "forest cave",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 618,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 619,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 620,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 621,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 622,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 623,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 624,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 625,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 626,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 627,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 628,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 629,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 630,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 631,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 632,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 633,
+    "name" : "2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 634,
+    "name" : "3F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 635,
+    "name" : "4F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 636,
+    "name" : "5F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 637,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 638,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 639,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 640,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 641,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 642,
+    "name" : "B2F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 643,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 644,
+    "name" : "Victory Road gate",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 645,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 646,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 647,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 648,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 649,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 650,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 651,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 652,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 653,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 654,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 655,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 656,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 657,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 658,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 659,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 660,
+    "name" : "7F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 661,
+    "name" : "unknown area 71",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 662,
+    "name" : "unknown area 72",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 663,
+    "name" : "unknown area 73",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 664,
+    "name" : "unknown area 74",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 665,
+    "name" : "unknown area 75",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 666,
+    "name" : "unknown area 76",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 667,
+    "name" : "unknown area 77",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 668,
+    "name" : "unknown area 78",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 669,
+    "name" : "unknown area 79",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 670,
+    "name" : "unknown area 80",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 671,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 672,
+    "name" : "unknown area 38",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 673,
+    "name" : "outer",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 674,
+    "name" : "inner",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 675,
+    "name" : "outer",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 676,
+    "name" : "inner",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 677,
+    "name" : "unknown area 48",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 678,
+    "name" : "unknown area 49",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 679,
+    "name" : "unknown area 50",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 680,
+    "name" : "unknown area 51",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 681,
+    "name" : "unknown area 52",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 682,
+    "name" : "unknown area 53",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 683,
+    "name" : "unknown area 54",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 684,
+    "name" : "unknown area 55",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 685,
+    "name" : "unknown area 56",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 686,
+    "name" : "unknown area 57",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 687,
+    "name" : "unknown area 58",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 688,
+    "name" : "unknown area 59",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 689,
+    "name" : "unknown area 60",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 690,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 691,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 692,
+    "name" : "Castelia Sewers entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 693,
+    "name" : "Relic Castle entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 694,
+    "name" : "PWT entrance",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 695,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 696,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 697,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 698,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 699,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 700,
+    "name" : "1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 701,
+    "name" : "B1F",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 702,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 703,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 704,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 705,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 706,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 707,
+    "name" : "",
+    "local_language_id" : 9
+  },
+  {
+    "location_area_id" : 196,
+    "name" : "Vnitřek C",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 496,
+    "name" : "vchod",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 157,
+    "name" : "jižně, směrem k Solaceonu",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 61,
+    "name" : "1. sloup",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 194,
+    "name" : "Vnitřek A",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 231,
+    "name" : "prázdné patro Y",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 58,
+    "name" : "vchod",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 374,
+    "name" : "venku",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 345,
+    "name" : "uprostřed",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 267,
+    "name" : "v jeskyni",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 238,
+    "name" : "Spodní jeskyně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 197,
+    "name" : "Vnitřek D",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 144,
+    "name" : "jižně, směrem k Jubilife",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 349,
+    "name" : "Přístav S.S. Anne",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 136,
+    "name" : "po zásahu týmu Galactic",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 239,
+    "name" : "Vrchní jeskyně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 273,
+    "name" : "vrcholek",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 27,
+    "name" : "Oblast 4",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 126,
+    "name" : "vchod",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 160,
+    "name" : "východně, směrem k Celesticu",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 135,
+    "name" : "před zásahem týmu Galactic",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 147,
+    "name" : "východně, směrem k Eterně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 24,
+    "name" : "Oblast 1",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 377,
+    "name" : "vchod",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 14,
+    "name" : "chumelenice",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 229,
+    "name" : "prázdné patro X",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 254,
+    "name" : "vstup do Blackthornu ",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 490,
+    "name" : "uvnitř",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 145,
+    "name" : "severně, směrem k Floaromě",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 28,
+    "name" : "Oblast 5",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 253,
+    "name" : "vstup do Violetu",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 296,
+    "name" : "jižně, směrem k Viridianu",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 15,
+    "name" : "vánice",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 59,
+    "name" : "uvnitř",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 158,
+    "name" : "západně, směrem k Celesticu",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 271,
+    "name" : "podél jeskyně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 161,
+    "name" : "severně, směrem k Hearthome",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 269,
+    "name" : "venku",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 159,
+    "name" : "západně, směrem k Eterně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 146,
+    "name" : "jižně, směrem k Floaromě",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 25,
+    "name" : "Oblast 2",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 266,
+    "name" : "vchod do jeskyně",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 195,
+    "name" : "Vnitřek B",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 29,
+    "name" : "Oblast 6",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 162,
+    "name" : "východně, směrem k Pastorii",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 52,
+    "name" : "uvnitř",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 62,
+    "name" : "2. sloup",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 26,
+    "name" : "Oblast 3",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 193,
+    "name" : "Venku",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 63,
+    "name" : "3. sloup",
+    "local_language_id" : 10
+  },
+  {
+    "location_area_id" : 320,
+    "name" : "severně, směrem k Pewteru",
+    "local_language_id" : 10
+  }
+]

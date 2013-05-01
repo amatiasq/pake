@@ -1,0 +1,202 @@
+[
+  {
+    "increased_stat_id" : 2,
+    "id" : 1,
+    "likes_flavor_id" : 1,
+    "decreased_stat_id" : 2,
+    "identifier" : "hardy",
+    "hates_flavor_id" : 1
+  },
+  {
+    "increased_stat_id" : 3,
+    "id" : 2,
+    "likes_flavor_id" : 5,
+    "decreased_stat_id" : 2,
+    "identifier" : "bold",
+    "hates_flavor_id" : 1
+  },
+  {
+    "increased_stat_id" : 4,
+    "id" : 3,
+    "likes_flavor_id" : 2,
+    "decreased_stat_id" : 2,
+    "identifier" : "modest",
+    "hates_flavor_id" : 1
+  },
+  {
+    "increased_stat_id" : 5,
+    "id" : 4,
+    "likes_flavor_id" : 4,
+    "decreased_stat_id" : 2,
+    "identifier" : "calm",
+    "hates_flavor_id" : 1
+  },
+  {
+    "increased_stat_id" : 6,
+    "id" : 5,
+    "likes_flavor_id" : 3,
+    "decreased_stat_id" : 2,
+    "identifier" : "timid",
+    "hates_flavor_id" : 1
+  },
+  {
+    "increased_stat_id" : 2,
+    "id" : 6,
+    "likes_flavor_id" : 1,
+    "decreased_stat_id" : 3,
+    "identifier" : "lonely",
+    "hates_flavor_id" : 5
+  },
+  {
+    "increased_stat_id" : 3,
+    "id" : 7,
+    "likes_flavor_id" : 5,
+    "decreased_stat_id" : 3,
+    "identifier" : "docile",
+    "hates_flavor_id" : 5
+  },
+  {
+    "increased_stat_id" : 4,
+    "id" : 8,
+    "likes_flavor_id" : 2,
+    "decreased_stat_id" : 3,
+    "identifier" : "mild",
+    "hates_flavor_id" : 5
+  },
+  {
+    "increased_stat_id" : 5,
+    "id" : 9,
+    "likes_flavor_id" : 4,
+    "decreased_stat_id" : 3,
+    "identifier" : "gentle",
+    "hates_flavor_id" : 5
+  },
+  {
+    "increased_stat_id" : 6,
+    "id" : 10,
+    "likes_flavor_id" : 3,
+    "decreased_stat_id" : 3,
+    "identifier" : "hasty",
+    "hates_flavor_id" : 5
+  },
+  {
+    "increased_stat_id" : 2,
+    "id" : 11,
+    "likes_flavor_id" : 1,
+    "decreased_stat_id" : 4,
+    "identifier" : "adamant",
+    "hates_flavor_id" : 2
+  },
+  {
+    "increased_stat_id" : 3,
+    "id" : 12,
+    "likes_flavor_id" : 5,
+    "decreased_stat_id" : 4,
+    "identifier" : "impish",
+    "hates_flavor_id" : 2
+  },
+  {
+    "increased_stat_id" : 4,
+    "id" : 13,
+    "likes_flavor_id" : 2,
+    "decreased_stat_id" : 4,
+    "identifier" : "bashful",
+    "hates_flavor_id" : 2
+  },
+  {
+    "increased_stat_id" : 5,
+    "id" : 14,
+    "likes_flavor_id" : 4,
+    "decreased_stat_id" : 4,
+    "identifier" : "careful",
+    "hates_flavor_id" : 2
+  },
+  {
+    "increased_stat_id" : 4,
+    "id" : 15,
+    "likes_flavor_id" : 2,
+    "decreased_stat_id" : 5,
+    "identifier" : "rash",
+    "hates_flavor_id" : 4
+  },
+  {
+    "increased_stat_id" : 6,
+    "id" : 16,
+    "likes_flavor_id" : 3,
+    "decreased_stat_id" : 4,
+    "identifier" : "jolly",
+    "hates_flavor_id" : 2
+  },
+  {
+    "increased_stat_id" : 2,
+    "id" : 17,
+    "likes_flavor_id" : 1,
+    "decreased_stat_id" : 5,
+    "identifier" : "naughty",
+    "hates_flavor_id" : 4
+  },
+  {
+    "increased_stat_id" : 3,
+    "id" : 18,
+    "likes_flavor_id" : 5,
+    "decreased_stat_id" : 5,
+    "identifier" : "lax",
+    "hates_flavor_id" : 4
+  },
+  {
+    "increased_stat_id" : 5,
+    "id" : 19,
+    "likes_flavor_id" : 4,
+    "decreased_stat_id" : 5,
+    "identifier" : "quirky",
+    "hates_flavor_id" : 4
+  },
+  {
+    "increased_stat_id" : 6,
+    "id" : 20,
+    "likes_flavor_id" : 3,
+    "decreased_stat_id" : 5,
+    "identifier" : "naive",
+    "hates_flavor_id" : 4
+  },
+  {
+    "increased_stat_id" : 2,
+    "id" : 21,
+    "likes_flavor_id" : 1,
+    "decreased_stat_id" : 6,
+    "identifier" : "brave",
+    "hates_flavor_id" : 3
+  },
+  {
+    "increased_stat_id" : 3,
+    "id" : 22,
+    "likes_flavor_id" : 5,
+    "decreased_stat_id" : 6,
+    "identifier" : "relaxed",
+    "hates_flavor_id" : 3
+  },
+  {
+    "increased_stat_id" : 4,
+    "id" : 23,
+    "likes_flavor_id" : 2,
+    "decreased_stat_id" : 6,
+    "identifier" : "quiet",
+    "hates_flavor_id" : 3
+  },
+  {
+    "increased_stat_id" : 5,
+    "id" : 24,
+    "likes_flavor_id" : 4,
+    "decreased_stat_id" : 6,
+    "identifier" : "sassy",
+    "hates_flavor_id" : 3
+  },
+  {
+    "increased_stat_id" : 6,
+    "id" : 25,
+    "likes_flavor_id" : 3,
+    "decreased_stat_id" : 6,
+    "identifier" : "serious",
+    "hates_flavor_id" : 3
+  }
+]

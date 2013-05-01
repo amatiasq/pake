@@ -1,0 +1,170 @@
+[
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 1,
+    "name" : "Ball",
+    "awesome_name" : "Pomaceous"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 2,
+    "name" : "Squiggle",
+    "awesome_name" : "Caudal"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 3,
+    "name" : "Fish",
+    "awesome_name" : "Ichthyic"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 4,
+    "name" : "Arms",
+    "awesome_name" : "Brachial"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 5,
+    "name" : "Blob",
+    "awesome_name" : "Alvine"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 6,
+    "name" : "Upright",
+    "awesome_name" : "Sciurine"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 7,
+    "name" : "Legs",
+    "awesome_name" : "Crural"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 8,
+    "name" : "Quadruped",
+    "awesome_name" : "Mensal"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 9,
+    "name" : "Wings",
+    "awesome_name" : "Alar"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 10,
+    "name" : "Tentacles",
+    "awesome_name" : "Cilial"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 11,
+    "name" : "Heads",
+    "awesome_name" : "Polycephalic"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 12,
+    "name" : "Humanoid",
+    "awesome_name" : "Anthropomorphic"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 13,
+    "name" : "Bug wings",
+    "awesome_name" : "Lepidopterous"
+  },
+  {
+    "local_language_id" : 9,
+    "pokemon_shape_id" : 14,
+    "name" : "Armor",
+    "awesome_name" : "Chitinous"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 4,
+    "name" : "Dvouruký",
+    "awesome_name" : "Dvouruký"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 11,
+    "name" : "Složený",
+    "awesome_name" : "Složený"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 14,
+    "name" : "Obrněný",
+    "awesome_name" : "Obrněný"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 5,
+    "name" : "Kaňka",
+    "awesome_name" : "Kaňka"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 10,
+    "name" : "Ochapadlený",
+    "awesome_name" : "Ochapadlený"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 3,
+    "name" : null,
+    "awesome_name" : "Rybí"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 6,
+    "name" : "Vzpřímený",
+    "awesome_name" : "Vzpřímený"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 8,
+    "name" : "Čtyřnohý",
+    "awesome_name" : "Čtyřnohý"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 2,
+    "name" : "Hadovitý",
+    "awesome_name" : "Hadovitý"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 9,
+    "name" : "Ptačí",
+    "awesome_name" : "Ptačí"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 7,
+    "name" : "Dvounohý",
+    "awesome_name" : "Dvounohý"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 1,
+    "name" : null,
+    "awesome_name" : "Kulatý"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 12,
+    "name" : "Antropomorfní",
+    "awesome_name" : "Antropomorfní"
+  },
+  {
+    "local_language_id" : 10,
+    "pokemon_shape_id" : 13,
+    "name" : "Motýlovitý",
+    "awesome_name" : "Motýlovitý"
+  }
+]

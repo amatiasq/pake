@@ -1,0 +1,87 @@
+[
+  {
+    "id" : 1,
+    "type_id" : 1,
+    "identifier" : "aurora"
+  },
+  {
+    "id" : 2,
+    "type_id" : 10,
+    "identifier" : "ignis"
+  },
+  {
+    "id" : 3,
+    "type_id" : 11,
+    "identifier" : "fontaine"
+  },
+  {
+    "id" : 4,
+    "type_id" : 13,
+    "identifier" : "violight"
+  },
+  {
+    "id" : 5,
+    "type_id" : 12,
+    "identifier" : "greenleaf"
+  },
+  {
+    "id" : 6,
+    "type_id" : 15,
+    "identifier" : "nixtorm"
+  },
+  {
+    "id" : 7,
+    "type_id" : 2,
+    "identifier" : "pugilis"
+  },
+  {
+    "id" : 8,
+    "type_id" : 4,
+    "identifier" : "viperia"
+  },
+  {
+    "id" : 9,
+    "type_id" : 5,
+    "identifier" : "terrera"
+  },
+  {
+    "id" : 10,
+    "type_id" : 3,
+    "identifier" : "avia"
+  },
+  {
+    "id" : 11,
+    "type_id" : 14,
+    "identifier" : "illusio"
+  },
+  {
+    "id" : 12,
+    "type_id" : 7,
+    "identifier" : "chrysalia"
+  },
+  {
+    "id" : 13,
+    "type_id" : 6,
+    "identifier" : "cragspur"
+  },
+  {
+    "id" : 14,
+    "type_id" : 8,
+    "identifier" : "spectra"
+  },
+  {
+    "id" : 15,
+    "type_id" : 16,
+    "identifier" : "dragnor"
+  },
+  {
+    "id" : 16,
+    "type_id" : 17,
+    "identifier" : "yaksha"
+  },
+  {
+    "id" : 17,
+    "type_id" : 9,
+    "identifier" : "valora"
+  }
+]
